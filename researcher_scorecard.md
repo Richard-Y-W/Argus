@@ -4,13 +4,15 @@
 
 **Researcher:** Richard
 **Started:** 2026-07-09
-**Last updated:** 2026-07-09 (initialization — baseline not yet assessed)
+**Last updated:** 2026-07-09 (baseline set from self-report; unverified until module mastery checks)
 
 ---
 
-## Baseline (to be filled in during the first session)
+## Baseline (self-reported 2026-07-09)
 
-The honest starting point matters more than a flattering one. Before the first research cycle, the researcher should self-assess (and Argus should probe) the items below. It is expected and fine for most entries to start at "novice" — the entire point of this document is watching them move.
+Solid undergrad core: comfortable with calculus, linear algebra, and probability; limited exposure to econometrics and time series. Levels below are **self-reported and unverified** — each will be confirmed or corrected by the mastery checks in `learning_notes/foundations_curriculum.md`. Data access: free sources (Ken French, FRED, Yahoo) plus academic WRDS/CRSP/Compustat.
+
+First phase chosen by the researcher: **foundations first** (Modules 1–5), capstone = replication of the stylized facts of asset returns (Cont 2001).
 
 ## Literature
 
@@ -28,17 +30,17 @@ Mastery scale: `0 — unaware` · `1 — heard of it` · `2 — can follow` · `
 
 | Topic | Level | Confidence | Weaknesses | Next step |
 |-------|-------|-----------|------------|-----------|
-| Probability | ? | | | baseline assessment |
-| Linear algebra | ? | | | baseline assessment |
-| Statistics / inference | ? | | | baseline assessment |
-| Time series | ? | | | baseline assessment |
-| Econometrics | ? | | | baseline assessment |
-| Bayesian inference | ? | | | baseline assessment |
-| Optimization | ? | | | baseline assessment |
-| Statistical learning | ? | | | baseline assessment |
-| Stochastic calculus | ? | | | baseline assessment |
-| Information theory | ? | | | baseline assessment |
-| Measure theory | ? | | | baseline assessment |
+| Probability | 3 (self-rep.) | medium | conditional expectation as projection; heavy tails | Module 1 |
+| Linear algebra | 3 (self-rep.) | medium | projection geometry of OLS | Module 3 |
+| Statistics / inference | 2 (self-rep.) | low | multiple testing, bootstrap, power | Module 2 |
+| Time series | 1 (self-rep.) | low | stationarity, unit roots, GARCH | Module 4 |
+| Econometrics | 1 (self-rep.) | low | robust/HAC inference, OVB in finance | Module 3 |
+| Bayesian inference | 1 (self-rep.) | low | | Phase 2+ |
+| Optimization | 2 (self-rep.) | low | | Phase 2+ |
+| Statistical learning | 1 (self-rep.) | low | | Phase 2+ |
+| Stochastic calculus | 0–1 | — | | later |
+| Information theory | 0–1 | — | | later |
+| Measure theory | 0–1 | — | | later |
 
 ## Experimental Ability
 

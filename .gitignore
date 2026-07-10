@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+*.egg-info/
+
+# Raw data stays out of git — document provenance in datasets/ instead
+datasets/raw/
+*.parquet
+*.h5
+*.feather
+*.zip
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local-only settings
+.claude/settings.local.json

@@ -58,7 +58,7 @@ Mastery scale: `0 — unaware` · `1 — heard of it` · `2 — can follow` · `
 
 Record dated, concrete examples where the researcher: changed their mind after evidence; rejected an exciting but weak idea; identified overfitting; caught leakage; recognized publication bias; improved an experimental design; connected unrelated literature; generated an original research question.
 
-*(none yet — the first entry here will be a real milestone)*
+- **2026-07-09 — First committed pre-literature prediction.** Before reading McLean & Pontiff (2016), predicted the three-window return pattern for published anomalies. Got the story-1 timeline right; blended overfitting (story 2's explanation) with persistence (story 1's prediction) in one answer, and picked the wrong discriminating window (post-publication instead of post-sample-pre-publication). Lesson extracted: *each candidate mechanism must generate its own full set of predictions — a hypothesis is a row in a table, not a single timeline.* Details in `ideas/2026-07-09-anomaly-decay-prior.md`.
 
 ## Independent Thinking Index
 
@@ -67,3 +67,4 @@ Estimate: what fraction of the current research direction originates from the hu
 | Date | Human-originated direction | Evidence |
 |------|---------------------------|----------|
 | 2026-07-09 | ~0% (day zero) | Repository initialized by Argus from the charter |
+| 2026-07-09 (later) | ~15% | Researcher redirected the first cycle away from the math curriculum toward his own question (anomaly decay) and committed to falsifiable predictions before reading the literature |

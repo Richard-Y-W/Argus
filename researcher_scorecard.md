@@ -18,11 +18,12 @@ First phase chosen by the researcher: **foundations first** (Modules 1–5), cap
 
 | Metric | Count | Notes |
 |--------|-------|-------|
-| Papers read | 0 | |
-| Papers fully understood | 0 | "Fully understood" = could re-derive the core result and explain it to a skeptic |
-| Papers replicated | 0 | |
-| Landmark papers mastered | 0 | See `papers/landmark_reading_list.md` once created |
-| Research areas explored | 0 | |
+| Papers read (by researcher) | 0 | declined to read M&P 2016 (2026-07-10) — honest zero |
+| Papers digested via Argus summaries | 4 | M&P 2016, HLZ 2016 (partial), J&M 2020, C&Z 2022 |
+| Papers fully understood | 0 | "Fully understood" = could re-derive the core result and explain it to a skeptic. Researcher independently reconstructed most of M&P's *design logic* (2026-07-09) — close, not counted |
+| Papers replicated (by the lab) | 1 | EXP-001: M&P 2016 — executed by Argus, directed by researcher |
+| Landmark papers mastered | 0 | |
+| Research areas explored | 1 | cross-sectional anomaly decay |
 
 ## Mathematics
 
@@ -68,3 +69,4 @@ Estimate: what fraction of the current research direction originates from the hu
 |------|---------------------------|----------|
 | 2026-07-09 | ~0% (day zero) | Repository initialized by Argus from the charter |
 | 2026-07-09 (later) | ~15% | Researcher redirected the first cycle away from the math curriculum toward his own question (anomaly decay) and committed to falsifiable predictions before reading the literature |
+| 2026-07-10 | ~20% direction / ~0% execution | EXP-001 cycle: thread chosen by researcher, everything else (literature, hypothesis, design, code, write-up) by Argus. Growth risk flagged: delegated execution teaches nothing by itself — the five-minute digests and the EXP-002 design question are the countermeasure |

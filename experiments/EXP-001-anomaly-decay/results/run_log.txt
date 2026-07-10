@@ -1,0 +1,13 @@
+               spec  n_predictors  n_months_rows  mean_in_sample  beta_post_sample  se_post_sample  t_post_sample  beta_post_pub  se_post_pub  t_post_pub  decline_post_sample_pct  decline_post_pub_pct  postpub_mean  postpub_se  postpub_t
+            primary           212         136338           0.670            -0.247           0.064         -3.849         -0.369        0.057      -6.492                   36.810                55.140         0.333       0.044      7.637
+      R1_clear_only           165         107672           0.735            -0.265           0.073         -3.622         -0.422        0.064      -6.625                   36.083                57.370         0.348       0.051      6.845
+R2_positive_IS_only           208         132894           0.690            -0.252           0.065         -3.889         -0.378        0.059      -6.357                   36.589                54.749         0.345       0.045      7.583
+ R3_winsorized_1_99           212         136338           0.652            -0.231           0.060         -3.849         -0.342        0.053      -6.499                   35.387                52.460         0.341       0.040      8.548
+        R4_end_2019           212         124109           0.670            -0.248           0.064         -3.869         -0.409        0.058      -7.081                   37.040                61.086         0.301       0.045      6.655
+    R5_balanced_36m           187         118261           0.649            -0.225           0.066         -3.410         -0.349        0.058      -5.979                   34.600                53.717         0.337       0.046      7.273
+
+             count   mean    50%    25%    75%
+window                                        
+in_sample    212.0  0.687  0.575  0.370  0.877
+post_sample  212.0  0.409  0.369 -0.036  0.710
+post_pub     212.0  0.295  0.226  0.060  0.454

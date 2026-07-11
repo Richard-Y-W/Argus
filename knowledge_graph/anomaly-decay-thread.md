@@ -18,11 +18,15 @@
 [Q: why US-only?] (questions/)                 [EXP-002: placebo decay] ✓
                                                        │ residual placebo drift −0.11 escalates
                                                        ▼
-                                               [EXP-003: calendar time vs event time]
+                                               [EXP-003: calendar vs event time] ✓ partial
+                                                       │ event time wins; CST reframed;
+                                                       │ placebo drift still unresolved
+                                                       ▼
+                                               [EXP-004 candidate: spillover — placebo decay
+                                                vs correlation with published predictors]
                                                [candidate: event-time profile, SSRN dates]
-                                               [candidate: 2020–24 revival observation]
-                                               [candidate: spillover — placebo decay vs
-                                                correlation with published predictors]
+                                               [2020–24 revival: calendar-shaped per EXP-003
+                                                P3 (+0.22, t=1.8) — weakly resolved]
 ```
 
 ## Edge notes
@@ -32,3 +36,5 @@
 - C&Z placebos → EXP-002: the unused control group in the public data; sharpest cheap test available to this lab.
 - EXP-001 → EXP-002 (2026-07-11): control-group test passed — placebos show no post-sample decline and only −0.11%/mo post-publication drift; DiD γ₂ = −0.26 (t = −3.3) makes the decay predictor-specific. Failed side-prediction P4: screening placebos on positive long-sample mean does *not* induce post-sample decay → the selection that inflates published results operates through t-stat/specification search, not simple mean conditioning.
 - EXP-002 → EXP-003: the placebo post-publication drift is an upper bound on a common calendar-time trend (−0.11 of predictors' −0.37); separating event time from calendar time is now the binding threat to the causal story.
+- EXP-003 (2026-07-11): the threat is retired — 88% of the publication effect survives era controls; identification via staggered publication years. CST 2014's decimalization attenuation is reframed: in their pre-2001-published anomaly set, calendar break ≡ event time; with staggering, the era effect is +0.02 (t = 0.1). New facts: decay is flat in event time (arrives ≤5y, stays); the only significant era effect is *positive* (1993–2000, +0.22); 2020–24 revival is calendar-shaped but marginal (t = 1.8).
+- EXP-003 → EXP-004 candidate: placebo drift survived in point estimate (−0.09) but not significance under era controls — spillover vs noise is unresolved; the discriminating design is correlation-sorted placebo decay.

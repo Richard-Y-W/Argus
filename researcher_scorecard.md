@@ -19,7 +19,7 @@ First phase chosen by the researcher: **foundations first** (Modules 1–5), cap
 | Metric | Count | Notes |
 |--------|-------|-------|
 | Papers read (by researcher) | 0 | declined to read M&P 2016 (2026-07-10) — honest zero |
-| Papers digested via Argus summaries | 4 | M&P 2016, HLZ 2016 (partial), J&M 2020, C&Z 2022 |
+| Papers digested via Argus summaries | 5 | M&P 2016, HLZ 2016 (partial), J&M 2020, C&Z 2022, CST 2014 (digest pending researcher's return) |
 | Papers fully understood | 0 | "Fully understood" = could re-derive the core result and explain it to a skeptic. Researcher independently reconstructed most of M&P's *design logic* (2026-07-09) — close, not counted |
 | Papers replicated (by the lab) | 1 | EXP-001: M&P 2016 — executed by Argus, directed by researcher |
 | Landmark papers mastered | 0 | |
@@ -60,6 +60,7 @@ Mastery scale: `0 — unaware` · `1 — heard of it` · `2 — can follow` · `
 Record dated, concrete examples where the researcher: changed their mind after evidence; rejected an exciting but weak idea; identified overfitting; caught leakage; recognized publication bias; improved an experimental design; connected unrelated literature; generated an original research question.
 
 - **2026-07-09 — First committed pre-literature prediction.** Before reading McLean & Pontiff (2016), predicted the three-window return pattern for published anomalies. Got the story-1 timeline right; blended overfitting (story 2's explanation) with persistence (story 1's prediction) in one answer, and picked the wrong discriminating window (post-publication instead of post-sample-pre-publication). Lesson extracted: *each candidate mechanism must generate its own full set of predictions — a hypothesis is a row in a table, not a single timeline.* Details in `ideas/2026-07-09-anomaly-decay-prior.md`.
+- **2026-07-11 — (Argus calibration note, logged here for symmetry.)** Across EXP-002/003, four of Argus's registered predictions failed (EXP-002 P4; EXP-003 P2/P4/P6), all by over-predicting how visibly a mechanism would show up. The researcher should read the failed predictions before the passed ones — they are the honest part of the record, and spotting *why* they failed is this week's best training material. No researcher judgment events this cycle (researcher absent).
 
 ## Independent Thinking Index
 

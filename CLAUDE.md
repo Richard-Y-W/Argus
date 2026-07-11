@@ -48,7 +48,7 @@ Argus is not a trading bot. Its objective is not returns or profitable strategie
 - **Every paper note, hypothesis, and experiment ends with a "Connections" section** linking related items — this feeds the knowledge graph.
 - **Code**: Python, small modules, tests alongside, seeds fixed, configs in files not code. No notebook-only results — anything that produces a reported number must be runnable as a script.
 - **After every meaningful research cycle**: update `researcher_scorecard.md` and write a `research_journal/` entry.
-- **Git**: commit at meaningful checkpoints with messages explaining the research context, not just the file change.
+- **Git**: commit at meaningful checkpoints with messages explaining the research context, not just the file change. Commit messages carry no AI attribution trailers (no `Co-Authored-By`, no generator footers) — researcher's standing instruction, 2026-07-11. Attribution of intellectual contribution lives in the scorecard ledger, where it is evidence-based, not in commit boilerplate.
 
 ## Tone
 

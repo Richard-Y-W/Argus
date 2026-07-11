@@ -62,13 +62,15 @@ Record dated, concrete examples where the researcher: changed their mind after e
 - **2026-07-09 — First committed pre-literature prediction.** Before reading McLean & Pontiff (2016), predicted the three-window return pattern for published anomalies. Got the story-1 timeline right; blended overfitting (story 2's explanation) with persistence (story 1's prediction) in one answer, and picked the wrong discriminating window (post-publication instead of post-sample-pre-publication). Lesson extracted: *each candidate mechanism must generate its own full set of predictions — a hypothesis is a row in a table, not a single timeline.* Details in `ideas/2026-07-09-anomaly-decay-prior.md`.
 - **2026-07-11 — (Argus calibration note, logged here for symmetry.)** Across EXP-002/003, four of Argus's registered predictions failed (EXP-002 P4; EXP-003 P2/P4/P6), all by over-predicting how visibly a mechanism would show up. The researcher should read the failed predictions before the passed ones — they are the honest part of the record, and spotting *why* they failed is this week's best training material. No researcher judgment events this cycle (researcher absent).
 
-## Independent Thinking Index
+## Contribution Attribution Ledger
 
-Estimate: what fraction of the current research direction originates from the human?
+Each research cycle gets one of four levels (defined in the charter §Contribution Attribution): **AI-led** · **Human-directed** · **Collaborative** · **Human-led**. No percentages — the construct is not continuously measurable, and pretending otherwise is false precision. The evidence column carries the claim; the label only summarizes it.
 
-| Date | Human-originated direction | Evidence |
-|------|---------------------------|----------|
-| 2026-07-09 | ~0% (day zero) | Repository initialized by Argus from the charter |
-| 2026-07-09 (later) | ~15% | Researcher redirected the first cycle away from the math curriculum toward his own question (anomaly decay) and committed to falsifiable predictions before reading the literature |
-| 2026-07-10 | ~20% direction / ~0% execution | EXP-001 cycle: thread chosen by researcher, everything else (literature, hypothesis, design, code, write-up) by Argus. Growth risk flagged: delegated execution teaches nothing by itself — the five-minute digests and the EXP-002 design question are the countermeasure |
-| 2026-07-11 | ~10% direction / 0% execution | Researcher requested "2 cycles" but did not answer the EXP-002 design question left open on 2026-07-10 — the design-it-yourself opportunity lapsed and Argus designed it. Index *declines*: the day's direction ("run two cycles") delegates rather than directs. Countermeasure unchanged: digest questions remain open (EXP-002: spillover vs calendar trend; see results docs). This row is a flag, not a criticism — one missed day proves nothing; three would be a pattern |
+| Date | Work | Level | Evidence |
+|------|------|-------|----------|
+| 2026-07-09 | Repository + charter initialization | AI-led | Repository initialized by Argus from the charter |
+| 2026-07-09 | Anomaly-decay thread selection | Human-directed | Researcher redirected the first cycle away from the math curriculum toward his own question, and committed falsifiable three-window predictions before reading the literature (`ideas/2026-07-09-anomaly-decay-prior.md`) |
+| 2026-07-10 | EXP-001 (M&P replication) | Human-directed | Thread chosen by researcher; literature, hypothesis, design, code, and write-up by Argus. Growth risk flagged at the time: delegated execution teaches nothing by itself |
+| 2026-07-11 | EXP-002, EXP-003 | AI-led | Researcher requested "two cycles" and was otherwise absent; the EXP-002 design-it-yourself opportunity lapsed unanswered and Argus designed both experiments. One missed day proves nothing; three would be a pattern |
+
+**Standing target:** the next cycle (EXP-004, correlation-sorted placebo spillover) is reserved as the first **Human-led or Collaborative** entry — the researcher's prediction, mechanism, design, and postmortem, with Argus as critic and implementer. Worksheet: `experiments/EXP-004-placebo-spillover/researcher-worksheet.md`. An empty worksheet blocks the cycle; Argus does not run EXP-004 without it.

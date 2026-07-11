@@ -7,6 +7,7 @@
 - **Local files (gitignored, re-fetchable):**
   - `datasets/raw/PredictorPortsFull.parquet` — 1,226,794 rows: `signalname, port, date, ret, signallag, Nlong, Nshort`. `port == 'LS'` rows are monthly long-short returns in **percent**, signed so the original paper's direction gives positive in-sample means. Portfolio construction follows each original paper ("original paper" implementation).
   - `datasets/raw/SignalDoc.csv` — 331 signals × 29 columns. Key fields: `Acronym`, `Cat.Signal` (Predictor/Placebo), `Predictability in OP` (reproduction quality), `Year` (publication), `SampleStartYear`, `SampleEndYear`.
+  - `datasets/raw/PlaceboPortsFull.parquet` — 514,271 rows, same schema as PredictorPortsFull; acquired 2026-07-11. 114 placebo signals (`Cat.Signal == 'Placebo'`): characteristics from published papers that did **not** clearly claim return predictability. Two subtypes via `Predictability in OP`: `indirect` (n=100, predictability implied but not the paper's demonstrated claim) and `4_not` (n=14, paper explicitly found no predictability). **Signing:** placebo LS portfolios are signed by the direction implied in the original paper, *not* by in-sample performance — verified 2026-07-11: only 68% have positive in-sample mean LS (vs ~98% of predictors), and the `4_not` group's in-sample mean is ≈0.06%/mo. Not exposed by the `openassetpricing` package; fetched directly from the release Drive folder ("Full Sets OP"), file id `1kByPQWke42gzqb5ewHZPnXSXK6J56vgH`.
 - **Known biases / caveats:**
   - US CRSP/Compustat universe only.
   - Reproductions are approximate; quality flagged per signal.
@@ -15,4 +16,4 @@
 - **License:** data provided freely for research by the authors (CC BY-NC 4.0 per project site).
 
 ## Used by
-`experiments/EXP-001-anomaly-decay/`
+`experiments/EXP-001-anomaly-decay/` · `experiments/EXP-002-placebo-decay/`

@@ -4,7 +4,7 @@
 
 **Researcher:** Richard
 **Started:** 2026-07-09
-**Last updated:** 2026-07-09 (baseline set from self-report; unverified until module mastery checks)
+**Last updated:** 2026-07-11 (EXP-002 cycle — Argus-executed; researcher absent this cycle)
 
 ---
 
@@ -70,3 +70,4 @@ Estimate: what fraction of the current research direction originates from the hu
 | 2026-07-09 | ~0% (day zero) | Repository initialized by Argus from the charter |
 | 2026-07-09 (later) | ~15% | Researcher redirected the first cycle away from the math curriculum toward his own question (anomaly decay) and committed to falsifiable predictions before reading the literature |
 | 2026-07-10 | ~20% direction / ~0% execution | EXP-001 cycle: thread chosen by researcher, everything else (literature, hypothesis, design, code, write-up) by Argus. Growth risk flagged: delegated execution teaches nothing by itself — the five-minute digests and the EXP-002 design question are the countermeasure |
+| 2026-07-11 | ~10% direction / 0% execution | Researcher requested "2 cycles" but did not answer the EXP-002 design question left open on 2026-07-10 — the design-it-yourself opportunity lapsed and Argus designed it. Index *declines*: the day's direction ("run two cycles") delegates rather than directs. Countermeasure unchanged: digest questions remain open (EXP-002: spillover vs calendar trend; see results docs). This row is a flag, not a criticism — one missed day proves nothing; three would be a pattern |

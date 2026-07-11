@@ -1,0 +1,19 @@
+                   spec  n_signals  n_rows  mean_in_sample  beta_post_sample  t_post_sample  beta_post_pub  t_post_pub
+        primary_placebo        114   69712           0.209             0.082          1.193         -0.110      -2.550
+           R1a_indirect        100   60996           0.232             0.039          0.692         -0.119      -2.737
+   R1b_4not_descriptive         14    8716           0.057             0.369          1.749         -0.062      -0.563
+     R2_winsorized_1_99        114   69712           0.210             0.068          1.120         -0.105      -2.702
+            R3_end_2019        114   62998           0.209             0.070          1.038         -0.148      -3.413
+R4_selected_positive_IS         78   47395           0.486            -0.031         -0.519         -0.261      -5.228
+        R5_balanced_36m        104   62607           0.201             0.045          0.648         -0.144      -3.199
+   benchmark_predictors        212  136338           0.670            -0.247         -3.849         -0.369      -6.492
+
+          spec  n_signals  n_rows  beta_ps_placebo  t_beta_ps_placebo  beta_pp_placebo  t_beta_pp_placebo  gamma_ps_extra_pred  t_gamma_ps_extra_pred  gamma_pp_extra_pred  t_gamma_pp_extra_pred
+   did_primary        326  206050            0.082              1.193           -0.110             -2.550               -0.328                 -2.897               -0.259                 -3.316
+did_winsorized        326  206050            0.068              1.120           -0.105             -2.702               -0.299                 -2.919               -0.237                 -3.296
+
+             count   mean    50%    25%    75%
+window                                        
+in_sample    114.0  0.243  0.214 -0.057  0.506
+post_sample  114.0  0.336  0.207 -0.059  0.732
+post_pub     114.0  0.127  0.107 -0.169  0.378

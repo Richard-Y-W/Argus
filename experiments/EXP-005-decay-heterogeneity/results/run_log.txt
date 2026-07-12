@@ -1,0 +1,154 @@
+estimation sample: 188 predictors, 121977 predictor-months
+excluded for missing OP T-Stat: 24 predictors
+
+characteristic correlations (raw-space pairs z-scored):
+           op_t   vol  cites    rt  pubyear_z
+op_t       1.00 -0.16  -0.10  0.74       0.10
+vol       -0.16  1.00   0.05 -0.22      -0.03
+cites     -0.10  0.05   1.00 -0.13      -0.43
+rt         0.74 -0.22  -0.13  1.00       0.09
+pubyear_z  0.10 -0.03  -0.43  0.09       1.00
+
+== E1_primary_op_t_vol ==
+     term   coef    se      t
+       ps -0.255 0.074 -3.447
+       pp -0.379 0.057 -6.638
+ps_x_op_t -0.092 0.045 -2.062
+pp_x_op_t -0.151 0.029 -5.147
+ ps_x_vol -0.207 0.064 -3.228
+ pp_x_vol -0.153 0.048 -3.203
+
+== E3_plus_cites ==
+      term   coef    se      t
+        ps -0.258 0.075 -3.449
+        pp -0.385 0.057 -6.753
+ ps_x_op_t -0.094 0.044 -2.114
+ pp_x_op_t -0.147 0.029 -5.136
+  ps_x_vol -0.207 0.063 -3.278
+  pp_x_vol -0.157 0.048 -3.285
+ps_x_cites -0.013 0.056 -0.242
+pp_x_cites  0.050 0.029  1.697
+
+== E4_solo_op_t ==
+     term   coef    se      t
+       ps -0.252 0.070 -3.570
+       pp -0.387 0.059 -6.606
+ps_x_op_t -0.066 0.047 -1.401
+pp_x_op_t -0.125 0.030 -4.140
+
+== E4_solo_vol ==
+    term   coef    se      t
+      ps -0.259 0.075 -3.475
+      pp -0.384 0.057 -6.712
+ps_x_vol -0.190 0.066 -2.898
+pp_x_vol -0.129 0.048 -2.692
+
+== E4_solo_cites ==
+      term   coef    se      t
+        ps -0.258 0.072 -3.583
+        pp -0.396 0.058 -6.813
+ps_x_cites -0.019 0.057 -0.326
+pp_x_cites  0.049 0.030  1.619
+
+== R1_era_controls ==
+         term   coef    se      t
+           ps -0.254 0.065 -3.943
+           pp -0.343 0.114 -3.002
+    ps_x_op_t -0.088 0.048 -1.844
+    pp_x_op_t -0.151 0.029 -5.195
+     ps_x_vol -0.195 0.062 -3.148
+     pp_x_vol -0.155 0.048 -3.266
+era_1993_2000  0.235 0.091  2.585
+era_2001_2010  0.025 0.149  0.169
+era_2011_2019 -0.073 0.124 -0.594
+era_2020_2024  0.111 0.162  0.686
+
+== R2_pubyear_control ==
+        term   coef    se      t
+          ps -0.255 0.074 -3.440
+          pp -0.387 0.060 -6.494
+   ps_x_op_t -0.093 0.045 -2.082
+   pp_x_op_t -0.147 0.030 -4.938
+    ps_x_vol -0.210 0.063 -3.311
+    pp_x_vol -0.159 0.047 -3.374
+pp_x_pubyear -0.033 0.045 -0.745
+
+== R3_realized_t ==
+    term   coef    se      t
+      ps -0.254 0.075 -3.406
+      pp -0.377 0.057 -6.619
+ ps_x_rt -0.150 0.038 -4.000
+ pp_x_rt -0.201 0.028 -7.164
+ps_x_vol -0.219 0.065 -3.376
+pp_x_vol -0.167 0.049 -3.407
+
+== R4_winsorized ==
+     term   coef    se      t
+       ps -0.236 0.069 -3.411
+       pp -0.346 0.053 -6.459
+ps_x_op_t -0.098 0.042 -2.321
+pp_x_op_t -0.156 0.026 -6.069
+ ps_x_vol -0.193 0.061 -3.182
+ pp_x_vol -0.127 0.041 -3.081
+
+== R5_clear_only ==
+     term   coef    se      t
+       ps -0.288 0.081 -3.558
+       pp -0.409 0.064 -6.373
+ps_x_op_t -0.097 0.052 -1.871
+pp_x_op_t -0.160 0.032 -5.012
+ ps_x_vol -0.184 0.068 -2.728
+ pp_x_vol -0.176 0.053 -3.299
+
+== terciles ==
+ char tercile      window  mean    se  n_predictors
+ op_t  T1_low   in_sample 0.496 0.047            65
+ op_t  T1_low post_sample 0.227 0.107            65
+ op_t  T1_low    post_pub 0.248 0.041            65
+ op_t  T2_mid   in_sample 0.597 0.052            60
+ op_t  T2_mid post_sample 0.535 0.097            60
+ op_t  T2_mid    post_pub 0.306 0.077            60
+ op_t T3_high   in_sample 0.878 0.040            63
+ op_t T3_high post_sample 0.528 0.083            63
+ op_t T3_high    post_pub 0.394 0.053            63
+  vol  T1_low   in_sample 0.419 0.023            63
+  vol  T1_low post_sample 0.345 0.046            63
+  vol  T1_low    post_pub 0.165 0.023            63
+  vol  T2_mid   in_sample 0.595 0.040            62
+  vol  T2_mid post_sample 0.396 0.075            62
+  vol  T2_mid    post_pub 0.312 0.053            62
+  vol T3_high   in_sample 0.975 0.067            63
+  vol T3_high post_sample 0.536 0.192            63
+  vol T3_high    post_pub 0.467 0.093            63
+cites  T1_low   in_sample 0.726 0.036            63
+cites  T1_low post_sample 0.459 0.072            63
+cites  T1_low    post_pub 0.323 0.047            63
+cites  T2_mid   in_sample 0.591 0.046            64
+cites  T2_mid post_sample 0.330 0.110            64
+cites  T2_mid    post_pub 0.185 0.067            64
+cites T3_high   in_sample 0.688 0.049            61
+cites T3_high post_sample 0.486 0.136            61
+cites T3_high    post_pub 0.416 0.063            61
+
+== EW vs VW (descriptive only) ==
+              in_sample  post_pub  decline_pp
+stock_weight                                 
+EW                0.694     0.310       0.384
+VW                0.614     0.038       0.576
+== post-hoc: E1 + (ps,pp) x z(is_mean) — NOT REGISTERED ==
+       term   coef    se      t
+         ps -0.265 0.074 -3.595
+         pp -0.388 0.058 -6.716
+  ps_x_op_t -0.021 0.050 -0.419
+  pp_x_op_t -0.018 0.033 -0.552
+   ps_x_vol -0.126 0.073 -1.720
+   pp_x_vol -0.006 0.045 -0.133
+ps_x_ismean -0.130 0.060 -2.185
+pp_x_ismean -0.247 0.047 -5.228
+
+== post-hoc: windows + (ps,pp) x z(is_mean) only ==
+       term   coef    se      t
+         ps -0.259 0.071 -3.620
+         pp -0.390 0.058 -6.672
+ps_x_ismean -0.207 0.045 -4.593
+pp_x_ismean -0.257 0.043 -5.986

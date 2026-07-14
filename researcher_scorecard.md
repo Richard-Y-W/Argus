@@ -4,7 +4,7 @@
 
 **Researcher:** Richard
 **Started:** 2026-07-09
-**Last updated:** 2026-07-14 (EXP-006/007 — Argus-executed; researcher absent)
+**Last updated:** 2026-07-14 (autonomy policy + EXP-004 — Argus-executed)
 
 ---
 
@@ -52,7 +52,7 @@ Mastery scale: `0 — unaware` · `1 — heard of it` · `2 — can follow` · `
 | Replications completed | 0 |
 | Novel experiments | 0 |
 | Robustness analyses | 0 |
-| Negative results documented | 3 (EXP-005/006/007 at lab level; researcher not yet author of one) |
+| Negative results documented | 4 (EXP-004/005/006/007 at lab level; researcher not yet author of one) |
 | Statistical mistakes caught before execution | 0 |
 
 ## Scientific Judgment — Milestone Log
@@ -76,5 +76,6 @@ Each research cycle gets one of four levels (defined in the charter §Contributi
 | 2026-07-11 | EXP-002, EXP-003 | AI-led | Researcher requested "two cycles" and was otherwise absent; the EXP-002 design-it-yourself opportunity lapsed unanswered and Argus designed both experiments. One missed day proves nothing; three would be a pattern |
 | 2026-07-12 | EXP-005 (rejected: decay is scale-proportional) | AI-led | Researcher requested "another cycle … with something else" and was otherwise absent. EXP-004 worksheet remains empty (day two of the lapse noted above); the reserved human-led slot held. Two prediction questions now await him: the EXP-004 worksheet and the EXP-005 digest's placebo-drift numbers |
 | 2026-07-14 | EXP-006/007 (sample length rejected; cohort strengthening not supported) | AI-led | Researcher requested two more cycles; Argus selected, registered, implemented, and interpreted both. EXP-004's human-led gate remained untouched. |
+| 2026-07-14 | Autonomous-lab policy, sandbox, lineage review, and EXP-004 | AI-led | Researcher explicitly removed worksheet gates and directed Argus to investigate arbitrage and keep testing. Argus designed and executed the spillover test and infrastructure; the intellectual contribution is therefore AI-led within a human-directed topic. |
 
-**Standing target:** the next cycle (EXP-004, correlation-sorted placebo spillover) is reserved as the first **Human-led or Collaborative** entry — the researcher's prediction, mechanism, design, and postmortem, with Argus as critic and implementer. Worksheet: `experiments/EXP-004-placebo-spillover/researcher-worksheet.md`. An empty worksheet blocks the cycle; Argus does not run EXP-004 without it.
+**Operating target:** research proceeds autonomously when the researcher is busy. Human input is welcomed but never required; contribution labels must continue to distinguish topic direction from hypothesis design and execution.

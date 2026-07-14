@@ -18,5 +18,6 @@ def clustered_mean(values: pd.Series, groups: pd.Series) -> tuple[float, float, 
     result = sm.OLS(frame["value"], np.ones((len(frame), 1))).fit(
         cov_type="cluster", cov_kwds={"groups": frame["group"]}
     )
-    mean, se = float(result.params.iloc[0]), float(result.bse.iloc[0])
+    mean = float(result.params.iloc[0] if hasattr(result.params, "iloc") else result.params[0])
+    se = float(result.bse.iloc[0] if hasattr(result.bse, "iloc") else result.bse[0])
     return mean, se, mean / se

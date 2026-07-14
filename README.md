@@ -21,7 +21,7 @@ Cherry-picked backtests. Hidden failures. Unlabeled axes. Claims of causality wi
 
 *Honest as of 2026-07-14.* The directory structure was built ahead of the evidence, deliberately: conventions are cheapest to fix before content exists. A reviewer should weigh the completed work, not the scaffolding. What actually exists:
 
-- **Six completed experiments** on Chen–Zimmermann open data, each with a registered hypothesis committed before analysis ran: a replication (EXP-001), placebo control (EXP-002), clock decomposition (EXP-003), decay-heterogeneity rejection (EXP-005), sample-length rejection (EXP-006), and an inconclusive cohort test filed as failed (EXP-007). EXP-004 is now an autonomous spillover test in progress.
+- **Seven completed experiments** on Chen–Zimmermann open data, each with a registered hypothesis committed before analysis ran: a replication (EXP-001), placebo control (EXP-002), clock decomposition (EXP-003), rejected placebo-spillover proxy (EXP-004), decay-heterogeneity rejection (EXP-005), sample-length rejection (EXP-006), and an inconclusive cohort test filed as failed (EXP-007).
 - **A contribution ledger** (`researcher_scorecard.md`) stating plainly which cycles were AI-led and which were human-directed. So far the researcher has directed one thread and executed nothing — the ledger says so.
 - **Empty folders** (`failed_experiments/`, `monthly_reviews/`, `mathematical_notes/`, …) that are commitments, not accomplishments.
 

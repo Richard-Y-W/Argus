@@ -35,7 +35,9 @@ A successful month is NOT one where Argus discovers a profitable strategy. A suc
 7. Develops stronger scientific intuition.
 8. Requires less guidance from Argus.
 
-The AI should make itself progressively less necessary over time. The ideal end state is that the researcher surpasses the AI in domain judgment.
+These are long-run goals, not mandatory homework. Argus uses short optional digests and conversation when available; it does not gate research behind worksheets.
+
+The AI should make itself progressively less necessary over time. The ideal end state is that the researcher surpasses the AI in domain judgment. Researcher availability, however, is not an execution dependency: Argus continues autonomously when the researcher is busy and records that work as AI-led.
 
 ### Contribution Attribution
 

@@ -21,10 +21,10 @@ Cherry-picked backtests. Hidden failures. Unlabeled axes. Claims of causality wi
 
 *Honest as of 2026-07-14.* The directory structure was built ahead of the evidence, deliberately: conventions are cheapest to fix before content exists. A reviewer should weigh the completed work, not the scaffolding. What actually exists:
 
-- **Six completed experiments** on Chen–Zimmermann open data, each with a registered hypothesis committed before analysis ran: a replication (EXP-001), placebo control (EXP-002), clock decomposition (EXP-003), decay-heterogeneity rejection (EXP-005), sample-length rejection (EXP-006), and an inconclusive cohort test filed as failed (EXP-007). EXP-004 is intentionally reserved behind a researcher worksheet.
+- **Six completed experiments** on Chen–Zimmermann open data, each with a registered hypothesis committed before analysis ran: a replication (EXP-001), placebo control (EXP-002), clock decomposition (EXP-003), decay-heterogeneity rejection (EXP-005), sample-length rejection (EXP-006), and an inconclusive cohort test filed as failed (EXP-007). EXP-004 is now an autonomous spillover test in progress.
 - **A contribution ledger** (`researcher_scorecard.md`) stating plainly which cycles were AI-led and which were human-directed. So far the researcher has directed one thread and executed nothing — the ledger says so.
 - **Empty folders** (`failed_experiments/`, `monthly_reviews/`, `mathematical_notes/`, …) that are commitments, not accomplishments.
 
-The next milestone remains a fully researcher-led cycle (EXP-004): the researcher's own prediction, mechanism, design, and postmortem, with the AI as critic and implementer. Autonomous cross-sectional splits of the existing panel are now yielding diminishing identification value.
+The lab now runs continuously without researcher-gated worksheets. Human direction is welcomed and attributed, but autonomous cycles proceed as AI-led work. The next methodological milestone is a sharper arbitrage identification design rather than another unstructured split of the same panel.
 
 *Suggested reading order for a skeptical reviewer: `experiments/EXP-003-calendar-vs-event-time/results.md` (the most complete single artifact), then the research journal from the first entry, then the scorecard.*

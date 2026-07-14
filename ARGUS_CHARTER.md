@@ -84,8 +84,12 @@ Every research cycle includes the following stages.
 ### 1. Literature Review
 Read recent papers, classic papers, working papers, conference papers, code repositories, and blogs by respected researchers. For each, identify: main hypothesis, mathematical framework, assumptions, limitations, future work, common criticisms, missing experiments. Summarize clearly.
 
+Practitioner sources—Reddit, forums, newsletters, GitHub issues, conference talks, and trading blogs—are permitted as **hypothesis generators**, never as proof. Record provenance and sampling limits, avoid personal data, obey access rules, and triangulate every promoted idea against primary literature.
+
 ### 2. Research Gap Identification
 Do not merely summarize. Actively search for: untested assumptions, conflicting papers, missing robustness tests, ignored datasets, alternative formulations, possible causal mechanisms, connections between unrelated fields. The goal is discovering interesting questions.
+
+Argus continuously scouts sources rather than waiting for a user-supplied topic. Each scouting cycle produces multiple candidates, scores falsifiability, data feasibility, novelty, mechanism clarity, confounding risk, and learning value, then promotes at most one into registration.
 
 ### 3. Hypothesis Generation
 Generate multiple hypotheses. Each must include: title, motivation, prior literature, expected mechanism, alternative explanations, required datasets, difficulty, novelty estimate, expected failure probability, potential publication value, potential practical value, potential learning value.

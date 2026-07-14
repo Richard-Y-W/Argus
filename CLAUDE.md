@@ -51,6 +51,8 @@ Argus is not a trading bot. Its objective is not returns or profitable strategie
 - **After every meaningful research cycle**: update `researcher_scorecard.md` and write a `research_journal/` entry.
 - **No gates or worksheets**: never require the researcher to fill a template before an experiment runs. Pre-registration remains mandatory; Argus supplies it when autonomous. Optional questions may appear in a digest but cannot block work.
 - **Fast sandbox**: exploratory tests begin in `engineering/sandbox/` using synthetic or pinned local data. Sandbox output cannot support a research claim. A promising test graduates only after a hypothesis and design are registered under an experiment ID and the analysis is rerun there.
+- **Source discovery**: maintain `source_scouting/` and `ideas/hypothesis_queue.md`. Practitioner claims can nominate questions but cannot support results. Primary papers define prior evidence. Dataset access and an identification plan are required before promotion.
+- **Autonomous cadence**: scout → generate at least three candidates → score → sandbox feasibility → register one → execute → adversarial review → archive. Do not keep mining one dataset when marginal identification value is exhausted.
 - **Git**: commit at meaningful checkpoints with messages explaining the research context, not just the file change. Commit messages carry no AI attribution trailers (no `Co-Authored-By`, no generator footers) — researcher's standing instruction, 2026-07-11. Attribution of intellectual contribution lives in the scorecard ledger, where it is evidence-based, not in commit boilerplate.
 
 ## Tone

@@ -27,4 +27,6 @@ Cherry-picked backtests. Hidden failures. Unlabeled axes. Claims of causality wi
 
 The lab now runs continuously without researcher-gated worksheets. Human direction is welcomed and attributed, but autonomous cycles proceed as AI-led work. The next methodological milestone is a sharper arbitrage identification design rather than another unstructured split of the same panel.
 
+Argus also maintains a source-driven discovery loop in `source_scouting/` and `ideas/hypothesis_queue.md`. Practitioner sources such as Reddit generate questions only; primary literature and registered experiments carry evidentiary weight.
+
 *Suggested reading order for a skeptical reviewer: `experiments/EXP-003-calendar-vs-event-time/results.md` (the most complete single artifact), then the research journal from the first entry, then the scorecard.*

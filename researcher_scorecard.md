@@ -4,7 +4,7 @@
 
 **Researcher:** Richard
 **Started:** 2026-07-09
-**Last updated:** 2026-07-12 (EXP-005 cycle — Argus-executed; researcher absent this cycle)
+**Last updated:** 2026-07-14 (EXP-006/007 — Argus-executed; researcher absent)
 
 ---
 
@@ -52,7 +52,7 @@ Mastery scale: `0 — unaware` · `1 — heard of it` · `2 — can follow` · `
 | Replications completed | 0 |
 | Novel experiments | 0 |
 | Robustness analyses | 0 |
-| Negative results documented | 1 (EXP-005, lab-level: first `failed_experiments/` entry; researcher not yet author of one) |
+| Negative results documented | 3 (EXP-005/006/007 at lab level; researcher not yet author of one) |
 | Statistical mistakes caught before execution | 0 |
 
 ## Scientific Judgment — Milestone Log
@@ -62,6 +62,7 @@ Record dated, concrete examples where the researcher: changed their mind after e
 - **2026-07-09 — First committed pre-literature prediction.** Before reading McLean & Pontiff (2016), predicted the three-window return pattern for published anomalies. Got the story-1 timeline right; blended overfitting (story 2's explanation) with persistence (story 1's prediction) in one answer, and picked the wrong discriminating window (post-publication instead of post-sample-pre-publication). Lesson extracted: *each candidate mechanism must generate its own full set of predictions — a hypothesis is a row in a table, not a single timeline.* Details in `ideas/2026-07-09-anomaly-decay-prior.md`.
 - **2026-07-11 — (Argus calibration note, logged here for symmetry.)** Across EXP-002/003, four of Argus's registered predictions failed (EXP-002 P4; EXP-003 P2/P4/P6), all by over-predicting how visibly a mechanism would show up. The researcher should read the failed predictions before the passed ones — they are the honest part of the record, and spotting *why* they failed is this week's best training material. No researcher judgment events this cycle (researcher absent).
 - **2026-07-12 — (Argus calibration, continued: the miss pattern is now a standing rule.)** EXP-005 added two more directional misses (P2 volatility sign, P3 citations sign) *and* a subtler failure: P1 passed its registered decision rule yet its mechanism interpretation was overturned by a one-regressor scale diagnostic. Running total: 6 of 16 registered predictions failed, every miss from over-predicting mechanism visibility. Standing rule adopted: no Argus mechanism claim is reported without a scale/composition diagnostic beside it. Teaching value for the researcher: *a registered pass is not a mechanism* — see the EXP-005 digest. No researcher judgment events this cycle (researcher absent).
+- **2026-07-14 — Two more mechanism bets mostly fail.** EXP-006 rejected all three registered predictions; EXP-007 passed one magnitude-only prediction but failed its primary and robustness predictions. The lab correctly resisted promoting the positive cohort contrast. No researcher judgment event: researcher absent.
 
 ## Contribution Attribution Ledger
 
@@ -74,5 +75,6 @@ Each research cycle gets one of four levels (defined in the charter §Contributi
 | 2026-07-10 | EXP-001 (M&P replication) | Human-directed | Thread chosen by researcher; literature, hypothesis, design, code, and write-up by Argus. Growth risk flagged at the time: delegated execution teaches nothing by itself |
 | 2026-07-11 | EXP-002, EXP-003 | AI-led | Researcher requested "two cycles" and was otherwise absent; the EXP-002 design-it-yourself opportunity lapsed unanswered and Argus designed both experiments. One missed day proves nothing; three would be a pattern |
 | 2026-07-12 | EXP-005 (rejected: decay is scale-proportional) | AI-led | Researcher requested "another cycle … with something else" and was otherwise absent. EXP-004 worksheet remains empty (day two of the lapse noted above); the reserved human-led slot held. Two prediction questions now await him: the EXP-004 worksheet and the EXP-005 digest's placebo-drift numbers |
+| 2026-07-14 | EXP-006/007 (sample length rejected; cohort strengthening not supported) | AI-led | Researcher requested two more cycles; Argus selected, registered, implemented, and interpreted both. EXP-004's human-led gate remained untouched. |
 
 **Standing target:** the next cycle (EXP-004, correlation-sorted placebo spillover) is reserved as the first **Human-led or Collaborative** entry — the researcher's prediction, mechanism, design, and postmortem, with Argus as critic and implementer. Worksheet: `experiments/EXP-004-placebo-spillover/researcher-worksheet.md`. An empty worksheet blocks the cycle; Argus does not run EXP-004 without it.

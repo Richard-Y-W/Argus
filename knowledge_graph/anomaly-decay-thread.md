@@ -37,6 +37,10 @@
                                                 proportional arbitrage from shrinkage]
                                                [candidate: VW/EW correction gap, registered,
                                                 C&Z alt ports (descriptive: 94% vs 55%)]
+                                                       │
+                                                       ▼
+                                               [EXP-006: sample-length discriminator] ✗
+                                               [EXP-007: cohort strengthening] ?/✗
 ```
 
 ## Edge notes
@@ -51,3 +55,5 @@
 - EXP-003 → EXP-005 (2026-07-12): first rejected hypothesis. Registered heterogeneity tests "passed" (pp × OP-t −0.151, t = −5.1) but a labeled post-hoc showed all characteristic interactions are absorbed by pp × in-sample mean (−0.247, t = −5.2): decay is a ~50% proportional haircut, not characteristic-targeted. Realized-t interaction (−0.201) > OP-t interaction (−0.151) — the ordering shrinkage predicts. Citations interaction *positive* (t = 1.7): famous factors endure, post-treatment caveat both ways. Method lesson of record: levels-interactions confound rate with scale; a registered pass is not a mechanism.
 - EXP-005 → EXP-004: placebos have no in-sample edge, so the scale result predicts ~zero placebo decay from shrinkage alone — any drift concentrated in predictor-correlated placebos becomes cleanly attributable to spillover. The researcher's worksheet question is now sharper than when it was posed.
 - EXP-005 → M&P re-read flag: their Tables 5–6 heterogeneity (higher in-sample return/t → more decay) may be the same scale confound; check whether they control for in-sample mean when interacting.
+- EXP-005 → EXP-006 (2026-07-14): sample length fails as a cheap shrinkage discriminator. Retention-length slope +0.033 (t=0.90); long histories retain 8.1 points less, not 10 points more. This rejects the prediction, not shrinkage in general.
+- EXP-005 → EXP-007 (2026-07-14): newest cohort raw decay exceeds oldest by 19.5 points, but the primary controlled year slope is negative and insignificant and robustness signs conflict. Equal-60-month evidence is positive (t=2.45). Filed as not supported/inconclusive.

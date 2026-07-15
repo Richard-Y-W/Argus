@@ -1,32 +1,123 @@
 # Argus
 
-An autonomous quantitative finance **research laboratory** — not a trading bot.
+Argus is an autonomous quantitative-finance **research laboratory**. It discovers questions, traces them through the literature, preregisters falsifiable hypotheses, runs reproducible tests, and keeps failures at the same resolution as successes.
 
-Argus exists to do one thing: compress a multi-year research apprenticeship into the shortest honest timeframe, by pairing a human researcher with an AI that acts as mentor, scientist, critic, and archivist. The measure of success is not returns. It is the growth of the researcher and the compounding of documented, reproducible knowledge.
+It is not a trading bot, an alpha claim, or financial advice. Its objective is to compound credible knowledge while making the difference between evidence, mechanism, and tradability explicit.
 
-- **Founding document:** [`ARGUS_CHARTER.md`](ARGUS_CHARTER.md)
-- **Operating conventions:** [`CLAUDE.md`](CLAUDE.md)
-- **Researcher growth record:** [`researcher_scorecard.md`](researcher_scorecard.md)
-- **The story so far:** [`research_journal/`](research_journal/)
+[Charter](ARGUS_CHARTER.md) · [Operating rules](CLAUDE.md) · [Senior quant review](monthly_reviews/2026-07-14-senior-quant-review.md) · [Research journal](research_journal/) · [Hypothesis queue](ideas/hypothesis_queue.md)
 
-## What you will find here
+## Evidence at a glance
 
-Papers read and criticized. Hypotheses debated before they were tested. Experiments designed with controls, baselines, and leakage checks. Failed experiments documented with the same care as successes — most hypotheses *should* fail. Mathematical notes. Weekly meta-learning reviews. A knowledge graph connecting all of it.
+Nine experiments have been preregistered and completed on the Chen–Zimmermann open asset-pricing panel. The strongest result is not a strategy: it is a sequence of attempts to explain why published return predictors weaken.
 
-## What you will not find here
+![Predictors decay after publication while published placebos do not show the same pattern](visualizations/generated/publication_decay.png)
 
-Cherry-picked backtests. Hidden failures. Unlabeled axes. Claims of causality without evidence. Strategies sold as products.
+EXP-001 replicated the three-window publication-decay pattern. EXP-002 added published placebo characteristics as a control group. EXP-003 showed that the staggered publication clock explains more than common calendar eras. Later experiments attacked mechanism claims and mostly rejected them.
 
-## Current state — read this before judging the architecture
+![Experiment verdict history](visualizations/generated/experiment_verdicts.png)
 
-*Honest as of 2026-07-14.* The directory structure was built ahead of the evidence, deliberately: conventions are cheapest to fix before content exists. A reviewer should weigh the completed work, not the scaffolding. What actually exists:
+That distribution is intentional. A laboratory where nearly every hypothesis survives is probably optimizing its questions after seeing outcomes.
 
-- **Nine completed experiments** on Chen–Zimmermann open data, each with a registered hypothesis committed before analysis ran. The latest two reject post-publication correlation crowding under the registered design (EXP-008) and show that the raw VW/EW decay gap does not survive composition controls (EXP-009).
-- **A contribution ledger** (`researcher_scorecard.md`) stating plainly which cycles were AI-led and which were human-directed. So far the researcher has directed one thread and executed nothing — the ledger says so.
-- **Empty folders** (`failed_experiments/`, `monthly_reviews/`, `mathematical_notes/`, …) that are commitments, not accomplishments.
+## What the lab currently knows
 
-The lab now runs continuously without researcher-gated worksheets. Human direction is welcomed and attributed, but autonomous cycles proceed as AI-led work. The next methodological milestone is a sharper arbitrage identification design rather than another unstructured split of the same panel.
+- Published US predictors lose roughly 37% of their in-sample return after the original sample ends and 55% after publication; about 0.33% per month remains gross of costs.
+- Published placebo characteristics do not reproduce the same two-stage pattern. Predictor-minus-placebo post-publication decay is economically and statistically material.
+- Publication event time survives calendar-era controls; a common 2001 market-structure break does not explain the result in this staggered panel.
+- Apparent targeting of high-t-stat or volatile predictors is absorbed by in-sample signal scale. The decay resembles a proportional haircut, not selective hunting.
+- Sample length, publication cohort, return-correlation spillover, common-predictor crowding, and between-signal EW/VW labels do not cleanly identify the arbitrage mechanism.
 
-Argus also maintains a source-driven discovery loop in `source_scouting/` and `ideas/hypothesis_queue.md`. Practitioner sources such as Reddit generate questions only; primary literature and registered experiments carry evidentiary weight.
+![Raw weighting difference becomes imprecise after controls](visualizations/generated/weighting_gap.png)
 
-*Suggested reading order for a skeptical reviewer: `experiments/EXP-003-calendar-vs-event-time/results.md` (the most complete single artifact), then the research journal from the first entry, then the scorecard.*
+The honest boundary: Argus has evidence about return decay around publication. It does not yet have direct evidence about who traded, how much capital entered, implementation costs, or price impact.
+
+## How autonomous research works
+
+```text
+primary literature + datasets + practitioner sources
+                         │
+                         ▼
+                  source scouting
+                         │
+          competing mechanisms and hypotheses
+                         │
+               data/identification feasibility
+                         │
+            exploratory sandbox (no claims)
+                         │
+                  Git preregistration
+                         │
+              deterministic experiment
+                         │
+       adversarial review + failure preservation
+                         │
+             journal, scorecard, knowledge graph
+```
+
+Reddit, forums, blogs, and practitioner conversations generate questions only. Primary sources establish prior evidence; registered experiments carry claims. See [source scouting](source_scouting/) and the [live queue](ideas/hypothesis_queue.md).
+
+## Repository map
+
+| Path | Purpose |
+|---|---|
+| `hypotheses/` | Registered predictions and falsifiers |
+| `experiments/` | Designs, deterministic code, tables, and results |
+| `failed_experiments/` | Negative/inconclusive results as first-class records |
+| `papers/`, `literature_reviews/` | Paper deconstruction and research lineage |
+| `source_scouting/`, `ideas/` | Autonomous discovery and candidate triage |
+| `engineering/argus_lab/` | Canonical loaders, statistics, and integrity checks |
+| `engineering/sandbox/` | Fast exploratory probes that cannot support claims |
+| `datasets/` | Provenance, schemas, and release fingerprints; raw data is ignored |
+| `knowledge_graph/` | Links among claims, datasets, methods, and failures |
+| `research_journal/`, `researcher_scorecard.md` | Narrative and contribution attribution |
+| `visualizations/` | Reproducible figures generated from committed outputs |
+
+## Reproduce and verify
+
+Python 3.11 is the reference runtime.
+
+```powershell
+python -m venv .venv
+.venv\Scripts\Activate.ps1
+pip install -r requirements-lock.txt
+pytest engineering\tests
+python engineering\verify_repository.py
+python visualizations\repo_overview.py
+```
+
+Raw C&Z files are intentionally excluded from Git. Acquisition and provenance are documented in [the dataset record](datasets/chen_zimmermann_oct2025.md); SHA-256 fingerprints are committed in [the manifest](datasets/manifest.json).
+
+Official alternative portfolios can be acquired with:
+
+```powershell
+python engineering\acquire_alternative_ports.py deciles_ew deciles_vw
+```
+
+CI runs the data-independent unit suite and compilation checks. Local verification additionally checks licensed/raw dataset fingerprints.
+
+## Current institutional assessment
+
+| Dimension | Grade | Reason |
+|---|---:|---|
+| Scientific honesty | A− | Registration, visible failures, bounded language |
+| Empirical identification | B− | Strong controls, but one US panel and coarse dates |
+| Research breadth | C− | Nine cycles, one dominant research thread |
+| Engineering | C+ | Tests, CI, canonical loaders, fingerprints; migration incomplete |
+| Alpha/trading readiness | D | Gross returns, no costs/capacity/risk model |
+
+The project is a credible early research record, not institutional alpha infrastructure. Read the full [senior review](monthly_reviews/2026-07-14-senior-quant-review.md).
+
+## Next research phase
+
+1. Run within-signal EW/VW and liquidity-screen comparisons using official alternative portfolios.
+2. Add direct trading quantities: short interest, turnover, holdings, lending fees, flows, or price impact.
+3. Replicate the strongest result in a second market or data family.
+4. Migrate experiments to the canonical loader and add regression golden tests.
+5. Only after those steps, evaluate net-of-cost magnitude, risk, capacity, and portfolio construction.
+
+## Suggested skeptical reading order
+
+1. [EXP-003 results](experiments/EXP-003-calendar-vs-event-time/results.md)
+2. [EXP-005 rejection](experiments/EXP-005-decay-heterogeneity/results.md)
+3. [Publication-to-arbitrage lineage](literature_reviews/2026-07-14-publication-arbitrage-lineage.md)
+4. [Senior quant review](monthly_reviews/2026-07-14-senior-quant-review.md)
+5. [Research journal](research_journal/)

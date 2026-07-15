@@ -1,0 +1,14 @@
+name: research-integrity
+on: [push, pull_request]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.11"}
+      - run: pip install -r requirements-lock.txt
+      - run: pytest engineering/tests
+      - run: python -m py_compile engineering/argus_lab/*.py engineering/source_ingestion/*.py
+      - name: Raw-data note
+        run: echo "Raw licensed data is intentionally absent from CI; local hashes are verified by engineering/verify_repository.py"

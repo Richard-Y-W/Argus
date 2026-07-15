@@ -1,0 +1,11 @@
+{
+  "release": "Chen-Zimmermann 2025.10",
+  "panel_end": "2024-12",
+  "files": {
+    "PredictorPortsFull.parquet": {"sha256": "2464b3f608ba076f0c3d1bc64af80070f967c0d57c57219ded726a08e0a7cc44"},
+    "PlaceboPortsFull.parquet": {"sha256": "f6237646b8336b1434ef4ba94610a5cafdA25bdaabc6324b6ac8b645011ba936"},
+    "SignalDoc.csv": {"sha256": "b126a3d2f81452f275503878c06c94c283f0159bdae6e623dfcc1e293f4f9fc9"},
+    "deciles_ew.parquet": {"sha256": "86471069471378a9609d38fcfa17314f0dbc121cd84832a6181c3719ff4b8591"},
+    "deciles_vw.parquet": {"sha256": "7f625a15ac2fd8aeb2a444463b2486ba22b41edb7ea8e9dd2da12176738921ad"}
+  }
+}

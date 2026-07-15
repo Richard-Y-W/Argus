@@ -1,0 +1,26 @@
+SAMPLE FLOW
+eligible_metadata_signals    212
+paired_monthly_signals       179
+signals_with_both_windows    179
+signals_with_min_months      179
+primary_signals              152
+
+SUMMARY
+                spec            metric   n     mean       se        t    ci_low  ci_high   median  positive_share
+             primary decay_vw_minus_ew 152 0.141441 0.080218 1.763215 -0.017053 0.299935 0.020977        0.500000
+secondary_levels_did        levels_did 152 0.051179 0.033134 1.544617 -0.014287 0.116645 0.000000        0.493421
+  robust_winsor_5_95 decay_vw_minus_ew 152 0.151177 0.061538 2.456658  0.029591 0.272764 0.020977        0.500000
+   robust_clear_only decay_vw_minus_ew 122 0.135849 0.086469 1.571080 -0.035338 0.307036 0.020977        0.500000
+
+FIVE LOWEST / HIGHEST PRIMARY DIFFERENCES
+               signalname  decay_diff_vw_minus_ew
+EarningsForecastDisparity               -3.906296
+                     Herf               -3.153412
+              PayoutYield               -2.163344
+              VolumeTrend               -1.990794
+                     Cash               -1.968069
+             BidAskSpread                4.539908
+           NetDebtFinance                2.835826
+                  IntanEP                2.784069
+                  ChNNCOA                2.273767
+            TotalAccruals                2.096346

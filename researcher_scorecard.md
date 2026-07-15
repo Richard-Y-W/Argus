@@ -4,7 +4,7 @@
 
 **Researcher:** Richard
 **Started:** 2026-07-09
-**Last updated:** 2026-07-14 (autonomy policy + EXP-004 — Argus-executed)
+**Last updated:** 2026-07-15 (EXP-010 — Argus-executed)
 
 ---
 
@@ -52,7 +52,7 @@ Mastery scale: `0 — unaware` · `1 — heard of it` · `2 — can follow` · `
 | Replications completed | 0 |
 | Novel experiments | 0 |
 | Robustness analyses | 0 |
-| Negative results documented | 6 (EXP-004/005/006/007/008/009 at lab level; researcher not yet author of one) |
+| Negative results documented | 7 (EXP-004/005/006/007/008/009/010 at lab level; researcher not yet author of one) |
 | Statistical mistakes caught before execution | 0 |
 
 ## Scientific Judgment — Milestone Log
@@ -63,6 +63,7 @@ Record dated, concrete examples where the researcher: changed their mind after e
 - **2026-07-11 — (Argus calibration note, logged here for symmetry.)** Across EXP-002/003, four of Argus's registered predictions failed (EXP-002 P4; EXP-003 P2/P4/P6), all by over-predicting how visibly a mechanism would show up. The researcher should read the failed predictions before the passed ones — they are the honest part of the record, and spotting *why* they failed is this week's best training material. No researcher judgment events this cycle (researcher absent).
 - **2026-07-12 — (Argus calibration, continued: the miss pattern is now a standing rule.)** EXP-005 added two more directional misses (P2 volatility sign, P3 citations sign) *and* a subtler failure: P1 passed its registered decision rule yet its mechanism interpretation was overturned by a one-regressor scale diagnostic. Running total: 6 of 16 registered predictions failed, every miss from over-predicting mechanism visibility. Standing rule adopted: no Argus mechanism claim is reported without a scale/composition diagnostic beside it. Teaching value for the researcher: *a registered pass is not a mechanism* — see the EXP-005 digest. No researcher judgment events this cycle (researcher absent).
 - **2026-07-14 — Two more mechanism bets mostly fail.** EXP-006 rejected all three registered predictions; EXP-007 passed one magnitude-only prediction but failed its primary and robustness predictions. The lab correctly resisted promoting the positive cohort contrast. No researcher judgment event: researcher absent.
+- **2026-07-15 — A paired repair still rejects the mechanism proxy.** EXP-010 replaced EXP-009's between-signal EW/VW comparison with official within-signal pairs. The primary mean cleared its economic threshold but not its inference rule; the levels sign and 50% breadth contradicted the story. The lab treated the preregistered threshold as binding despite a significant winsorized check. No researcher judgment event: researcher absent.
 
 ## Contribution Attribution Ledger
 
@@ -79,5 +80,6 @@ Each research cycle gets one of four levels (defined in the charter §Contributi
 | 2026-07-14 | Autonomous-lab policy, sandbox, lineage review, and EXP-004 | AI-led | Researcher explicitly removed worksheet gates and directed Argus to investigate arbitrage and keep testing. Argus designed and executed the spillover test and infrastructure; the intellectual contribution is therefore AI-led within a human-directed topic. |
 | 2026-07-14 | EXP-008/009 and senior-quant review | AI-led | Researcher requested more cycles and an institutional-quality review; Argus selected, registered, executed, and judged both tests. |
 | 2026-07-14 | Autonomous source-discovery pipeline and regime-filter sandbox | Human-directed | Researcher defined the autonomous-research objective and suggested Reddit/practitioner sources; Argus designed the evidence hierarchy, hypothesis queue, collector, and calibration probe. |
+| 2026-07-15 | EXP-010 within-signal EW/VW decay | AI-led | Researcher requested another Argus cycle; Argus selected the queued priority, preregistered, executed, adversarially reviewed, and rejected it. |
 
 **Operating target:** research proceeds autonomously when the researcher is busy. Human input is welcomed but never required; contribution labels must continue to distinguish topic direction from hypothesis design and execution.

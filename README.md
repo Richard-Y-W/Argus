@@ -8,7 +8,7 @@ It is not a trading bot, an alpha claim, or financial advice. Its objective is t
 
 ## Evidence at a glance
 
-Nine experiments have been preregistered and completed on the Chen–Zimmermann open asset-pricing panel. The strongest result is not a strategy: it is a sequence of attempts to explain why published return predictors weaken.
+Ten experiments have been preregistered and completed on the Chen–Zimmermann open asset-pricing panel. The strongest result is not a strategy: it is a sequence of attempts to explain why published return predictors weaken.
 
 ![Predictors decay after publication while published placebos do not show the same pattern](visualizations/generated/publication_decay.png)
 
@@ -25,6 +25,7 @@ That distribution is intentional. A laboratory where nearly every hypothesis sur
 - Publication event time survives calendar-era controls; a common 2001 market-structure break does not explain the result in this staggered panel.
 - Apparent targeting of high-t-stat or volatile predictors is absorbed by in-sample signal scale. The decay resembles a proportional haircut, not selective hunting.
 - Sample length, publication cohort, return-correlation spillover, common-predictor crowding, and between-signal EW/VW labels do not cleanly identify the arbitrage mechanism.
+- A paired within-signal EW/VW test also fails: its mean difference points toward more VW decay but is imprecise, has no cross-signal breadth, and conflicts with the levels discriminator.
 
 ![Raw weighting difference becomes imprecise after controls](visualizations/generated/weighting_gap.png)
 
@@ -108,7 +109,7 @@ The project is a credible early research record, not institutional alpha infrast
 
 ## Next research phase
 
-1. Run within-signal EW/VW and liquidity-screen comparisons using official alternative portfolios.
+1. Acquire direct trading quantities or replicate the strongest event-time result in a second market/data family.
 2. Add direct trading quantities: short interest, turnover, holdings, lending fees, flows, or price impact.
 3. Replicate the strongest result in a second market or data family.
 4. Migrate experiments to the canonical loader and add regression golden tests.

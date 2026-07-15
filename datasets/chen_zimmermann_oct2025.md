@@ -18,4 +18,4 @@
 - **License:** data provided freely for research by the authors (CC BY-NC 4.0 per project site).
 
 ## Used by
-`experiments/EXP-001-anomaly-decay/` · `EXP-002-placebo-decay/` · `EXP-003-calendar-vs-event-time/` · `EXP-004-placebo-spillover/` · `EXP-005-decay-heterogeneity/` · `EXP-006-sample-length/` · `EXP-007-cohort-haircut/`
+`experiments/EXP-001-anomaly-decay/` · `EXP-002-placebo-decay/` · `EXP-003-calendar-vs-event-time/` · `EXP-004-placebo-spillover/` · `EXP-005-decay-heterogeneity/` · `EXP-006-sample-length/` · `EXP-007-cohort-haircut/` · `EXP-008-post-publication-crowding/` · `EXP-009-weighting-and-decay/` · `EXP-010-within-signal-weighting-decay/`

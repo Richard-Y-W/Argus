@@ -8,7 +8,7 @@ It is not a trading bot, an alpha claim, or financial advice. Its objective is t
 
 ## Evidence at a glance
 
-Twelve experiments have been preregistered and completed. Ten use the Chen–Zimmermann open asset-pricing panel; two are synthetic calibrations of data snooping and holdout discipline. The strongest market result is not a strategy: it is a sequence of attempts to explain why published return predictors weaken.
+Thirteen experiments have been preregistered and completed. Ten use the Chen–Zimmermann US panel, two are synthetic calibrations of research discipline, and one is an external replication using JKP global factors. The strongest market result is not a strategy: it is a sequence of attempts to explain why published return predictors weaken.
 
 ![Predictors decay after publication while published placebos do not show the same pattern](visualizations/generated/publication_decay.png)
 
@@ -27,6 +27,7 @@ That distribution is intentional. A laboratory where nearly every hypothesis sur
 - Sample length, publication cohort, return-correlation spillover, common-predictor crowding, and between-signal EW/VW labels do not cleanly identify the arbitrage mechanism.
 - A paired within-signal EW/VW test also fails: its mean difference points toward more VW decay but is imprecise, has no cross-signal breadth, and conflicts with the levels discriminator.
 - Synthetic null calibrations show why this lab records search breadth: the naive pass rate reached 99.99% after 200 independent tries, while requiring untouched confirmation reduced idealized false claims from 5.145% to 0.274%. These are process results, not market evidence.
+- The first world-ex-US replication did not recover the US magnitude: its post-publication estimate was −0.037 percentage points per month (t = −0.55), so external validity remains unresolved and a universal arbitrage story is weaker.
 
 ![Raw weighting difference becomes imprecise after controls](visualizations/generated/weighting_gap.png)
 
@@ -102,7 +103,7 @@ CI runs the data-independent unit suite and compilation checks. Local verificati
 |---|---:|---|
 | Scientific honesty | A− | Registration, visible failures, bounded language |
 | Empirical identification | B− | Strong controls, but one US panel and coarse dates |
-| Research breadth | C− | Nine cycles, one dominant research thread |
+| Research breadth | C | Thirteen experiments across US, synthetic, and global data families; one dominant question |
 | Engineering | C+ | Tests, CI, canonical loaders, fingerprints; migration incomplete |
 | Alpha/trading readiness | D | Gross returns, no costs/capacity/risk model |
 

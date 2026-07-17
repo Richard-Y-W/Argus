@@ -10,7 +10,9 @@ def sha256(path: Path):
 
 def verify_manifest(manifest_path: Path,raw_dir: Path):
     manifest=json.loads(manifest_path.read_text(encoding="utf-8"));errors=[]
-    for name,meta in manifest["files"].items():
+    files=dict(manifest["files"])
+    for release in manifest.get("external_releases",{}).values():files.update(release.get("files",{}))
+    for name,meta in files.items():
         path=raw_dir/name
         if not path.exists():errors.append(f"missing: {name}");continue
         actual=sha256(path)

@@ -10,5 +10,6 @@ Scores are 1–5; confounding risk is worse when higher. Promotion requires a da
 | Regime filters salvage noise via search | 5 | 5 | 3 | 5 | 5 | 2 | completed as EXP-011/012; synthetic calibration only |
 | Publication arbitrage via short interest | 5 | 2 | 4 | 5 | 5 | 3 | priority data acquisition |
 | Within-signal EW/VW decay | 5 | 5 | 3 | 4 | 4 | 2 | completed as EXP-010; rejected |
+| Non-US publication decay | 5 | 5 | 4 | 4 | 5 | 3 | completed as EXP-013; rejected |
 
-Next claim-bearing priority: acquire direct publication-arbitrage quantities or identify a second market/data family. EXP-010 exhausted the cheap weighting proxy. EXP-011/012 close the first regime-filter calibration; realistic candidate dependence and power are methodological follow-ups, not alpha claims.
+Next claim-bearing priority: acquire direct publication-arbitrage quantities. EXP-013 supplied the second data family but did not transport the strong US magnitude. Any follow-up must distinguish genuine geographic attenuation from JKP/C&Z construction differences; EXP-011/012 remain methodological calibrations, not alpha claims.

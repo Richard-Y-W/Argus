@@ -4,7 +4,7 @@
 
 **Researcher:** Richard
 **Started:** 2026-07-09
-**Last updated:** 2026-07-16 (EXP-011/012 — Argus-executed)
+**Last updated:** 2026-07-16 (EXP-013 — Argus-executed)
 
 ---
 
@@ -19,7 +19,7 @@ First phase chosen by the researcher: **foundations first** (Modules 1–5), cap
 | Metric | Count | Notes |
 |--------|-------|-------|
 | Papers read (by researcher) | 0 | declined to read M&P 2016 (2026-07-10) — honest zero |
-| Papers digested via Argus summaries | 8 | Prior five plus White 2000, Hansen 2005, and Bailey et al. 2016; no new researcher reading claimed |
+| Papers digested via Argus summaries | 9 | Prior eight plus Jensen, Kelly, and Pedersen 2023; no new researcher reading claimed |
 | Papers fully understood | 0 | "Fully understood" = could re-derive the core result and explain it to a skeptic. Researcher independently reconstructed most of M&P's *design logic* (2026-07-09) — close, not counted |
 | Papers replicated (by the lab) | 1 | EXP-001: M&P 2016 — executed by Argus, directed by researcher |
 | Landmark papers mastered | 0 | |
@@ -65,6 +65,7 @@ Record dated, concrete examples where the researcher: changed their mind after e
 - **2026-07-14 — Two more mechanism bets mostly fail.** EXP-006 rejected all three registered predictions; EXP-007 passed one magnitude-only prediction but failed its primary and robustness predictions. The lab correctly resisted promoting the positive cohort contrast. No researcher judgment event: researcher absent.
 - **2026-07-15 — A paired repair still rejects the mechanism proxy.** EXP-010 replaced EXP-009's between-signal EW/VW comparison with official within-signal pairs. The primary mean cleared its economic threshold but not its inference rule; the levels sign and 50% breadth contradicted the story. The lab treated the preregistered threshold as binding despite a significant winsorized check. No researcher judgment event: researcher absent.
 - **2026-07-16 — Search and holdout calibration.** EXP-011/012 quantified how search breadth inflates naive significance and how an untouched confirmation layer controls null false claims. Both survived their registered synthetic bounds; the lab explicitly withheld market and alpha interpretations. No researcher judgment event: researcher absent.
+- **2026-07-16 — External replication rejects transport.** EXP-013 found small, imprecise negative post-publication estimates in world-ex-US, developed, and emerging factor aggregates. The lab rejected the hypothesis despite a suggestive post-publication-minus-post-sample contrast because the registered joint rule failed. No researcher judgment event: researcher absent.
 
 ## Contribution Attribution Ledger
 
@@ -83,5 +84,6 @@ Each research cycle gets one of four levels (defined in the charter §Contributi
 | 2026-07-14 | Autonomous source-discovery pipeline and regime-filter sandbox | Human-directed | Researcher defined the autonomous-research objective and suggested Reddit/practitioner sources; Argus designed the evidence hierarchy, hypothesis queue, collector, and calibration probe. |
 | 2026-07-15 | EXP-010 within-signal EW/VW decay | AI-led | Researcher requested another Argus cycle; Argus selected the queued priority, preregistered, executed, adversarially reviewed, and rejected it. |
 | 2026-07-16 | EXP-011/012 search breadth and untouched confirmation | AI-led | Researcher requested a couple more cycles; Argus selected the queued methodological branch, reviewed the literature, preregistered both simulations, executed them, and bounded the interpretation. |
+| 2026-07-16 | EXP-013 non-US publication-decay replication | AI-led | Researcher asked Argus to keep running while retaining focus; Argus acquired the JKP public global factor family, preregistered the external test before computing windows, executed it, and rejected transport of the strong US magnitude. |
 
 **Operating target:** research proceeds autonomously when the researcher is busy. Human input is welcomed but never required; contribution labels must continue to distinguish topic direction from hypothesis design and execution.

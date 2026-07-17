@@ -7,5 +7,16 @@
     "SignalDoc.csv": {"sha256": "b126a3d2f81452f275503878c06c94c283f0159bdae6e623dfcc1e293f4f9fc9"},
     "deciles_ew.parquet": {"sha256": "86471069471378a9609d38fcfa17314f0dbc121cd84832a6181c3719ff4b8591"},
     "deciles_vw.parquet": {"sha256": "7f625a15ac2fd8aeb2a444463b2486ba22b41edb7ea8e9dd2da12176738921ad"}
+  },
+  "external_releases": {
+    "jkp_global_factors_apr2026": {
+      "downloaded": "2026-07-16",
+      "license": "CC BY-NC 4.0",
+      "files": {
+        "jkp_all_regions_all_factors_monthly_vw.zip": {"sha256": "441cdcc8d0932370fe1be4fd8bfdaa8128ef6aa928896c4ac98bb14520d80c9c"},
+        "jkp_factor_details.xlsx": {"sha256": "4c579e4dcb93eed0897941d8f5f84e9cc784a2d3fc696be68a29a24e68206141"},
+        "jkp_documentation.pdf": {"sha256": "141c9571f00445937356328e22fd030e69dea4b68dea986f85dda6859ca3cc7d"}
+      }
+    }
   }
 }

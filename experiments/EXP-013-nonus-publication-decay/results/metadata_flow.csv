@@ -1,0 +1,256 @@
+source_row,name,sample_start,sample_end,publication_year,significance,cite,reason
+0,niq_su,1974.0,1981.0,1984.0,1.0,Foster Olsen and Shevlin (1984),eligible
+1,,1977.0,1993.0,1996.0,,Chan Jegadeesh and Lakonishok (1996) 1972/1,missing_name
+2,,1977.0,1993.0,1996.0,,Chan Jegadeesh and Lakonishok (1996) 1976/7,missing_name
+3,ret_6_1,1965.0,1989.0,1993.0,1.0,Jegadeesh and Titman (1993),eligible
+4,ret_12_1,1965.0,1989.0,1993.0,1.0,Jegadeesh and Titman (1993),eligible
+5,,1973.0,1995.0,1999.0,,Moskowitz and Grinblatt (1999),missing_name
+6,saleq_su,1987.0,2003.0,2006.0,1.0,Jegadeesh and Livnat (2006),eligible
+7,tax_gr1a,1977.0,2006.0,2011.0,1.0,Thomas and Zhang (2011),eligible
+8,,1975.0,1980.0,1984.0,,Hawkins Chamberlin and Daniel (1984) 1976/3,missing_name
+9,ni_inc8q,1982.0,1992.0,1999.0,0.0,Barth Elliott and Finn (1999),eligible
+10,prc_highprc_252d,1963.0,2001.0,2004.0,1.0,George and Hwang (2004),eligible
+11,resff3_6_1,1930.0,2009.0,2011.0,1.0,Blitz Huij and Martens (2011),eligible
+12,resff3_12_1,1930.0,2009.0,2011.0,1.0,Blitz Huij and Martens (2011),eligible
+13,,1977.0,2009.0,2012.0,,Cohen and Lou (2012) 1977/7,missing_name
+14,,1972.0,2001.0,2007.0,,Hou (2007),missing_name
+15,,1972.0,2001.0,2007.0,,Hou (2007),missing_name
+16,,1980.0,2004.0,2008.0,,Cohen and Frazzini (2008),missing_name
+17,,1963.0,2005.0,2010.0,,Menzly and Ozbas (2010),missing_name
+18,,1963.0,2005.0,2010.0,,Menzly and Ozbas (2010),missing_name
+19,be_me,1973.0,1984.0,1985.0,1.0,Rosenberg Reid and Lanstein (1985),eligible
+20,,,,2013.0,,Asness and Frazzini (2013),missing_or_ambiguous_year
+21,,,,,,nan,missing_or_ambiguous_year
+22,debt_me,1948.0,1979.0,1988.0,1.0,Bhandari (1988),eligible
+23,,,,,,1972/1,missing_or_ambiguous_year
+24,at_me,1963.0,1990.0,1992.0,0.0,Fama and French (1992),eligible
+25,,,,,,1972/1,missing_or_ambiguous_year
+26,ret_60_12,1926.0,1982.0,1985.0,1.0,De Bondt and Thaler (1985),eligible
+27,ni_me,1963.0,1979.0,1983.0,1.0,Basu (1983),eligible
+28,,,,,,nan,missing_or_ambiguous_year
+29,,1982.0,1998.0,2001.0,,Elgers Lo and Pfeiffer (2001) 1976/2,missing_name
+30,fcf_me,1963.0,1990.0,1994.0,1.0,Lakonishok Shleifer and Vishny (1994),eligible
+31,,,,,,nan,missing_or_ambiguous_year
+32,div12m_me,1940.0,1980.0,1979.0,1.0,Litzenberger and Ramaswamy (1979),publication_before_sample_end
+33,,,,,,nan,missing_or_ambiguous_year
+34,eqpo_me,1984.0,2003.0,2007.0,1.0,Boudoukh et al. (2007),eligible
+35,,,,,,1985/1,missing_or_ambiguous_year
+36,eqnpo_me,1984.0,2003.0,2007.0,1.0,Boudoukh et al. (2007),eligible
+37,,,,,,1985/1,missing_or_ambiguous_year
+38,sale_gr3,1968.0,1989.0,1994.0,1.0,Lakonishok Shleifer and Vishny (1994),eligible
+39,sale_gr1,1968.0,1989.0,1994.0,1.0,Lakonishok Shleifer and Vishny (1994),eligible
+40,ebitda_mev,1963.0,2009.0,2011.0,1.0,Loughran and Wellman (2011),eligible
+41,,,,,,1976/1,missing_or_ambiguous_year
+42,sale_me,1979.0,1991.0,1996.0,1.0,Barbee Mukherji and Raines (1996),eligible
+43,,,,,,nan,missing_or_ambiguous_year
+44,ocf_me,1973.0,1997.0,2004.0,1.0,Desai Rajgopal and Venkatachalam (2004),eligible
+45,,,,,,1985/1,missing_or_ambiguous_year
+46,,1968.0,2003.0,2006.0,,Daniel and Titman (2006),missing_name
+47,ival_me,1975.0,1993.0,1998.0,0.0,Frankel and Lee (1998),eligible
+48,,1976.0,1992.0,1998.0,,Frankel and Lee (1998) 1976/7,missing_name
+49,bev_mev,1962.0,2001.0,2007.0,1.0,Penman Richardson and Tuna (2007),eligible
+50,,,,,,1976/1,missing_or_ambiguous_year
+51,netdebt_me,1962.0,2001.0,2007.0,1.0,Penman Richardson and Tuna (2007),eligible
+52,,,,,,1976/1,missing_or_ambiguous_year
+53,eq_dur,1962.0,1998.0,2004.0,1.0,Dechow Sloan and Soliman (2004),eligible
+54,,1982.0,1991.0,1996.0,,La Porta (1996) 1982/1,missing_name
+55,,,,,,nan,missing_or_ambiguous_year
+56,capex_abn,1973.0,1996.0,2004.0,1.0,Titman Wei and Xie (2004),eligible
+57,at_gr1,1968.0,2003.0,2008.0,1.0,Cooper Gulen and Schill (2008),eligible
+58,,,,,,1973/1,missing_or_ambiguous_year
+59,ppeinv_gr1a,1970.0,2005.0,2008.0,1.0,Lyandres Sun and Zhang (2008),eligible
+60,noa_at,1964.0,2002.0,2004.0,1.0,Hirshleifer et al. (2004),eligible
+61,noa_gr1a,1964.0,2002.0,2004.0,1.0,Hirshleifer et al. (2004),eligible
+62,lnoa_gr1a,1964.0,1993.0,2003.0,1.0,Fairfield Whisenant and Yohn (2003),eligible
+63,capx_gr1,1971.0,1992.0,2001.0,0.0,Xie (2001),eligible
+64,capx_gr2,1976.0,1998.0,2006.0,1.0,Anderson and Garcia-Feijoo (2006),eligible
+65,capx_gr3,1976.0,1998.0,2006.0,1.0,Anderson and Garcia-Feijoo (2006),eligible
+66,chcsho_12m,1970.0,2003.0,2008.0,1.0,Pontiff and Woodgate (2008),eligible
+67,,,,1998.0,,Abarbanell and Bushee (1998),missing_or_ambiguous_year
+68,eqnpo_12m,1968.0,2003.0,2006.0,1.0,Daniel and Titman (2006),eligible
+69,debt_gr3,1970.0,2005.0,2008.0,1.0,Lyandres Sun and Zhang (2008),eligible
+70,inv_gr1,1965.0,2009.0,2011.0,1.0,Belo and Lin (2011),eligible
+71,inv_gr1a,1970.0,1997.0,2002.0,1.0,Thomas and Zhang (2002),eligible
+72,oaccruals_at,1962.0,1991.0,1996.0,1.0,Sloan (1996),eligible
+73,taccruals_at,1962.0,2001.0,2005.0,1.0,Richardson et al. (2005),eligible
+74,cowc_gr1a,1962.0,2001.0,2005.0,1.0,Richardson et al. (2005),eligible
+75,coa_gr1a,1962.0,2001.0,2005.0,1.0,Richardson et al. (2005),eligible
+76,col_gr1a,1962.0,2001.0,2005.0,1.0,Richardson et al. (2005),eligible
+77,nncoa_gr1a,1962.0,2001.0,2005.0,1.0,Richardson et al. (2005),eligible
+78,ncoa_gr1a,1962.0,2001.0,2005.0,1.0,Richardson et al. (2005),eligible
+79,ncol_gr1a,1962.0,2001.0,2005.0,0.0,Richardson et al. (2005),eligible
+80,nfna_gr1a,1962.0,2001.0,2005.0,1.0,Richardson et al. (2005),eligible
+81,sti_gr1a,1962.0,2001.0,2005.0,0.0,Richardson et al. (2005),eligible
+82,lti_gr1a,1962.0,2001.0,2005.0,1.0,Richardson et al. (2005),eligible
+83,fnl_gr1a,1962.0,2001.0,2005.0,1.0,Richardson et al. (2005),eligible
+84,be_gr1a,1962.0,2001.0,2005.0,1.0,Richardson et al. (2005),eligible
+85,,1971.0,1992.0,2001.0,,Xie (2001),missing_name
+86,oaccruals_ni,1989.0,2008.0,2011.0,1.0,Hafzalla Lundholm and Van Winkle (2011),eligible
+87,taccruals_ni,1989.0,2008.0,2011.0,1.0,Hafzalla Lundholm and Van Winkle (2011),eligible
+88,,,,,,nan,missing_or_ambiguous_year
+89,netis_at,1971.0,2000.0,2006.0,1.0,Bradshaw Richardson and Sloan (2006),eligible
+90,eqnetis_at,1971.0,2000.0,2006.0,1.0,Bradshaw Richardson and Sloan (2006),eligible
+91,dbnetis_at,1971.0,2000.0,2006.0,1.0,Bradshaw Richardson and Sloan (2006),eligible
+92,niq_be,1972.0,2012.0,2015.0,1.0,Hou Xue and Zhang (2015),eligible
+93,niq_be_chg1,1967.0,2016.0,,0.0,nan,missing_or_ambiguous_year
+94,niq_at,1976.0,2005.0,2010.0,1.0,Balakrishnan Bartov and Faurel (2010),eligible
+95,niq_at_chg1,1972.0,2016.0,,0.0,nan,missing_or_ambiguous_year
+96,ebit_bev,1984.0,2002.0,2008.0,1.0,Soliman (2008),eligible
+97,,,,,,1976/1,missing_or_ambiguous_year
+98,ebit_sale,1984.0,2002.0,2008.0,1.0,Soliman (2008),eligible
+99,,,,,,nan,missing_or_ambiguous_year
+100,sale_bev,1984.0,2002.0,2008.0,1.0,Soliman (2008),eligible
+101,,,,,,1972/1,missing_or_ambiguous_year
+102,at_turnover,1979.0,1993.0,1996.0,0.0,Haugen and Baker (1996),eligible
+103,,,,,,1972/1,missing_or_ambiguous_year
+104,gp_at,1963.0,2010.0,2013.0,1.0,Novy-Marx (2013),eligible
+105,gp_atl1,1967.0,2016.0,,0.0,nan,missing_or_ambiguous_year
+106,,,,,,1976/1,missing_or_ambiguous_year
+107,ope_be,1963.0,2013.0,2015.0,1.0,Fama and French (2015),eligible
+108,ope_bel1,1967.0,2016.0,,0.0,nan,missing_or_ambiguous_year
+109,,,,,,1972/1,missing_or_ambiguous_year
+110,op_at,1963.0,2013.0,,1.0,nan,missing_or_ambiguous_year
+111,op_atl1,1963.0,2014.0,2016.0,1.0,Ball et al. (2016),eligible
+112,,,,,,1976/1,missing_or_ambiguous_year
+113,cop_at,1967.0,2016.0,,0.0,nan,missing_or_ambiguous_year
+114,cop_atl1,1963.0,2014.0,2016.0,1.0,Ball et al. (2016),eligible
+115,,,,,,1976/1,missing_or_ambiguous_year
+116,f_score,1976.0,1996.0,2000.0,1.0,Piotroski (2000),eligible
+117,,,,,,1985/1,missing_or_ambiguous_year
+118,,,,2008.0,,Campbell Hilscher and Szilagyi (2008) 1976/7,missing_or_ambiguous_year
+119,,,,2008.0,,Campbell Hilscher and Szilagyi (2008) 1976/1,missing_or_ambiguous_year
+120,o_score,1981.0,1995.0,1998.0,1.0,Dichev (1998),eligible
+121,,,,,,1976/1,missing_or_ambiguous_year
+122,z_score,1981.0,1995.0,1998.0,1.0,Dichev (1998),eligible
+123,,,,,,1976/1,missing_or_ambiguous_year
+124,,1985.0,2007.0,2009.0,,Avramov et al. (2009) 1986/1,missing_name
+125,pi_nix,1973.0,2000.0,2004.0,1.0,Lev and Nissim (2004),eligible
+126,,,,,,nan,missing_or_ambiguous_year
+127,,1979.0,2001.0,2005.0,,Mohanram (2005) 1976/7,missing_name
+128,at_be,1963.0,1990.0,1992.0,0.0,Fama and French (1992),eligible
+129,,,,,,1972/1,missing_or_ambiguous_year
+130,saleq_gr1,1967.0,2016.0,,0.0,nan,missing_or_ambiguous_year
+131,,1970.0,2008.0,2013.0,,Eisfeldt and Papanikolaou (2013),missing_name
+132,,,,2013.0,,Eisfeldt and Papanikolaou (2013),missing_or_ambiguous_year
+133,,1975.0,1995.0,2001.0,,Chan Lakonishok and Sougiannis (2001) 1973/7,missing_name
+134,,1974.0,2010.0,2014.0,,Lou (2014) 1974/7,missing_name
+135,rd_me,1975.0,1995.0,2001.0,1.0,Chan Lakonishok and Sougiannis (2001),eligible
+136,,,,,,1990/1,missing_or_ambiguous_year
+137,rd_sale,1975.0,1995.0,2001.0,0.0,Chan Lakonishok and Sougiannis (2001),eligible
+138,,,,,,1990/1,missing_or_ambiguous_year
+139,opex_at,1963.0,2008.0,2011.0,1.0,Novy-Marx (2011),eligible
+140,,,,,,1973/1,missing_or_ambiguous_year
+141,emp_gr1,1965.0,2010.0,2014.0,1.0,Belo Lin and Bazdresch (2014),eligible
+142,rd5_at,1952.0,2004.0,2011.0,0.0,Li (2011),eligible
+143,,,,2014.0,,Belo Lin and Vitorino (2014) 1973/7,missing_or_ambiguous_year
+144,,1977.0,1991.0,1998.0,,Frankel and Lee (1998) 1976/7,missing_name
+145,,1976.0,1992.0,1998.0,,Frankel and Lee (1998) 1985/7,missing_name
+146,,1982.0,2008.0,2013.0,,Hirshleifer Hsu and Li (2013) 1982/7â€“2008/6,missing_name
+147,,1982.0,2008.0,2013.0,,Hirshleifer Hsu and Li (2013) 1983/7â€“2008/6,missing_name
+148,,1963.0,2001.0,2006.0,,Hou and Robinson (2006),missing_name
+149,,1963.0,2001.0,2006.0,,Hou and Robinson (2006),missing_name
+150,,1963.0,2001.0,2006.0,,Hou and Robinson (2006),missing_name
+151,age,1965.0,2001.0,2005.0,1.0,Jiang Lee and Zhang (2005),eligible
+152,,1966.0,2001.0,2005.0,,Hou and Moskowitz (2005),missing_name
+153,,1964.0,2001.0,2005.0,,Hou and Moskowitz (2005),missing_name
+154,,1964.0,2001.0,2005.0,,Hou and Moskowitz (2005),missing_name
+155,dsale_dinv,1974.0,1988.0,1998.0,1.0,Abarbanell and Bushee (1998),eligible
+156,dsale_drec,1974.0,1988.0,1998.0,0.0,Abarbanell and Bushee (1998),eligible
+157,dgp_dsale,1974.0,1988.0,1998.0,0.0,Abarbanell and Bushee (1998),eligible
+158,dsale_dsga,1974.0,1988.0,1998.0,0.0,Abarbanell and Bushee (1998),eligible
+159,,1974.0,1988.0,1998.0,,Abarbanell and Bushee (1998),missing_name
+160,sale_emp_gr1,1974.0,1988.0,1998.0,0.0,Abarbanell and Bushee (1998),eligible
+161,,1982.0,1998.0,2001.0,,Elgers Lo and Pfeiffer (2001) 1976/2,missing_name
+162,tangibility,1973.0,2001.0,2009.0,0.0,Hahn and Lee (2009),eligible
+163,,,,,,1972/1,missing_or_ambiguous_year
+164,,1971.0,2005.0,2010.0,,Tuzel (2010) 1970/7,missing_name
+165,kz_index,1968.0,1995.0,2001.0,1.0,Lamont Polk and Saa-Requejo (2001),eligible
+166,,,,,,1977/1,missing_or_ambiguous_year
+167,,1975.0,2001.0,2006.0,,Whited and Wu (2006),missing_name
+168,,,,,,1972/1,missing_or_ambiguous_year
+169,,1985.0,2012.0,2016.0,,Valta (2016) 1982/7,missing_name
+170,,1985.0,2012.0,2016.0,,Valta (2016) 1970/7,missing_name
+171,ocfq_saleq_std,1980.0,2004.0,2009.0,1.0,Huang (2009),eligible
+172,cash_at,1972.0,2009.0,2012.0,0.0,Palazzo (2012),eligible
+173,,1990.0,1999.0,2003.0,,Gompers Ishii and Metrick (2003) 1990/9â€“2006/12,missing_name
+174,,1975.0,2001.0,2005.0,,Francis et al. (2005),missing_name
+175,,,,,,nan,missing_or_ambiguous_year
+176,,1981.0,1999.0,2003.0,,Rajgopal Shevlin and Venkatachalam (2003) 1971/7,missing_name
+177,ni_ar1,1975.0,2001.0,2004.0,0.0,Francis et al. (2004),eligible
+178,ni_ivol,1975.0,2001.0,2004.0,0.0,Francis et al. (2004),eligible
+179,earnings_variability,1975.0,2001.0,2004.0,0.0,Francis et al. (2004),eligible
+180,,1975.0,2001.0,2004.0,,Francis et al. (2004),missing_name
+181,,1975.0,2001.0,2004.0,,Francis et al. (2004),missing_name
+182,,1975.0,2001.0,2004.0,,Francis et al. (2004),missing_name
+183,,1981.0,2003.0,2006.0,,Franzoni and Marin (2006) 1981/7,missing_name
+184,,,,2006.0,,Franzoni and Marin (2006) 1981/7,missing_or_ambiguous_year
+185,aliq_at,1984.0,2006.0,2014.0,0.0,Ortiz-Molina and Phillips (2014),eligible
+186,,,,,,1976/1,missing_or_ambiguous_year
+187,aliq_mat,1984.0,2006.0,2014.0,0.0,Ortiz-Molina and Phillips (2014),eligible
+188,,,,,,1976/1,missing_or_ambiguous_year
+189,,1983.0,2006.0,2011.0,,Da and Warachka (2011) 1982/1,missing_name
+190,,1980.0,2000.0,2002.0,,Diether Malloy and Scherbina (2002) 1976/2,missing_name
+191,,1991.0,1997.0,2005.0,,Anderson Ghysels and Juergens (2005) 1982/1,missing_name
+192,seas_1_1an,1965.0,2002.0,2008.0,1.0,Heston and Sadka (2008),eligible
+193,seas_1_1na,1965.0,2002.0,2008.0,1.0,Heston and Sadka (2008),eligible
+194,seas_2_5an,1965.0,2002.0,2008.0,1.0,Heston and Sadka (2008),eligible
+195,seas_2_5na,1965.0,2002.0,2008.0,1.0,Heston and Sadka (2008),eligible
+196,seas_6_10an,1965.0,2002.0,2008.0,1.0,Heston and Sadka (2008),eligible
+197,seas_6_10na,1965.0,2002.0,2008.0,1.0,Heston and Sadka (2008),eligible
+198,seas_11_15an,1965.0,2002.0,2008.0,1.0,Heston and Sadka (2008),eligible
+199,seas_11_15na,1965.0,2002.0,2008.0,0.0,Heston and Sadka (2008),eligible
+200,seas_16_20an,1965.0,2002.0,2008.0,1.0,Heston and Sadka (2008),eligible
+201,seas_16_20na,1965.0,2002.0,2008.0,1.0,Heston and Sadka (2008),eligible
+202,market_equity,1926.0,1975.0,1981.0,1.0,Banz (1981),eligible
+203,ivol_ff3_21d,1963.0,2000.0,2006.0,1.0,Ang et al. (2006),eligible
+204,ivol_capm_252d,1976.0,1997.0,2003.0,1.0,Ali Hwang and Trombley (2003),eligible
+205,ivol_capm_21d,1967.0,2016.0,,0.0,nan,missing_or_ambiguous_year
+206,ivol_hxz4_21d,1967.0,2016.0,,0.0,nan,missing_or_ambiguous_year
+207,rvol_21d,1963.0,2000.0,2006.0,1.0,Ang et al. (2006),eligible
+208,,,,2006.0,,Ang et al. (2006) 1986/2,missing_or_ambiguous_year
+209,beta_60m,1935.0,1968.0,1973.0,1.0,Fama and MacBeth (1973),eligible
+210,betabab_1260d,1926.0,2012.0,2014.0,1.0,Frazzini and Pedersen (2014),eligible
+211,beta_dimson_21d,1955.0,1974.0,1979.0,0.0,Dimson (1979),eligible
+212,turnover_126d,1963.0,1991.0,1998.0,1.0,Datar Naik and Radcliffe (1998),eligible
+213,turnover_var_126d,1966.0,1995.0,2001.0,1.0,Chordia Subrahmanyam and Anshuman (2001),eligible
+214,dolvol_126d,1966.0,1995.0,1998.0,1.0,Brennan Chordia and Subrahmanyam (1998),eligible
+215,dolvol_var_126d,1966.0,1995.0,2001.0,1.0,Chordia Subrahmanyam and Anshuman (2001),eligible
+216,prc,1940.0,1978.0,1982.0,1.0,Miller and Scholes (1982),eligible
+217,ami_126d,1964.0,1997.0,2002.0,1.0,Amihud (2002),eligible
+218,zero_trades_21d,1963.0,2003.0,2006.0,0.0,Liu (2006),eligible
+219,zero_trades_126d,1963.0,2003.0,2006.0,1.0,Liu (2006),eligible
+220,zero_trades_252d,1963.0,2003.0,2006.0,1.0,Liu (2006),eligible
+221,rmax1_21d,1962.0,2005.0,2011.0,1.0,Bali Cakici and Whitelaw (2011),eligible
+222,rskew_21d,1925.0,2012.0,2016.0,1.0,Bali Engle and Murray (2016),eligible
+223,iskew_capm_21d,1967.0,2016.0,,0.0,nan,missing_or_ambiguous_year
+224,iskew_ff3_21d,1925.0,2012.0,2016.0,1.0,Bali Engle and Murray (2016),eligible
+225,iskew_hxz4_21d,1967.0,2016.0,,0.0,nan,missing_or_ambiguous_year
+226,coskew_21d,1963.0,1993.0,2000.0,1.0,Harvey and Siddique (2000),eligible
+227,,1963.0,2010.0,2014.0,,Kelly and Jiang (2014),missing_name
+228,,1964.0,1999.0,2005.0,,Acharya and Pedersen (2005),missing_name
+229,,1964.0,1999.0,2005.0,,Acharya and Pedersen (2005),missing_name
+230,,1964.0,1999.0,2005.0,,Acharya and Pedersen (2005),missing_name
+231,,1964.0,1999.0,2005.0,,Acharya and Pedersen (2005),missing_name
+232,,1964.0,1999.0,2005.0,,Acharya and Pedersen (2005),missing_name
+233,ret_1_0,1929.0,1982.0,1990.0,1.0,Jegadeesh (1990),eligible
+234,betadown_252d,1963.0,2001.0,2006.0,1.0,Ang Chen and Xing (2006),eligible
+235,bidaskhl_21d,1927.0,2006.0,2012.0,1.0,Corwin and Schultz (2012),eligible
+236,,1963.0,2012.0,2016.0,,Hou and Loh (2016) 1984/2â€“2015/1 missing 1986/2â€“1987/1,missing_name
+237,,1973.0,2009.0,2014.0,,Adrian Etula and Muir (2014) 1973/1,missing_name
+238,,,,,,nan,missing_or_ambiguous_year
+239,,1984.0,1998.0,2002.0,,Easley Hvidkjaer and Oâ€™Hara (2002) 1984/1â€“2002/12,missing_name
+240,ret_3_1,1965.0,1989.0,1993.0,1.0,Jegedeesh and Titman (1993),eligible
+241,ret_9_1,1965.0,1989.0,1993.0,1.0,Jegedeesh and Titman (1993),eligible
+242,ret_12_7,1925.0,2010.0,2012.0,1.0,Novy-Marx (2012),eligible
+243,corr_1260d,1925.0,2015.0,2020.0,1.0,"Assness, Frazzini, Gormsen, Pedersen (2020)",eligible
+244,rmax5_21d,1993.0,2012.0,2017.0,1.0,"Bali, Brown, Murray and Tang (2017)",eligible
+245,rmax5_rvol_21d,1925.0,2015.0,2020.0,1.0,"Assness, Frazzini, Gormsen, Pedersen (2020)",eligible
+246,ni_be,1979.0,1993.0,1996.0,1.0,Haugen and Baker (1996),eligible
+247,ocf_at,1990.0,2015.0,2019.0,1.0,"Bouchard, Krüger, Landier and Thesmar (2019)",eligible
+248,ocf_at_chg1,1990.0,2015.0,2019.0,1.0,"Bouchard, Krüger, Landier and Thesmar (2019)",eligible
+249,mispricing_perf,1967.0,2013.0,2016.0,1.0,Stambaugh and Yuan (2016),eligible
+250,mispricing_mgmt,1967.0,2013.0,2016.0,1.0,Stambaugh and Yuan (2016),eligible
+251,qmj,1957.0,2016.0,2018.0,1.0,"Assness, Frazzini and Pedersen (2018)",eligible
+252,qmj_prof,1957.0,2016.0,2018.0,1.0,"Assness, Frazzini and Pedersen (2018)",eligible
+253,qmj_growth,1957.0,2016.0,2018.0,1.0,"Assness, Frazzini and Pedersen (2018)",eligible
+254,qmj_safety,1957.0,2016.0,2018.0,1.0,"Assness, Frazzini and Pedersen (2018)",eligible

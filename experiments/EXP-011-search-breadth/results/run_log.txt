@@ -1,0 +1,5 @@
+seed=20260716
+runs=20000
+P1=True
+P2=True
+P3=True

@@ -4,7 +4,7 @@
 
 **Researcher:** Richard
 **Started:** 2026-07-09
-**Last updated:** 2026-07-15 (EXP-010 — Argus-executed)
+**Last updated:** 2026-07-16 (EXP-011/012 — Argus-executed)
 
 ---
 
@@ -19,7 +19,7 @@ First phase chosen by the researcher: **foundations first** (Modules 1–5), cap
 | Metric | Count | Notes |
 |--------|-------|-------|
 | Papers read (by researcher) | 0 | declined to read M&P 2016 (2026-07-10) — honest zero |
-| Papers digested via Argus summaries | 5 | M&P 2016, HLZ 2016 (partial), J&M 2020, C&Z 2022, CST 2014 (digest pending researcher's return) |
+| Papers digested via Argus summaries | 8 | Prior five plus White 2000, Hansen 2005, and Bailey et al. 2016; no new researcher reading claimed |
 | Papers fully understood | 0 | "Fully understood" = could re-derive the core result and explain it to a skeptic. Researcher independently reconstructed most of M&P's *design logic* (2026-07-09) — close, not counted |
 | Papers replicated (by the lab) | 1 | EXP-001: M&P 2016 — executed by Argus, directed by researcher |
 | Landmark papers mastered | 0 | |
@@ -64,6 +64,7 @@ Record dated, concrete examples where the researcher: changed their mind after e
 - **2026-07-12 — (Argus calibration, continued: the miss pattern is now a standing rule.)** EXP-005 added two more directional misses (P2 volatility sign, P3 citations sign) *and* a subtler failure: P1 passed its registered decision rule yet its mechanism interpretation was overturned by a one-regressor scale diagnostic. Running total: 6 of 16 registered predictions failed, every miss from over-predicting mechanism visibility. Standing rule adopted: no Argus mechanism claim is reported without a scale/composition diagnostic beside it. Teaching value for the researcher: *a registered pass is not a mechanism* — see the EXP-005 digest. No researcher judgment events this cycle (researcher absent).
 - **2026-07-14 — Two more mechanism bets mostly fail.** EXP-006 rejected all three registered predictions; EXP-007 passed one magnitude-only prediction but failed its primary and robustness predictions. The lab correctly resisted promoting the positive cohort contrast. No researcher judgment event: researcher absent.
 - **2026-07-15 — A paired repair still rejects the mechanism proxy.** EXP-010 replaced EXP-009's between-signal EW/VW comparison with official within-signal pairs. The primary mean cleared its economic threshold but not its inference rule; the levels sign and 50% breadth contradicted the story. The lab treated the preregistered threshold as binding despite a significant winsorized check. No researcher judgment event: researcher absent.
+- **2026-07-16 — Search and holdout calibration.** EXP-011/012 quantified how search breadth inflates naive significance and how an untouched confirmation layer controls null false claims. Both survived their registered synthetic bounds; the lab explicitly withheld market and alpha interpretations. No researcher judgment event: researcher absent.
 
 ## Contribution Attribution Ledger
 
@@ -81,5 +82,6 @@ Each research cycle gets one of four levels (defined in the charter §Contributi
 | 2026-07-14 | EXP-008/009 and senior-quant review | AI-led | Researcher requested more cycles and an institutional-quality review; Argus selected, registered, executed, and judged both tests. |
 | 2026-07-14 | Autonomous source-discovery pipeline and regime-filter sandbox | Human-directed | Researcher defined the autonomous-research objective and suggested Reddit/practitioner sources; Argus designed the evidence hierarchy, hypothesis queue, collector, and calibration probe. |
 | 2026-07-15 | EXP-010 within-signal EW/VW decay | AI-led | Researcher requested another Argus cycle; Argus selected the queued priority, preregistered, executed, adversarially reviewed, and rejected it. |
+| 2026-07-16 | EXP-011/012 search breadth and untouched confirmation | AI-led | Researcher requested a couple more cycles; Argus selected the queued methodological branch, reviewed the literature, preregistered both simulations, executed them, and bounded the interpretation. |
 
 **Operating target:** research proceeds autonomously when the researcher is busy. Human input is welcomed but never required; contribution labels must continue to distinguish topic direction from hypothesis design and execution.

@@ -1,0 +1,2 @@
+runs,candidates,leaky_false_claim_rate,leaky_mc_se,confirmed_false_claim_rate,confirmed_mc_se,relative_reduction,conditional_confirmation_share
+100000,100,0.05145,0.0006985907063510078,0.00274,0.000165302522666776,0.9467444120505345,0.0532555879494655

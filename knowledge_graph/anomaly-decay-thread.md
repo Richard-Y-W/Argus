@@ -43,6 +43,13 @@
                                                        │
                                                        ▼
                                                [EXP-010: paired EW/VW decay] ✗
+                                                       │
+                                                       ▼
+                                               [EXP-013: world-ex-US transport] ✗
+                                                       │ comparability attacked by
+                                                       ▼
+                                               [EXP-014: 1986 coverage floor] ✗
+                                               [EXP-015: JKP world vs ex-US] ✓ bounded
 ```
 
 ## Edge notes
@@ -62,3 +69,6 @@
 - EXP-004 → EXP-008 (2026-07-14): direct predictor-composite crowding also fails. Mean correlation change −0.024 (t=−0.98); 120-month change is significantly negative. Registered placebo control was infeasible, so the design is not confirmatory.
 - EXP-005 → EXP-009 (2026-07-14): raw VW decay 94.7% versus EW 56.4%, but adjusted VW coefficient +0.152 (t=0.50). Requires within-signal alternative portfolios; between-signal weighting labels are composition-confounded.
 - EXP-009 → EXP-010 (2026-07-15): official alternative portfolios remove between-signal composition, but the paired VW-minus-EW decay difference (+0.141, t=1.76) misses the registered inference rule. The levels DiD has the wrong sign and positive breadth is exactly 50%. Weighting remains an unstable proxy; seek direct quantities or external replication.
+- EXP-010 → EXP-013 (2026-07-16): JKP world-ex-US external replication rejects transport of the strong US magnitude. Post-publication decay is -0.037 percentage points per month (t=-0.55); the negative second-step contrast is suggestive but its registered joint rule fails.
+- EXP-013 → EXP-014 (2026-07-17): imposing JKP's 1986 coverage floor on C&Z strengthens decay from -0.369 to -0.415, firing the falsifier. Simple time-axis truncation cannot explain the external gap.
+- EXP-013 → EXP-015 (2026-07-17): with JKP construction fixed, world decay (-0.096, t=-2.17) exceeds world-ex-US (-0.037, t=-0.55). Registered rules pass, but the paired world-minus-ex-US gap has t=-1.27. Evidence is consistent with US concentration, not decisive geography or arbitrage identification.

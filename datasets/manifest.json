@@ -17,6 +17,13 @@
         "jkp_factor_details.xlsx": {"sha256": "4c579e4dcb93eed0897941d8f5f84e9cc784a2d3fc696be68a29a24e68206141"},
         "jkp_documentation.pdf": {"sha256": "141c9571f00445937356328e22fd030e69dea4b68dea986f85dda6859ca3cc7d"}
       }
+    },
+    "jkp_usa_factors_apr2026": {
+      "downloaded": "2026-07-18",
+      "license": "CC BY-NC 4.0",
+      "files": {
+        "jkp_usa_all_factors_monthly_vw.zip": {"sha256": "e9ee9fd69fd138698eaf987c0e7c8058464ef32687f4c272f48757f532517537"}
+      }
     }
   }
 }

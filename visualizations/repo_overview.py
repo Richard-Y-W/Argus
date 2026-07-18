@@ -14,13 +14,13 @@ for i,g in enumerate(['predictor','placebo_all']):
 ax.axhline(0,color='black',lw=.7);ax.set_xticks(x,labels);ax.set_ylabel('Mean long–short return (% per month)');ax.set_title('Publication decay is concentrated in claimed predictors');ax.legend(frameon=False);fig.tight_layout();fig.savefig(OUT/'publication_decay.png',bbox_inches='tight');plt.close(fig)
 
 # Figure 2: experiment verdict history. Keep every ID explicit so omissions are visible in review.
-verdicts={1:'Supported',2:'Supported',3:'Partial',4:'Rejected',5:'Rejected',6:'Rejected',7:'Inconclusive',8:'Rejected',9:'Rejected',10:'Rejected',11:'Supported',12:'Supported',13:'Rejected',14:'Rejected',15:'Supported'}
+verdicts={1:'Supported',2:'Supported',3:'Partial',4:'Rejected',5:'Rejected',6:'Rejected',7:'Inconclusive',8:'Rejected',9:'Rejected',10:'Rejected',11:'Supported',12:'Supported',13:'Rejected',14:'Rejected',15:'Supported',16:'Rejected'}
 palette={'Supported':'#15803d','Partial':'#ca8a04','Rejected':'#b91c1c','Inconclusive':'#64748b'}
 fig,ax=plt.subplots(figsize=(9.8,2.6));ids=np.array(list(verdicts));labels=list(verdicts.values())
 ax.scatter(ids,[1]*len(ids),s=260,c=[palette[v] for v in labels],edgecolor='white',linewidth=1.5)
 for i,v in verdicts.items():ax.text(i,1.0,str(i),ha='center',va='center',color='white',weight='bold',fontsize=8);ax.text(i,.91,v,ha='center',va='top',rotation=35,fontsize=8)
 counts=pd.Series(labels).value_counts();summary=' · '.join(f'{k}: {counts.get(k,0)}' for k in ['Supported','Partial','Inconclusive','Rejected'])
-ax.set_xlim(.4,15.6);ax.set_ylim(.76,1.17);ax.set_yticks([]);ax.set_xticks([]);ax.spines['left'].set_visible(False);ax.spines['bottom'].set_visible(False);ax.set_title(f'Fifteen preregistered experiments — {summary}');fig.tight_layout();fig.savefig(OUT/'experiment_verdicts.png',bbox_inches='tight');plt.close(fig)
+ax.set_xlim(.4,16.6);ax.set_ylim(.76,1.17);ax.set_yticks([]);ax.set_xticks([]);ax.spines['left'].set_visible(False);ax.spines['bottom'].set_visible(False);ax.set_title(f'Sixteen preregistered experiments — {summary}');fig.tight_layout();fig.savefig(OUT/'experiment_verdicts.png',bbox_inches='tight');plt.close(fig)
 
 # Figure 3: raw versus adjusted VW association
 groups=pd.read_csv(ROOT/'experiments/EXP-009-weighting-and-decay/results/groups.csv').set_index('Stock Weight');regs=pd.read_csv(ROOT/'experiments/EXP-009-weighting-and-decay/results/regressions.csv');adj=regs[(regs.spec=='primary')&(regs.term=='vw')].iloc[0]

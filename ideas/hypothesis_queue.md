@@ -13,5 +13,8 @@ Scores are 1–5; confounding risk is worse when higher. Promotion requires a da
 | Non-US publication decay | 5 | 5 | 4 | 4 | 5 | 3 | completed as EXP-013; rejected |
 | Coverage-matched US decay | 5 | 5 | 3 | 3 | 4 | 2 | completed as EXP-014; rejected |
 | US inclusion in JKP world decay | 5 | 5 | 3 | 3 | 4 | 3 | completed as EXP-015; supported, paired gap imprecise |
+| Standalone US JKP publication decay | 5 | 5 | 4 | 3 | 5 | 3 | completed as EXP-016; rejected on paired inference |
+| Country-level decay heterogeneity | 5 | 4 | 4 | 3 | 5 | 4 | queued; power and original-study geography concerns |
+| Publication-year precision from DOI metadata | 5 | 3 | 3 | 3 | 5 | 2 | queued; requires auditable bibliographic matching |
 
-Next claim-bearing priority: acquire direct publication-arbitrage quantities. EXP-014 rejects simple history truncation and EXP-015 suggests US inclusion strengthens decay under JKP construction, but its paired gap is imprecise. Direct quantities or a standalone construction-matched US portfolio are required; EXP-011/012 remain methodological calibrations, not alpha claims.
+Next claim-bearing priority: acquire direct publication-arbitrage quantities. EXP-016 confirms strong standalone US decay under JKP construction but again finds an imprecise paired geography gap, so further return-only location slicing has low marginal identification value. EXP-011/012 remain methodological calibrations, not alpha claims.

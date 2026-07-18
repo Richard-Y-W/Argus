@@ -50,6 +50,9 @@
                                                        ▼
                                                [EXP-014: 1986 coverage floor] ✗
                                                [EXP-015: JKP world vs ex-US] ✓ bounded
+                                                       │ direct US repair
+                                                       ▼
+                                               [EXP-016: standalone JKP US] ✗
 ```
 
 ## Edge notes
@@ -72,3 +75,4 @@
 - EXP-010 → EXP-013 (2026-07-16): JKP world-ex-US external replication rejects transport of the strong US magnitude. Post-publication decay is -0.037 percentage points per month (t=-0.55); the negative second-step contrast is suggestive but its registered joint rule fails.
 - EXP-013 → EXP-014 (2026-07-17): imposing JKP's 1986 coverage floor on C&Z strengthens decay from -0.369 to -0.415, firing the falsifier. Simple time-axis truncation cannot explain the external gap.
 - EXP-013 → EXP-015 (2026-07-17): with JKP construction fixed, world decay (-0.096, t=-2.17) exceeds world-ex-US (-0.037, t=-0.55). Registered rules pass, but the paired world-minus-ex-US gap has t=-1.27. Evidence is consistent with US concentration, not decisive geography or arbitrage identification.
+- EXP-015 → EXP-016 (2026-07-18): standalone JKP US decay is strong (-0.164 pp/month, t=-2.97), but the direct US-minus-world-ex-US gap remains imprecise (-0.131, t=-1.45) and fails its registered rule. Construction mismatch is a weaker explanation; geography is still not statistically distinguished.

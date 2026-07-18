@@ -4,7 +4,7 @@
 
 **Researcher:** Richard
 **Started:** 2026-07-09
-**Last updated:** 2026-07-17 (EXP-014/015 — Argus-executed)
+**Last updated:** 2026-07-18 (EXP-016 — Argus-executed)
 
 ---
 
@@ -52,7 +52,7 @@ Mastery scale: `0 — unaware` · `1 — heard of it` · `2 — can follow` · `
 | Replications completed | 0 |
 | Novel experiments | 0 |
 | Robustness analyses | 0 |
-| Negative results documented | 8 (EXP-004/005/006/007/008/009/010/014 at lab level; researcher not yet author of one) |
+| Negative results documented | 9 (EXP-004/005/006/007/008/009/010/014/016 at lab level; researcher not yet author of one) |
 | Statistical mistakes caught before execution | 0 |
 
 ## Scientific Judgment — Milestone Log
@@ -67,6 +67,7 @@ Record dated, concrete examples where the researcher: changed their mind after e
 - **2026-07-16 — Search and holdout calibration.** EXP-011/012 quantified how search breadth inflates naive significance and how an untouched confirmation layer controls null false claims. Both survived their registered synthetic bounds; the lab explicitly withheld market and alpha interpretations. No researcher judgment event: researcher absent.
 - **2026-07-16 — External replication rejects transport.** EXP-013 found small, imprecise negative post-publication estimates in world-ex-US, developed, and emerging factor aggregates. The lab rejected the hypothesis despite a suggestive post-publication-minus-post-sample contrast because the registered joint rule failed. No researcher judgment event: researcher absent.
 - **2026-07-17 — Coverage rejected; geographic bridge survives cautiously.** EXP-014's falsifier fired because a 1986 floor strengthened US decay. EXP-015 passed all written rules, while the lab foregrounded its unregistered-but-more-direct paired gap's t = -1.27 rather than allowing the pass label to imply settled geography. No researcher judgment event: researcher absent.
+- **2026-07-18 — Standalone US level survives; geography difference does not.** EXP-016 found US decay of -0.164 pp/month (t=-2.97), yet rejected the joint hypothesis because the registered paired US-minus-world-ex-US t-statistic was -1.45 rather than the required -1.65. No researcher judgment event: researcher delegated the cycle.
 
 ## Contribution Attribution Ledger
 
@@ -87,5 +88,6 @@ Each research cycle gets one of four levels (defined in the charter §Contributi
 | 2026-07-16 | EXP-011/012 search breadth and untouched confirmation | AI-led | Researcher requested a couple more cycles; Argus selected the queued methodological branch, reviewed the literature, preregistered both simulations, executed them, and bounded the interpretation. |
 | 2026-07-16 | EXP-013 non-US publication-decay replication | AI-led | Researcher asked Argus to keep running while retaining focus; Argus acquired the JKP public global factor family, preregistered the external test before computing windows, executed it, and rejected transport of the strong US magnitude. |
 | 2026-07-17 | EXP-014/015 coverage and US-inclusion bridge tests | AI-led | Researcher requested more cycles and delegated selection, design, execution, and interpretation. Argus rejected history truncation, found a preregistered US-inclusion pattern, and bounded it by the imprecise paired gap. |
+| 2026-07-18 | EXP-016 standalone US JKP decay | AI-led | Researcher requested another cycle and repository update; Argus selected, preregistered, acquired, executed, and rejected the joint geography hypothesis on its paired inference rule. |
 
 **Operating target:** research proceeds autonomously when the researcher is busy. Human input is welcomed but never required; contribution labels must continue to distinguish topic direction from hypothesis design and execution.

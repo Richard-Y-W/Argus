@@ -1,0 +1,6 @@
+P1=True
+P2=True
+P3=False
+P4=True
+falsifier=False
+survives=False

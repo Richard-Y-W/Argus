@@ -1,0 +1,2 @@
+  P1   P2   P3  falsifier  survives  strict_change_from_frozen_pct
+True True True      False      True                       0.002597

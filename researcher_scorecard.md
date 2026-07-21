@@ -4,7 +4,7 @@
 
 **Researcher:** Richard
 **Started:** 2026-07-09
-**Last updated:** 2026-07-18 (EXP-016 — Argus-executed)
+**Last updated:** 2026-07-21 (EXP-017–019 — Argus-executed)
 
 ---
 
@@ -68,6 +68,7 @@ Record dated, concrete examples where the researcher: changed their mind after e
 - **2026-07-16 — External replication rejects transport.** EXP-013 found small, imprecise negative post-publication estimates in world-ex-US, developed, and emerging factor aggregates. The lab rejected the hypothesis despite a suggestive post-publication-minus-post-sample contrast because the registered joint rule failed. No researcher judgment event: researcher absent.
 - **2026-07-17 — Coverage rejected; geographic bridge survives cautiously.** EXP-014's falsifier fired because a 1986 floor strengthened US decay. EXP-015 passed all written rules, while the lab foregrounded its unregistered-but-more-direct paired gap's t = -1.27 rather than allowing the pass label to imply settled geography. No researcher judgment event: researcher absent.
 - **2026-07-18 — Standalone US level survives; geography difference does not.** EXP-016 found US decay of -0.164 pp/month (t=-2.97), yet rejected the joint hypothesis because the registered paired US-minus-world-ex-US t-statistic was -1.45 rather than the required -1.65. No researcher judgment event: researcher delegated the cycle.
+- **2026-07-21 — Three robustness objections tested prospectively.** EXP-017 retained the US result under factor-and-month clustering; EXP-018 retained it outside a publication ±1-year donut; EXP-019 found that within-factor stock-count controls did not absorb it. These harden the return pattern but were not promoted as mechanism evidence. No researcher judgment event: researcher delegated the cycles.
 
 ## Contribution Attribution Ledger
 
@@ -89,5 +90,8 @@ Each research cycle gets one of four levels (defined in the charter §Contributi
 | 2026-07-16 | EXP-013 non-US publication-decay replication | AI-led | Researcher asked Argus to keep running while retaining focus; Argus acquired the JKP public global factor family, preregistered the external test before computing windows, executed it, and rejected transport of the strong US magnitude. |
 | 2026-07-17 | EXP-014/015 coverage and US-inclusion bridge tests | AI-led | Researcher requested more cycles and delegated selection, design, execution, and interpretation. Argus rejected history truncation, found a preregistered US-inclusion pattern, and bounded it by the imprecise paired gap. |
 | 2026-07-18 | EXP-016 standalone US JKP decay | AI-led | Researcher requested another cycle and repository update; Argus selected, preregistered, acquired, executed, and rejected the joint geography hypothesis on its paired inference rule. |
+| 2026-07-21 | EXP-017 dependence-aware inference | AI-led | Researcher requested multiple cycles; Argus selected, preregistered, executed, and interpreted the covariance robustness test. |
+| 2026-07-21 | EXP-018 publication-clock donut | AI-led | Argus selected and preregistered both donut widths before execution; researcher delegated design and interpretation. |
+| 2026-07-21 | EXP-019 portfolio-breadth control | AI-led | Argus selected the observed composition proxy, fixed the linear specifications before execution, and bounded the result away from direct-trading claims. |
 
 **Operating target:** research proceeds autonomously when the researcher is busy. Human input is welcomed but never required; contribution labels must continue to distinguish topic direction from hypothesis design and execution.

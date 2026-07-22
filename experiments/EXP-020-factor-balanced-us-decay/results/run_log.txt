@@ -1,0 +1,2 @@
+ factors  mean_pct  median_pct    t_stat  negative_share   q25_pct  q75_pct  diagnostic_mean_pct  diagnostic_t   P1   P2   P3  falsifier  survives
+     141 -0.153475   -0.162464 -5.618197         0.70922 -0.349454 0.038561            -0.149157     -3.896939 True True True      False      True

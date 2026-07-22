@@ -4,7 +4,7 @@
 
 **Researcher:** Richard
 **Started:** 2026-07-09
-**Last updated:** 2026-07-21 (EXP-017–019 — Argus-executed)
+**Last updated:** 2026-07-21 (EXP-020–021 — Argus-executed)
 
 ---
 
@@ -69,6 +69,7 @@ Record dated, concrete examples where the researcher: changed their mind after e
 - **2026-07-17 — Coverage rejected; geographic bridge survives cautiously.** EXP-014's falsifier fired because a 1986 floor strengthened US decay. EXP-015 passed all written rules, while the lab foregrounded its unregistered-but-more-direct paired gap's t = -1.27 rather than allowing the pass label to imply settled geography. No researcher judgment event: researcher absent.
 - **2026-07-18 — Standalone US level survives; geography difference does not.** EXP-016 found US decay of -0.164 pp/month (t=-2.97), yet rejected the joint hypothesis because the registered paired US-minus-world-ex-US t-statistic was -1.45 rather than the required -1.65. No researcher judgment event: researcher delegated the cycle.
 - **2026-07-21 — Three robustness objections tested prospectively.** EXP-017 retained the US result under factor-and-month clustering; EXP-018 retained it outside a publication ±1-year donut; EXP-019 found that within-factor stock-count controls did not absorb it. These harden the return pattern but were not promoted as mechanism evidence. No researcher judgment event: researcher delegated the cycles.
+- **2026-07-21 — Weighting and single-factor influence tested prospectively.** EXP-020 retained decay with one equal-weight contrast per factor (-0.154 pp/month; 70.9% negative). EXP-021 found that all 141 single-factor deletions left the pooled coefficient in a narrow negative range. These close two concentration objections without adding mechanism evidence. No researcher judgment event: researcher delegated the cycles.
 
 ## Contribution Attribution Ledger
 
@@ -93,5 +94,7 @@ Each research cycle gets one of four levels (defined in the charter §Contributi
 | 2026-07-21 | EXP-017 dependence-aware inference | AI-led | Researcher requested multiple cycles; Argus selected, preregistered, executed, and interpreted the covariance robustness test. |
 | 2026-07-21 | EXP-018 publication-clock donut | AI-led | Argus selected and preregistered both donut widths before execution; researcher delegated design and interpretation. |
 | 2026-07-21 | EXP-019 portfolio-breadth control | AI-led | Argus selected the observed composition proxy, fixed the linear specifications before execution, and bounded the result away from direct-trading claims. |
+| 2026-07-21 | EXP-020 factor-balanced US decay | AI-led | Researcher requested more cycles; Argus selected, preregistered, executed, and interpreted the equal-factor estimand. |
+| 2026-07-21 | EXP-021 single-factor influence audit | AI-led | Argus froze every deletion and decision threshold before execution, ran all 141 refits, and retained correlated-family limitations. |
 
 **Operating target:** research proceeds autonomously when the researcher is busy. Human input is welcomed but never required; contribution labels must continue to distinguish topic direction from hypothesis design and execution.

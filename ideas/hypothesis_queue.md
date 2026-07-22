@@ -19,5 +19,7 @@ Scores are 1–5; confounding risk is worse when higher. Promotion requires a da
 | Dependence-aware US decay inference | 5 | 5 | 2 | 2 | 4 | 1 | completed as EXP-017; supported |
 | Publication-clock donut robustness | 5 | 5 | 2 | 2 | 4 | 2 | completed as EXP-018; supported |
 | Portfolio-breadth composition control | 5 | 5 | 3 | 3 | 4 | 3 | completed as EXP-019; supported, but not a direct trading quantity |
+| Factor-balanced US decay | 5 | 5 | 2 | 2 | 4 | 2 | completed as EXP-020; supported |
+| Single-factor influence audit | 5 | 5 | 2 | 2 | 4 | 1 | completed as EXP-021; supported |
 
-Next claim-bearing priority: acquire direct publication-arbitrage quantities. EXP-017–019 harden the standalone US result against dependence, annual-boundary, and simple breadth objections, but none observes trading. Further return-only slicing has low marginal identification value. EXP-011/012 remain methodological calibrations, not alpha claims.
+Next claim-bearing priority: acquire direct publication-arbitrage quantities. EXP-017–021 harden the standalone US result against dependence, annual-boundary, simple breadth, unequal factor histories, and single-factor influence objections, but none observes trading. Further return-only slicing has low marginal identification value. EXP-011/012 remain methodological calibrations, not alpha claims.

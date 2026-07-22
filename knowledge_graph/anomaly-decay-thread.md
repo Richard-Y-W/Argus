@@ -53,6 +53,12 @@
                                                        │ direct US repair
                                                        ▼
                                                [EXP-016: standalone JKP US] ✗
+                                                       │ return association hardened by
+                                                       ▼
+                                               [EXP-017–019: dependence, timing,
+                                                and breadth robustness] ✓
+                                               [EXP-020: equal-factor estimand] ✓
+                                               [EXP-021: single-factor influence] ✓
 ```
 
 ## Edge notes
@@ -76,3 +82,4 @@
 - EXP-013 → EXP-014 (2026-07-17): imposing JKP's 1986 coverage floor on C&Z strengthens decay from -0.369 to -0.415, firing the falsifier. Simple time-axis truncation cannot explain the external gap.
 - EXP-013 → EXP-015 (2026-07-17): with JKP construction fixed, world decay (-0.096, t=-2.17) exceeds world-ex-US (-0.037, t=-0.55). Registered rules pass, but the paired world-minus-ex-US gap has t=-1.27. Evidence is consistent with US concentration, not decisive geography or arbitrage identification.
 - EXP-015 → EXP-016 (2026-07-18): standalone JKP US decay is strong (-0.164 pp/month, t=-2.97), but the direct US-minus-world-ex-US gap remains imprecise (-0.131, t=-1.45) and fails its registered rule. Construction mismatch is a weaker explanation; geography is still not statistically distinguished.
+- EXP-016 → EXP-020/021 (2026-07-21): equal factor weighting retains -0.154 pp/month decay with 70.9% negative contrasts, and every single-factor deletion leaves the pooled coefficient between -0.170 and -0.159. Unequal histories and single-factor dominance are rejected as explanations; correlated families and direct trading quantities remain unresolved.

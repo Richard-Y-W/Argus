@@ -1,0 +1,2 @@
+ factors  full_post_pub_pct   full_t  minimum_loo_pct  maximum_loo_pct  max_abs_shift_pct  loo_range_pct most_influential_factor   P1   P2   P3  falsifier  survives
+     141          -0.164334 -2.97479        -0.169775        -0.158534           0.005799       0.011241              seas_2_5na True True True      False      True

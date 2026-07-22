@@ -8,7 +8,7 @@ It is not a trading bot, an alpha claim, or financial advice. Its objective is t
 
 ## Evidence at a glance
 
-Nineteen experiments have been preregistered and completed. Eleven use the Chen–Zimmermann US panel, two are synthetic calibrations of research discipline, and six use JKP global or US factors. The strongest market result is not a strategy: it is a sequence of attempts to explain why published return predictors weaken.
+Twenty-one experiments have been preregistered and completed. Eleven use the Chen–Zimmermann US panel, two are synthetic calibrations of research discipline, and eight use JKP global or US factors. The strongest market result is not a strategy: it is a sequence of attempts to explain why published return predictors weaken.
 
 ![Predictors decay after publication while published placebos do not show the same pattern](visualizations/generated/publication_decay.png)
 
@@ -32,6 +32,7 @@ That distribution is intentional. A laboratory where nearly every hypothesis sur
 - Under identical JKP construction, adding US stocks strengthens global decay to −0.096 percentage points per month (t = −2.17), but the direct paired gap is imprecise (t = −1.27); US concentration is suggested, not established.
 - Standalone JKP US factors decay by −0.164 percentage points per month after publication (t = −2.97), but the direct US-minus-world-ex-US gap remains imprecise (t = −1.45). Strong US decay transports across portfolio libraries; a statistically distinct geography effect does not.
 - That standalone US estimate survives two-way factor-and-month clustering (t = −2.92), a strict publication ±1-year donut (−0.161 pp/month, t = −2.85), and within-factor portfolio-breadth controls (−0.176 pp/month, t = −2.96). These checks harden the return pattern but still do not measure trading.
+- Equal weighting across 141 factors preserves decay at −0.154 pp/month (t = −5.62), with 70.9% negative contrasts; deleting any single factor leaves the pooled estimate between −0.170 and −0.159 pp/month. Unequal histories and single-factor influence do not carry the result.
 
 ![Raw weighting difference becomes imprecise after controls](visualizations/generated/weighting_gap.png)
 
@@ -107,7 +108,7 @@ CI runs the data-independent unit suite and compilation checks. Local verificati
 |---|---:|---|
 | Scientific honesty | A− | Registration, visible failures, bounded language |
 | Empirical identification | B− | Strong controls, but one US panel and coarse dates |
-| Research breadth | C | Nineteen experiments across US, synthetic, and global data families; one dominant question |
+| Research breadth | C | Twenty-one experiments across US, synthetic, and global data families; one dominant question |
 | Engineering | C+ | Tests, CI, canonical loaders, fingerprints; migration incomplete |
 | Alpha/trading readiness | D | Gross returns, no costs/capacity/risk model |
 

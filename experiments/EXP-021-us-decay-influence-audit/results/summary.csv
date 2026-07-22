@@ -1,0 +1,2 @@
+factors,full_post_pub_pct,full_t,minimum_loo_pct,maximum_loo_pct,max_abs_shift_pct,loo_range_pct,most_influential_factor,P1,P2,P3,falsifier,survives
+141,-0.16433353199202239,-2.9747897598010336,-0.1697749336042556,-0.15853406494599154,0.005799467046030848,0.01124086865826407,seas_2_5na,True,True,True,False,True

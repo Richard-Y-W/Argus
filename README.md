@@ -119,8 +119,8 @@ The project is a credible early research record, not institutional alpha infrast
 1. Acquire direct trading quantities or replicate the strongest event-time result in a second market/data family.
 2. Add direct trading quantities: short interest, turnover, holdings, lending fees, flows, or price impact.
 3. Replicate the strongest result in a second market or data family.
-4. Migrate experiments to the canonical loader and add regression golden tests.
-5. Only after those steps, evaluate net-of-cost magnitude, risk, capacity, and portfolio construction.
+4. Continue migrating older experiments to canonical loaders; the JKP US decay path and its EXP-016 golden regression test were completed on 2026-07-23.
+5. Only after direct evidence or credible external replication, evaluate net-of-cost magnitude, risk, capacity, and portfolio construction.
 
 ## Suggested skeptical reading order
 

@@ -1,0 +1,14 @@
+omitted_cluster,omitted_factors,estimate_pct,shift_pct,members
+1,6,-0.1519286732831794,0.0015462021433355067,ncol_gr1a;oaccruals_ni;rd_me;sale_gr1;sale_gr3;taccruals_ni
+2,59,-0.019764822316739233,0.13371005310977568,aliq_at;at_gr1;at_me;be_gr1a;be_me;betabab_1260d;betadown_252d;bev_mev;capx_gr1;capx_gr2;capx_gr3;chcsho_12m;coa_gr1a;col_gr1a;corr_1260d;cowc_gr1a;debt_me;dsale_dinv;earnings_variability;ebit_sale;ebitda_mev;emp_gr1;eq_dur;eqnetis_at;eqnpo_12m;eqnpo_me;eqpo_me;f_score;inv_gr1;inv_gr1a;ival_me;ivol_capm_252d;ivol_ff3_21d;kz_index;lnoa_gr1a;mispricing_mgmt;ncoa_gr1a;netis_at;ni_me;nncoa_gr1a;noa_at;noa_gr1a;oaccruals_at;ocf_me;ocfq_saleq_std;ppeinv_gr1a;qmj_growth;ret_60_12;rmax1_21d;rmax5_21d;rvol_21d;sale_me;seas_2_5na;seas_6_10na;taccruals_at;turnover_126d;zero_trades_126d;zero_trades_21d;zero_trades_252d
+3,3,-0.15846190081166087,-0.004987025385145949,beta_60m;beta_dimson_21d;sti_gr1a
+4,1,-0.15349420012076473,-1.9324694249811536e-05,seas_16_20na
+5,4,-0.15027037649613914,0.0032044989303757765,iskew_ff3_21d;ret_1_0;rmax5_rvol_21d;rskew_21d
+6,1,-0.15600122289636684,-0.0025263474698519195,coskew_21d
+7,19,-0.1484420951455086,0.005032780281006316,capex_abn;dbnetis_at;dsale_dsga;fcf_me;fnl_gr1a;nfna_gr1a;niq_su;ocf_at_chg1;prc_highprc_252d;resff3_12_1;resff3_6_1;ret_12_1;ret_12_7;ret_3_1;ret_6_1;ret_9_1;sale_emp_gr1;seas_1_1an;seas_1_1na
+8,24,-0.2170699734097282,-0.06359509798321328,aliq_mat;at_turnover;cop_atl1;dolvol_var_126d;ebit_bev;gp_at;mispricing_perf;ni_be;ni_inc8q;niq_at;niq_be;o_score;ocf_at;op_atl1;ope_be;opex_at;qmj;qmj_prof;qmj_safety;sale_bev;saleq_su;tax_gr1a;turnover_var_126d;z_score
+9,7,-0.15750547790232688,-0.004030602475811967,at_be;debt_gr3;dgp_dsale;dsale_drec;lti_gr1a;pi_nix;tangibility
+10,3,-0.15304028273969247,0.0004345926868224437,seas_11_15an;seas_2_5an;seas_6_10an
+11,1,-0.15590544398650316,-0.0024305685599882443,seas_16_20an
+12,12,-0.17684521756530547,-0.02337034213879055,age;ami_126d;bidaskhl_21d;cash_at;dolvol_126d;market_equity;netdebt_me;ni_ar1;ni_ivol;prc;rd5_at;rd_sale
+13,1,-0.15280035004548748,0.000674525381027441,seas_11_15na

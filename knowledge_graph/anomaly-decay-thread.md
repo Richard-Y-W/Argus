@@ -59,6 +59,11 @@
                                                 and breadth robustness] ✓
                                                [EXP-020: equal-factor estimand] ✓
                                                [EXP-021: single-factor influence] ✓
+                                                       │ dependence unit attacked by
+                                                       ▼
+                                               [EXP-022: effective breadth ≈13/141] ✓
+                                               [EXP-023: family exact inference] ✗
+                                               [EXP-024: family influence] ✗
 ```
 
 ## Edge notes
@@ -83,3 +88,4 @@
 - EXP-013 → EXP-015 (2026-07-17): with JKP construction fixed, world decay (-0.096, t=-2.17) exceeds world-ex-US (-0.037, t=-0.55). Registered rules pass, but the paired world-minus-ex-US gap has t=-1.27. Evidence is consistent with US concentration, not decisive geography or arbitrage identification.
 - EXP-015 → EXP-016 (2026-07-18): standalone JKP US decay is strong (-0.164 pp/month, t=-2.97), but the direct US-minus-world-ex-US gap remains imprecise (-0.131, t=-1.45) and fails its registered rule. Construction mismatch is a weaker explanation; geography is still not statistically distinguished.
 - EXP-016 → EXP-020/021 (2026-07-21): equal factor weighting retains -0.154 pp/month decay with 70.9% negative contrasts, and every single-factor deletion leaves the pooled coefficient between -0.170 and -0.159. Unequal histories and single-factor dominance are rejected as explanations; correlated families and direct trading quantities remain unresolved.
+- EXP-020/021 → EXP-022/023/024 (2026-07-26): pre-publication correlations reduce 141 nominal factors to 12.99 effective dimensions. Equal-family decay is only -0.070 pp/month with 8/13 negative families and exact p=0.206. Deleting one 59-factor family weakens equal-factor decay to -0.020. The pooled association remains, but the earlier cross-factor breadth interpretation is downgraded: it is concentrated in correlated constructions rather than broad independent evidence.

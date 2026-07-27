@@ -1,0 +1,2 @@
+full_mean_pct,deletions,minimum_estimate_pct,maximum_estimate_pct,max_abs_shift_pct,most_influential_cluster,P1,P2,P3,falsifier,survives
+-0.15347487542651492,13,-0.2170699734097282,-0.019764822316739233,0.13371005310977568,2,True,False,False,False,False

@@ -1,0 +1,2 @@
+ clusters  equal_cluster_mean_pct  negative_clusters  exact_two_sided_p    P1    P2    P3  falsifier  survives
+       13               -0.069831                  8           0.205811 False False False      False     False

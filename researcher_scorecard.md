@@ -4,7 +4,7 @@
 
 **Researcher:** Richard
 **Started:** 2026-07-09
-**Last updated:** 2026-07-23 (two JKP infrastructure cycles — Argus-executed)
+**Last updated:** 2026-07-26 (three factor-dependence cycles — Argus-executed)
 
 ---
 
@@ -19,7 +19,7 @@ First phase chosen by the researcher: **foundations first** (Modules 1–5), cap
 | Metric | Count | Notes |
 |--------|-------|-------|
 | Papers read (by researcher) | 0 | declined to read M&P 2016 (2026-07-10) — honest zero |
-| Papers digested via Argus summaries | 9 | Prior eight plus Jensen, Kelly, and Pedersen 2023; no new researcher reading claimed |
+| Papers digested via Argus summaries | 10 | Prior nine plus a dependence-focused re-read of Harvey, Liu, and Zhu 2016; no new researcher reading claimed |
 | Papers fully understood | 0 | "Fully understood" = could re-derive the core result and explain it to a skeptic. Researcher independently reconstructed most of M&P's *design logic* (2026-07-09) — close, not counted |
 | Papers replicated (by the lab) | 1 | EXP-001: M&P 2016 — executed by Argus, directed by researcher |
 | Landmark papers mastered | 0 | |
@@ -52,7 +52,7 @@ Mastery scale: `0 — unaware` · `1 — heard of it` · `2 — can follow` · `
 | Replications completed | 0 |
 | Novel experiments | 0 |
 | Robustness analyses | 0 |
-| Negative results documented | 9 (EXP-004/005/006/007/008/009/010/014/016 at lab level; researcher not yet author of one) |
+| Negative results documented | 11 (prior nine plus EXP-023/024 at lab level; researcher not yet author of one) |
 | Statistical mistakes caught before execution | 0 |
 
 ## Scientific Judgment — Milestone Log
@@ -71,6 +71,7 @@ Record dated, concrete examples where the researcher: changed their mind after e
 - **2026-07-21 — Three robustness objections tested prospectively.** EXP-017 retained the US result under factor-and-month clustering; EXP-018 retained it outside a publication ±1-year donut; EXP-019 found that within-factor stock-count controls did not absorb it. These harden the return pattern but were not promoted as mechanism evidence. No researcher judgment event: researcher delegated the cycles.
 - **2026-07-21 — Weighting and single-factor influence tested prospectively.** EXP-020 retained decay with one equal-weight contrast per factor (-0.154 pp/month; 70.9% negative). EXP-021 found that all 141 single-factor deletions left the pooled coefficient in a narrow negative range. These close two concentration objections without adding mechanism evidence. No researcher judgment event: researcher delegated the cycles.
 - **2026-07-23 — Reproducibility hardened without manufacturing a new claim.** Two engineering cycles migrated the EXP-016 JKP workflow to shared code and added semantic plus golden regression tests. Exact result parity was kept distinct from empirical confirmation. No researcher judgment event: researcher delegated the cycles.
+- **2026-07-26 — Correlated-family audit overturns the breadth interpretation.** EXP-022 reduced 141 nominal factors to 12.99 effective dimensions. EXP-023 rejected family-level breadth (8/13 negative; exact p=0.206), and EXP-024 showed that deleting one 59-factor family nearly erases the equal-factor mean. The lab revised its own earlier “broad” language rather than defending a stable pooled coefficient. No researcher judgment event: researcher delegated the cycles.
 
 ## Contribution Attribution Ledger
 
@@ -99,5 +100,8 @@ Each research cycle gets one of four levels (defined in the charter §Contributi
 | 2026-07-21 | EXP-021 single-factor influence audit | AI-led | Argus froze every deletion and decision threshold before execution, ran all 141 refits, and retained correlated-family limitations. |
 | 2026-07-23 | Canonical JKP decay migration | AI-led | Researcher requested more cycles; Argus selected the stated engineering priority, registered parity checks, migrated shared semantics, and reproduced all EXP-016 outputs exactly. |
 | 2026-07-23 | JKP golden regression coverage | AI-led | Argus preregistered layered checks, added synthetic and licensed-data tests, and documented the difference between behavioral stability and empirical confirmation. |
+| 2026-07-26 | EXP-022 effective factor breadth | AI-led | Argus selected the unresolved correlated-family objection, fixed pre-publication-only clustering and effective-rank rules, and executed the diagnostic. |
+| 2026-07-26 | EXP-023 family-level exact inference | AI-led | Argus fixed 13 equal-family units and exhaustive sign inference before observing assignments or family outcomes, then rejected every prediction. |
+| 2026-07-26 | EXP-024 family influence audit | AI-led | Argus froze whole-family deletions and influence bounds before execution, then documented concentration in a 59-factor family. |
 
 **Operating target:** research proceeds autonomously when the researcher is busy. Human input is welcomed but never required; contribution labels must continue to distinguish topic direction from hypothesis design and execution.

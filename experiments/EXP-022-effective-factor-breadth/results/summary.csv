@@ -1,0 +1,2 @@
+nominal_factors,effective_rank,effective_share,eligible_pair_coverage,within_median,between_median,median_gap,P1,P2,P3,falsifier,survives
+141,12.989580906194302,0.09212468727797377,0.9776089159067882,0.32458153512942595,-0.03181537621359104,0.356396911343017,True,True,True,False,True

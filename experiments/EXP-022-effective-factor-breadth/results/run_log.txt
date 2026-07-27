@@ -1,0 +1,2 @@
+ nominal_factors  effective_rank  effective_share  eligible_pair_coverage  within_median  between_median  median_gap   P1   P2   P3  falsifier  survives
+             141       12.989581         0.092125                0.977609       0.324582       -0.031815    0.356397 True True True      False      True

@@ -1,0 +1,2 @@
+ full_mean_pct  deletions  minimum_estimate_pct  maximum_estimate_pct  max_abs_shift_pct  most_influential_cluster   P1    P2    P3  falsifier  survives
+     -0.153475         13              -0.21707             -0.019765            0.13371                         2 True False False      False     False

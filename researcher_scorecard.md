@@ -4,7 +4,7 @@
 
 **Researcher:** Richard
 **Started:** 2026-07-09
-**Last updated:** 2026-07-26 (three factor-dependence cycles — Argus-executed)
+**Last updated:** 2026-07-29 (two virtual-economy design audits)
 
 ---
 
@@ -23,7 +23,7 @@ First phase chosen by the researcher: **foundations first** (Modules 1–5), cap
 | Papers fully understood | 0 | "Fully understood" = could re-derive the core result and explain it to a skeptic. Researcher independently reconstructed most of M&P's *design logic* (2026-07-09) — close, not counted |
 | Papers replicated (by the lab) | 1 | EXP-001: M&P 2016 — executed by Argus, directed by researcher |
 | Landmark papers mastered | 0 | |
-| Research areas explored | 1 | cross-sectional anomaly decay |
+| Research areas explored | 2 | cross-sectional anomaly decay; financialization of virtual economies |
 
 ## Mathematics
 
@@ -72,6 +72,8 @@ Record dated, concrete examples where the researcher: changed their mind after e
 - **2026-07-21 — Weighting and single-factor influence tested prospectively.** EXP-020 retained decay with one equal-weight contrast per factor (-0.154 pp/month; 70.9% negative). EXP-021 found that all 141 single-factor deletions left the pooled coefficient in a narrow negative range. These close two concentration objections without adding mechanism evidence. No researcher judgment event: researcher delegated the cycles.
 - **2026-07-23 — Reproducibility hardened without manufacturing a new claim.** Two engineering cycles migrated the EXP-016 JKP workflow to shared code and added semantic plus golden regression tests. Exact result parity was kept distinct from empirical confirmation. No researcher judgment event: researcher delegated the cycles.
 - **2026-07-26 — Correlated-family audit overturns the breadth interpretation.** EXP-022 reduced 141 nominal factors to 12.99 effective dimensions. EXP-023 rejected family-level breadth (8/13 negative; exact p=0.206), and EXP-024 showed that deleting one 59-factor family nearly erases the equal-factor mean. The lab revised its own earlier “broad” language rather than defending a stable pooled coefficient. No researcher judgment event: researcher delegated the cycles.
+- **2026-07-27 — Broadened a weak token example into an institutional finance question.** Richard rejected a Robux/V-Bucks-only framing and identified game currencies, virtual commodities, skins, and other digital assets as a wider empirical domain. He explicitly asked Argus not to assume alpha and instead emphasized documented supply-and-demand systems. The cycle converted that intuition into a testable convertibility question while deferring experimentation until identification and executable data are verified.
+- **2026-07-29 — Two design audits preserve the promotion boundary.** A 21-event inventory found precise institutional dates but no public event with timing, comparison units, coverage, and executable prices all verified. A second audit rejected retrospective developer-credibility scoring as outcome-contaminated and confounded, replacing it with a prospective promise-ledger protocol. No researcher judgment event: researcher delegated both cycles.
 
 ## Contribution Attribution Ledger
 
@@ -103,5 +105,8 @@ Each research cycle gets one of four levels (defined in the charter §Contributi
 | 2026-07-26 | EXP-022 effective factor breadth | AI-led | Argus selected the unresolved correlated-family objection, fixed pre-publication-only clustering and effective-rank rules, and executed the diagnostic. |
 | 2026-07-26 | EXP-023 family-level exact inference | AI-led | Argus fixed 13 equal-family units and exhaustive sign inference before observing assignments or family outcomes, then rejected every prediction. |
 | 2026-07-26 | EXP-024 family influence audit | AI-led | Argus froze whole-family deletions and influence bounds before execution, then documented concentration in a 59-factor family. |
+| 2026-07-27 | Virtual-economy financialization discovery cycle | Collaborative | Richard originated and materially broadened the research domain, rejected an alpha-first framing, and emphasized game economies as documented economic systems; Argus scouted the literature, separated moneyness from financialization, ranked four empirical paths, and deferred registration pending an event/data audit. |
+| 2026-07-29 | Virtual-economy event-and-data audit | AI-led | Researcher requested two more cycles; Argus assembled and screened 21 events across seven systems, identified EVE PLEX and Roblox DevEx as the strongest leads, and withheld registration because no public design cleared all promotion criteria. |
+| 2026-07-29 | Developer policy-credibility design audit | AI-led | Argus tested the second queued question, rejected an outcome-contaminated cross-platform score, specified a prospective promise ledger, and documented the need for expectations or platform microdata. |
 
 **Operating target:** research proceeds autonomously when the researcher is busy. Human input is welcomed but never required; contribution labels must continue to distinguish topic direction from hypothesis design and execution.

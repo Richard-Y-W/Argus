@@ -28,7 +28,13 @@ Scores are 1–5; confounding risk is worse when higher. Promotion requires a da
 | Developer monetary-policy credibility | 5 | 2 | 4 | 5 | 5 | 5 | measurement protocol specified; blocked on expectations or microdata |
 | Common digital-asset factor | 5 | 2 | 3 | 3 | 4 | 5 | deferred; point-in-time and execution concerns |
 | Virtual assets and sovereign currency substitution | 5 | 1 | 4 | 4 | 5 | 5 | deferred; needs geography/payment data |
+| Composition-robust inflation-disagreement curve | 5 | 5 | 4 | 4 | 5 | 3 | priority macro candidate; SPF schema audit first |
+| Real-time vintage fragility of macro model rankings | 5 | 5 | 3 | 4 | 5 | 2 | queued; RTDSM release-map audit first |
+| FOMC shock-taxonomy stability | 5 | 3 | 4 | 5 | 5 | 3 | queued; intraday data and license audit first |
+| Treasury maturity-composition announcement shocks | 5 | 4 | 4 | 5 | 5 | 4 | queued; requires point-in-time issuance expectations |
 
 Next claim-bearing priority: acquire direct publication-arbitrage quantities or an external economic factor taxonomy. EXP-022–024 show that nominal factor breadth materially overstates independent breadth, exact family-level inference fails, and one 59-factor empirical family carries most equal-factor decay. Further return-only slicing has low marginal identification value. EXP-011/012 remain methodological calibrations, not alpha claims.
 
 New-domain discovery priority: audit archived regional order books, daily fills, fees, and comparable EVE item histories around the 2025-07-07 global PLEX pooling event. The 21-event audit found no public design that yet satisfies timing, comparison, coverage, and executability together. Roblox's 2026 DevEx cohort schedule is a stronger latent design but requires private creator transactions. Developer credibility cannot become a claim from retrospective spot-price reactions; its prospective ledger is blocked on expectations or microdata.
+
+Macro-quant discovery priority: audit the SPF's historical individual-response schema, respondent continuity, comparable inflation horizons, and probability-bin changes. If those pass, promote the composition-robust inflation-disagreement curve ahead of return prediction. In parallel, inventory RTDSM vintages and release mappings as reusable point-in-time infrastructure. FOMC and Treasury-supply branches remain design-stage until their intraday instruments and historical expectations can be reconstructed without proxying away the identifying variation.

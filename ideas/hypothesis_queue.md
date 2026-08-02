@@ -36,9 +36,14 @@ Scores are 1–5; confounding risk is worse when higher. Promotion requires a da
 | PLEX order-book resilience after global pooling | 5 | 5 | 4 | 4 | 5 | 4 | queued; entropy must beat spread/depth/concentration baselines |
 | Self-exciting virtual-asset order flow | 5 | 2 | 3 | 4 | 5 | 4 | deferred; snapshot censoring prevents event-time interpretation |
 | Ecological competition among virtual assets | 4 | 3 | 4 | 3 | 5 | 5 | deferred; needs quantities or strategy-abundance proxies |
+| Fluid continuity of PLEX order density | 5 | 4 | 4 | 5 | 5 | 4 | sandbox candidate; source/sink accounting must close first |
+| Evolutionary strategy search under untouched confirmation | 5 | 5 | 3 | 4 | 5 | 2 | synthetic methods candidate extending EXP-011/012 |
+| Strategy ecology from capital-flow abundance | 5 | 2 | 4 | 5 | 5 | 4 | data scouting; prices alone do not identify populations |
 
 Next claim-bearing priority: acquire direct publication-arbitrage quantities or an external economic factor taxonomy. EXP-022–024 show that nominal factor breadth materially overstates independent breadth, exact family-level inference fails, and one 59-factor empirical family carries most equal-factor decay. Further return-only slicing has low marginal identification value. EXP-011/012 remain methodological calibrations, not alpha claims.
 
 New-domain discovery priority: EVE Ref's regional and global PLEX books are now verified around the July 2025 pooling event. The next cycle should pin ±60-day indexes and ETags, locate the exact transition sequence, choose controls from pre-event liquidity only, and build a streaming extractor before registering market-quality or spatial-diffusion predictions. Roblox's 2026 DevEx cohort schedule remains a stronger latent causal design but requires private creator transactions. Developer credibility remains blocked on expectations or microdata.
 
 Macro-quant discovery priority: audit the SPF's historical individual-response schema, respondent continuity, comparable inflation horizons, and probability-bin changes. If those pass, promote the composition-robust inflation-disagreement curve ahead of return prediction. In parallel, inventory RTDSM vintages and release mappings as reusable point-in-time infrastructure. FOMC and Treasury-supply branches remain design-stage until their intraday instruments and historical expectations can be reconstructed without proxying away the identifying variation.
+
+Cross-disciplinary methods priority: treat regional PLEX diffusion as the first empirical physics branch, then test whether order-density source/sink accounting supports a fluid limit. Keep evolutionary self-replication synthetic until every evaluated genome is logged, random search receives the same budget, and one confirmation era remains untouched. Strategy ecology requires capital or participant-abundance data and cannot be inferred from prices alone.

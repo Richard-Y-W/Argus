@@ -4,7 +4,7 @@
 
 **Researcher:** Richard
 **Started:** 2026-07-09
-**Last updated:** 2026-08-02 (digital-assets and complex-systems audit)
+**Last updated:** 2026-08-02 (novelty, self-replication, and fluid-finance cycle)
 
 ---
 
@@ -76,6 +76,7 @@ Record dated, concrete examples where the researcher: changed their mind after e
 - **2026-07-29 — Two design audits preserve the promotion boundary.** A 21-event inventory found precise institutional dates but no public event with timing, comparison units, coverage, and executable prices all verified. A second audit rejected retrospective developer-credibility scoring as outcome-contaminated and confounded, replacing it with a prospective promise-ledger protocol. No researcher judgment event: researcher delegated both cycles.
 - **2026-08-02 — Macro breadth expanded without forcing four backtests.** Richard directed Argus toward macro/quant work and away from latency as an objective. Four literature-and-design cycles ranked inflation-disagreement composition and real-time vintages above two more data-constrained event studies. The lab withheld `HYP-025` until point-in-time schemas and expectations are verified. Researcher judgment evidence is the domain and objective choice; branch selection and design were delegated.
 - **2026-08-02 — Cross-disciplinary method suggestion sharpened the digital-asset program.** Richard asked to revisit digital-asset data and proposed biology/physics as a source of potential edge. The live archive probe moved EVE PLEX from unknown to feasible, while method triage retained network diffusion and rejected metaphor-only transfers. This is a researcher-originated methodological direction; no empirical edge is claimed.
+- **2026-08-02 — Self-replication and fluid mechanics converted into falsifiable programs.** Richard extended the cross-disciplinary direction to replicating strategies and fluid mechanics. The cycle distinguished economic replication from genetic-program search, required complete search ledgers and untouched confirmation, and reduced fluid language to a continuity/source-sink audit before any PDE claim. The methodological intuition was researcher-originated; formalization and prior-art review were delegated.
 
 ## Contribution Attribution Ledger
 
@@ -112,5 +113,6 @@ Each research cycle gets one of four levels (defined in the charter §Contributi
 | 2026-07-29 | Developer policy-credibility design audit | AI-led | Argus tested the second queued question, rejected an outcome-contaminated cross-platform score, specified a prospective promise ledger, and documented the need for expectations or platform microdata. |
 | 2026-08-02 | Four macro-quant discovery cycles | Human-directed | Richard chose the macro/quant direction and explicitly deprioritized low latency; Argus selected the four branches, screened the literature, ranked candidates, and withheld registration pending data audits. |
 | 2026-08-02 | Digital-assets and complex-systems audit | Collaborative | Richard directed the deeper digital-asset audit and proposed biology/physics methods; Argus verified archived PLEX books, mapped observables to candidate mechanisms, and ranked network diffusion above data-incompatible analogies. |
+| 2026-08-02 | PLEX novelty and self-replication/fluid-finance cycle | Collaborative | Richard requested the novelty audit and introduced self-replication plus fluid mechanics; Argus searched prior art, mapped conservation and fitness laws to observables, and bounded the program by data closure and search accounting. |
 
 **Operating target:** research proceeds autonomously when the researcher is busy. Human input is welcomed but never required; contribution labels must continue to distinguish topic direction from hypothesis design and execution.

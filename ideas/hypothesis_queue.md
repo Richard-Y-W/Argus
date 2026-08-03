@@ -39,7 +39,7 @@ Scores are 1–5; confounding risk is worse when higher. Promotion requires a da
 | Fluid continuity of PLEX order density | 5 | 4 | 4 | 5 | 5 | 4 | sandbox candidate; source/sink accounting must close first |
 | Evolutionary strategy search under untouched confirmation | 5 | 5 | 3 | 4 | 5 | 2 | synthetic methods candidate extending EXP-011/012 |
 | Strategy ecology from capital-flow abundance | 5 | 2 | 4 | 5 | 5 | 4 | data scouting; prices alone do not identify populations |
-| Lineage-aware financial immune controller | 5 | 4 | 3 | 5 | 5 | 4 | EXP-025 joint mutation pilot rejected; diversity-constrained hybrid is next discriminator |
+| Lineage-aware financial immune controller | 5 | 4 | 3 | 5 | 5 | 4 | EXP-025/026 rejected fixed mutation and hybrid rules; conditional environment-distance gate is next |
 
 Next claim-bearing priority: acquire direct publication-arbitrage quantities or an external economic factor taxonomy. EXP-022–024 show that nominal factor breadth materially overstates independent breadth, exact family-level inference fails, and one 59-factor empirical family carries most equal-factor decay. Further return-only slicing has low marginal identification value. EXP-011/012 remain methodological calibrations, not alpha claims.
 
@@ -52,3 +52,5 @@ Cross-disciplinary methods priority: treat regional PLEX diffusion as the first 
 Bio-inspired risk priority: broad financial-immune-system novelty is rejected by prior art. Preserve only the narrower lineage-aware controller question. Build an equal-budget synthetic pathology benchmark and require incremental value over ordinary change detection and mixture-of-experts control; biological labels alone receive no novelty credit.
 
 Financial-genetics update: EXP-025 found a bounded local-search advantage but rejected its joint recovery hypothesis. Do not tune mutation scales on the consumed paths. Any successor must preserve a global-novelty quota, measure phenotype as well as genome diversity, add non-evolutionary optimizers, and score immediately after multiple structural regime breaks.
+
+EXP-026 update: fixed diversity preservation worked mechanically but did not improve adaptation and significantly lagged random restart. Do not tune the 25% immigrant share or four-slot reserve on consumed families. The surviving question is whether a frozen environmental-distance gate can allocate search between inheritance, dormant specialists, and global restart.

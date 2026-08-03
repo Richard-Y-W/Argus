@@ -4,7 +4,7 @@
 
 **Researcher:** Richard
 **Started:** 2026-07-09
-**Last updated:** 2026-08-02 (EXP-025 financial-genome pilot)
+**Last updated:** 2026-08-02 (EXP-026 diversity-preserving hybrid)
 
 ---
 
@@ -52,7 +52,7 @@ Mastery scale: `0 — unaware` · `1 — heard of it` · `2 — can follow` · `
 | Replications completed | 0 |
 | Novel experiments | 0 |
 | Robustness analyses | 0 |
-| Negative results documented | 11 (prior nine plus EXP-023/024 at lab level; researcher not yet author of one) |
+| Negative results documented | 13 (prior 11 plus EXP-025/026 at lab level; researcher not yet author of one) |
 | Statistical mistakes caught before execution | 0 |
 
 ## Scientific Judgment — Milestone Log
@@ -79,6 +79,7 @@ Record dated, concrete examples where the researcher: changed their mind after e
 - **2026-08-02 — Self-replication and fluid mechanics converted into falsifiable programs.** Richard extended the cross-disciplinary direction to replicating strategies and fluid mechanics. The cycle distinguished economic replication from genetic-program search, required complete search ledgers and untouched confirmation, and reduced fluid language to a continuity/source-sink audit before any PDE claim. The methodological intuition was researcher-originated; formalization and prior-art review were delegated.
 - **2026-08-02 — Immune, stem-cell, and cancer analogy narrowed after prior art.** Richard connected immune surveillance, cell differentiation, mutation, and cancer detection to financial-system health. The audit found close precedent for immune regulation and cancer-like growth, corrected mutation-versus-differentiation, and retained a narrower lineage-aware risk-control question with explicit falsifiers. This is researcher-originated synthesis; literature lineage and experiment formalization were delegated.
 - **2026-08-02 — Financial DNA received its first falsifiable vertical slice.** Richard recognized that the broader program required a stable genome, defined mutations, and a narrow entry point. EXP-025 compared inherited local mutation with equal-budget global search. The regret sub-result survived confirmation, but the joint recovery hypothesis failed and local mutation sharply compressed diversity. The lab archived the rejection rather than promoting the positive endpoint.
+- **2026-08-02 — Diversity was separated from adaptation benefit.** After EXP-025, Richard asked Argus to keep testing rather than abandon the financial-genetics program. EXP-026 reserved population capacity for global immigrants and phenotypically distinct genomes. Diversity increased strongly, but adaptation did not; the lab rejected the fixed hybrid and shifted the question to conditional evolvability based on environmental distance.
 
 ## Contribution Attribution Ledger
 
@@ -118,5 +119,6 @@ Each research cycle gets one of four levels (defined in the charter §Contributi
 | 2026-08-02 | PLEX novelty and self-replication/fluid-finance cycle | Collaborative | Richard requested the novelty audit and introduced self-replication plus fluid mechanics; Argus searched prior art, mapped conservation and fitness laws to observables, and bounded the program by data closure and search accounting. |
 | 2026-08-02 | Financial immune-system prior-art audit | Collaborative | Richard originated the immune/stem-cell/cancer system-health architecture; Argus found close immune-regulation and AIS precedents, isolated lineage-aware fitness-health divergence as the narrower gap, and specified an equal-budget synthetic benchmark. |
 | 2026-08-02 | EXP-025 financial-genome adaptation pilot | Collaborative | Richard specified the need for stable financial DNA, mutation rules, and a testable vertical slice; Argus registered and executed the equal-budget synthetic comparison. Three of four predictions passed, recovery failed, and the joint hypothesis was rejected. |
+| 2026-08-02 | EXP-026 diversity-preserving financial genetics | Collaborative | Richard directed further testing of the financial-genetics problem; Argus registered a fixed descendant/immigrant hybrid with phenotype-reserved slots. The diversity mechanism worked, three adaptation predictions failed, and the joint hypothesis was rejected. |
 
 **Operating target:** research proceeds autonomously when the researcher is busy. Human input is welcomed but never required; contribution labels must continue to distinguish topic direction from hypothesis design and execution.

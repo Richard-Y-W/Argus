@@ -1,0 +1,5 @@
+endpoint,estimate,ci_low,ci_high
+random_minus_evolution_regret,0.018318768982174927,0.008301696424102972,0.02892077253005009
+random_minus_evolution_recovery_days,8.666666666666666,-4.734166666666666,27.833333333333332
+evolution_to_random_volatility,0.961401324676636,,
+evolution_minus_random_annual_es_5,-0.08155004759873385,,

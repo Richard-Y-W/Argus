@@ -1,0 +1,17 @@
+{
+  "constants": {
+    "cost": 0.0005,
+    "population": 12,
+    "candidates_per_adaptation": 48,
+    "dev_seeds": 10,
+    "confirmation_seeds": 30,
+    "bootstraps": 10000
+  },
+  "tests": {
+    "P1": true,
+    "P2": false,
+    "P3": true,
+    "P4": true,
+    "joint": false
+  }
+}

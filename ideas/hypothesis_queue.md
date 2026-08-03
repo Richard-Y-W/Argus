@@ -39,6 +39,7 @@ Scores are 1–5; confounding risk is worse when higher. Promotion requires a da
 | Fluid continuity of PLEX order density | 5 | 4 | 4 | 5 | 5 | 4 | sandbox candidate; source/sink accounting must close first |
 | Evolutionary strategy search under untouched confirmation | 5 | 5 | 3 | 4 | 5 | 2 | synthetic methods candidate extending EXP-011/012 |
 | Strategy ecology from capital-flow abundance | 5 | 2 | 4 | 5 | 5 | 4 | data scouting; prices alone do not identify populations |
+| Lineage-aware financial immune controller | 5 | 4 | 3 | 5 | 5 | 4 | synthetic methods candidate; benchmark B0-B5 before registration |
 
 Next claim-bearing priority: acquire direct publication-arbitrage quantities or an external economic factor taxonomy. EXP-022–024 show that nominal factor breadth materially overstates independent breadth, exact family-level inference fails, and one 59-factor empirical family carries most equal-factor decay. Further return-only slicing has low marginal identification value. EXP-011/012 remain methodological calibrations, not alpha claims.
 
@@ -47,3 +48,5 @@ New-domain discovery priority: EVE Ref's regional and global PLEX books are now 
 Macro-quant discovery priority: audit the SPF's historical individual-response schema, respondent continuity, comparable inflation horizons, and probability-bin changes. If those pass, promote the composition-robust inflation-disagreement curve ahead of return prediction. In parallel, inventory RTDSM vintages and release mappings as reusable point-in-time infrastructure. FOMC and Treasury-supply branches remain design-stage until their intraday instruments and historical expectations can be reconstructed without proxying away the identifying variation.
 
 Cross-disciplinary methods priority: treat regional PLEX diffusion as the first empirical physics branch, then test whether order-density source/sink accounting supports a fluid limit. Keep evolutionary self-replication synthetic until every evaluated genome is logged, random search receives the same budget, and one confirmation era remains untouched. Strategy ecology requires capital or participant-abundance data and cannot be inferred from prices alone.
+
+Bio-inspired risk priority: broad financial-immune-system novelty is rejected by prior art. Preserve only the narrower lineage-aware controller question. Build an equal-budget synthetic pathology benchmark and require incremental value over ordinary change detection and mixture-of-experts control; biological labels alone receive no novelty credit.

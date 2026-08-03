@@ -1,0 +1,9 @@
+endpoint,estimate,ci_low,ci_high
+gate_minus_evolution_full,0.005975841955153329,-0.008279219160556144,0.01989146239722592
+gate_minus_random_full,-0.0027248729510670174,-0.012916058107032141,0.007220983822265285
+gate_minus_hybrid_full,-0.0011591780254935373,-0.01221141708831164,0.00968903232865074
+global_share_small_drift,0.0,,
+global_share_moderate_rotation,0.0,,
+global_share_mean_reversion,0.0,,
+global_share_correlation_break,0.8055555555555557,,
+gate_es_minus_best_fixed,0.1862619755739492,,

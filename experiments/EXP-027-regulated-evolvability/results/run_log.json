@@ -1,0 +1,20 @@
+{
+  "families": {
+    "small_drift": 6,
+    "moderate_rotation": 6,
+    "mean_reversion": 6,
+    "correlation_break": 6
+  },
+  "thresholds": [
+    1.25,
+    2.5
+  ],
+  "tests": {
+    "P1": false,
+    "P2": false,
+    "P3": false,
+    "P4": false,
+    "P5": false,
+    "joint": false
+  }
+}

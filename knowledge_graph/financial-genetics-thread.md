@@ -26,4 +26,8 @@ The current mechanism map is:
 
 EXP-025 suggests local inheritance can help after a related transition; EXP-026 shows that unconditional mixed inheritance is inadequate across large structural breaks. This contrast is hypothesis-generating, not a registered cross-experiment estimate.
 
+`EXP-027` then rejected a generic causal environment-distance gate. The score increased across intended severity and isolated the correlation-break family, but failed every performance, routing, and tail-risk prediction. The missing estimand is not distribution distance; it is the **decision value of inheritance for a particular genome and phenotype**.
+
+Program stop: do not tune more thresholds or component weights on EXP-025–027's consumed synthetic families. Resume only with an externally specified benchmark or point-in-time historical validation.
+
 No market, alpha, or literal biological claim currently survives.

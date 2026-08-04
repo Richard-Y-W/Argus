@@ -24,7 +24,7 @@ Scores are 1–5; confounding risk is worse when higher. Promotion requires a da
 | Effective factor breadth | 5 | 5 | 4 | 3 | 5 | 2 | completed as EXP-022; nominal breadth rejected |
 | Family-level exact decay inference | 5 | 5 | 4 | 3 | 5 | 2 | completed as EXP-023; rejected |
 | Leave-one-family-out decay | 5 | 5 | 3 | 3 | 5 | 2 | completed as EXP-024; rejected |
-| Convertibility shock and virtual-asset financialization | 5 | 5 | 4 | 5 | 5 | 4 | PLEX cancellation/formation boundary verified; pre-event-only control selection next |
+| Convertibility shock and virtual-asset financialization | 5 | 5 | 4 | 5 | 5 | 4 | paused by researcher 2026-08-03; boundary and artifacts preserved |
 | Developer monetary-policy credibility | 5 | 2 | 4 | 5 | 5 | 5 | measurement protocol specified; blocked on expectations or microdata |
 | Common digital-asset factor | 5 | 2 | 3 | 3 | 4 | 5 | deferred; point-in-time and execution concerns |
 | Virtual assets and sovereign currency substitution | 5 | 1 | 4 | 4 | 5 | 5 | deferred; needs geography/payment data |
@@ -32,24 +32,24 @@ Scores are 1–5; confounding risk is worse when higher. Promotion requires a da
 | Real-time vintage fragility of macro model rankings | 5 | 5 | 3 | 4 | 5 | 2 | queued; RTDSM release-map audit first |
 | FOMC shock-taxonomy stability | 5 | 3 | 4 | 5 | 5 | 3 | queued; intraday data and license audit first |
 | Treasury maturity-composition announcement shocks | 5 | 4 | 4 | 5 | 5 | 4 | queued; requires point-in-time issuance expectations |
-| Spatial diffusion of regional PLEX quote gaps | 5 | 5 | 4 | 5 | 5 | 3 | priority physics-informed sandbox after extraction pipeline |
-| PLEX order-book resilience after global pooling | 5 | 5 | 4 | 4 | 5 | 4 | queued; entropy must beat spread/depth/concentration baselines |
+| Spatial diffusion of regional PLEX quote gaps | 5 | 5 | 4 | 5 | 5 | 3 | paused by researcher 2026-08-03; quarantined from genetics |
+| PLEX order-book resilience after global pooling | 5 | 5 | 4 | 4 | 5 | 4 | paused by researcher 2026-08-03; quarantined from genetics |
 | Self-exciting virtual-asset order flow | 5 | 2 | 3 | 4 | 5 | 4 | deferred; snapshot censoring prevents event-time interpretation |
 | Ecological competition among virtual assets | 4 | 3 | 4 | 3 | 5 | 5 | deferred; needs quantities or strategy-abundance proxies |
-| Fluid continuity of PLEX order density | 5 | 4 | 4 | 5 | 5 | 4 | sandbox candidate; source/sink accounting must close first |
+| Fluid continuity of PLEX order density | 5 | 4 | 4 | 5 | 5 | 4 | paused by researcher 2026-08-03; quarantined from genetics |
 | Evolutionary strategy search under untouched confirmation | 5 | 5 | 3 | 4 | 5 | 2 | synthetic methods candidate extending EXP-011/012 |
 | Strategy ecology from capital-flow abundance | 5 | 2 | 4 | 5 | 5 | 4 | data scouting; prices alone do not identify populations |
 | Lineage-aware financial immune controller | 5 | 3 | 3 | 5 | 5 | 5 | EXP-025–027 rejected; pause synthetic tuning, require external benchmark or point-in-time data |
 
 Next claim-bearing priority: acquire direct publication-arbitrage quantities or an external economic factor taxonomy. EXP-022–024 show that nominal factor breadth materially overstates independent breadth, exact family-level inference fails, and one 59-factor empirical family carries most equal-factor decay. Further return-only slicing has low marginal identification value. EXP-011/012 remain methodological calibrations, not alpha claims.
 
-New-domain discovery priority: EVE Ref's regional and global PLEX books are now verified around the July 2025 pooling event. The next cycle should pin ±60-day indexes and ETags, locate the exact transition sequence, choose controls from pre-event liquidity only, and build a streaming extractor before registering market-quality or spatial-diffusion predictions. Roblox's 2026 DevEx cohort schedule remains a stronger latent causal design but requires private creator transactions. Developer credibility remains blocked on expectations or microdata.
+Paused digital-asset branch: EVE Ref's regional and global PLEX books are verified around the July 2025 pooling event, but the researcher paused this program on 2026-08-03. Preserve the archive reconstruction and do not select controls, estimate effects, or transfer its design choices into genetics until explicitly resumed. Roblox's 2026 DevEx cohort schedule remains a latent causal design requiring private creator transactions. Developer credibility remains blocked on expectations or microdata.
 
-PLEX engineering update: 121 daily indexes and 120 fixed-time candidates are pinned; regional cancellation and global formation are separately bounded on July 7 at half-hour resolution. The next admissible step is pre-event-only control-type selection plus metric-fixture validation, followed by staged payload acquisition—not an immediate effect regression.
+PLEX engineering update: 121 daily indexes and 120 fixed-time candidates are pinned; regional cancellation and global formation are separately bounded on July 7 at half-hour resolution. This state is frozen under `research_governance/2026-08-03-plex-pause-and-genetics-quarantine.md`; no next step is active.
 
 Macro-quant discovery priority: audit the SPF's historical individual-response schema, respondent continuity, comparable inflation horizons, and probability-bin changes. If those pass, promote the composition-robust inflation-disagreement curve ahead of return prediction. In parallel, inventory RTDSM vintages and release mappings as reusable point-in-time infrastructure. FOMC and Treasury-supply branches remain design-stage until their intraday instruments and historical expectations can be reconstructed without proxying away the identifying variation.
 
-Cross-disciplinary methods priority: treat regional PLEX diffusion as the first empirical physics branch, then test whether order-density source/sink accounting supports a fluid limit. Keep evolutionary self-replication synthetic until every evaluated genome is logged, random search receives the same budget, and one confirmation era remains untouched. Strategy ecology requires capital or participant-abundance data and cannot be inferred from prices alone.
+Cross-disciplinary methods priority: financial genetics is active; PLEX-based physics is paused and quarantined. Do not reuse the consumed EXP-025–027 AR(1) paths. Require an externally specified benchmark or a point-in-time historical design, log every evaluated genome, give non-evolutionary baselines the same budget, and preserve an untouched evaluation boundary. Strategy ecology requires capital or participant-abundance data and cannot be inferred from prices alone.
 
 Bio-inspired risk priority: broad financial-immune-system novelty is rejected by prior art. Preserve only the narrower lineage-aware controller question. Build an equal-budget synthetic pathology benchmark and require incremental value over ordinary change detection and mixture-of-experts control; biological labels alone receive no novelty credit.
 
@@ -57,4 +57,4 @@ Financial-genetics update: EXP-025 found a bounded local-search advantage but re
 
 EXP-026 update: fixed diversity preservation worked mechanically but did not improve adaptation and significantly lagged random restart. Do not tune the 25% immigrant share or four-slot reserve on consumed families. The surviving question is whether a frozen environmental-distance gate can allocate search between inheritance, dormant specialists, and global restart.
 
-EXP-027 update: the frozen distance gate failed all predictions. Generic distribution distance did not identify the decision value of inheritance. Pause this simulator program; the next admissible evidence source is an externally specified benchmark or point-in-time historical multi-asset data. In parallel, advance PLEX through transition reconstruction rather than effect estimation.
+EXP-027 update: the frozen distance gate failed all predictions. Generic distribution distance did not identify the decision value of inheritance. Pause this simulator family; the next admissible evidence source is an externally specified benchmark or point-in-time historical multi-asset data. The separate PLEX program is paused by researcher instruction and must not inform this design.

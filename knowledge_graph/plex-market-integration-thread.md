@@ -1,5 +1,7 @@
 # PLEX market-integration thread
 
+**Status:** paused by researcher on 2026-08-03. All artifacts are preserved; no new PLEX analysis is authorized until an explicit resume decision. See `research_governance/2026-08-03-plex-pause-and-genetics-quarantine.md`.
+
 ## Institutional sequence
 
 `59 regional books -> cancellation -> empty PLEX snapshot -> global region 19000001 formation`
@@ -17,7 +19,7 @@ The treatment must therefore be represented as a sequence, not a single date dum
 
 EVE Ref daily indexes -> pinned URL/size/ETag/file time -> temporary hashed payload -> schema-validated streaming PLEX filter -> compact manifest and summary. Full-market archives are not retained.
 
-## Live questions
+## Paused questions
 
 1. Do non-mechanical displayed spread and depth improve after early global formation?
 2. How quickly did the global book replenish after cancellation?
@@ -28,3 +30,4 @@ EVE Ref daily indexes -> pinned URL/size/ETag/file time -> temporary hashed payl
 
 Regional dispersion becoming zero is mechanical. Snapshot disappearance does not identify trades. PLEX/ISK is an in-platform executable market, not a USD-investable asset.
 
+PLEX evidence, identifiers, event timing, metrics, and conclusions are quarantined from the active financial-genetics program.

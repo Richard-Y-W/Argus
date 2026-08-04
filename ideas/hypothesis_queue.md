@@ -41,6 +41,7 @@ Scores are 1–5; confounding risk is worse when higher. Promotion requires a da
 | Strategy ecology from capital-flow abundance | 5 | 2 | 4 | 5 | 5 | 4 | data scouting; prices alone do not identify populations |
 | Lineage-aware financial immune controller | 5 | 3 | 3 | 5 | 5 | 5 | EXP-025–027 rejected; pause synthetic tuning, require external benchmark or point-in-time data |
 | Shock-sparse modular gene repair | 5 | 4 | 3 | 5 | 5 | 4 | EXP-028 joint claim rejected; one cross-family interaction test allowed without retuning |
+| Invariant-restoring financial defense | 5 | 3 | 4 | 5 | 5 | 4 | EXP-029 rejects danger-routed return optimization; redefine health and containment before testing |
 
 Next claim-bearing priority: acquire direct publication-arbitrage quantities or an external economic factor taxonomy. EXP-022–024 show that nominal factor breadth materially overstates independent breadth, exact family-level inference fails, and one 59-factor empirical family carries most equal-factor decay. Further return-only slicing has low marginal identification value. EXP-011/012 remain methodological calibrations, not alpha claims.
 
@@ -61,3 +62,5 @@ EXP-026 update: fixed diversity preservation worked mechanically but did not imp
 EXP-027 update: the frozen distance gate failed all predictions. Generic distribution distance did not identify the decision value of inheritance. Pause this simulator family; the next admissible evidence source is an externally specified benchmark or point-in-time historical multi-asset data. The separate PLEX program is paused by researcher instruction and must not inform this design.
 
 EXP-028 update: an official frozen French archive supplied the first historical modular-repair test. Localized mutation narrowly beat unrestricted mutation on primary certainty equivalent but failed against random restart and increased turnover. Later-vintage results favored minimum variance and equal weight on return-risk tradeoffs. Do not retune the operator; only a preregistered sparse-shock interaction on a second data family remains justified.
+
+EXP-029 update: the danger-routed controller restored tolerance, targeted repair, systemic regeneration, and memory, but failed five of six joint conditions. It beat no fixed response on certainty equivalent, systemic resets raised turnover, and localized repair appeared in only 3.75% of evaluation months. Stop return-optimizer routing on these data. The remaining immune-system question must define an explicit health invariant and measure minimal loss containment.

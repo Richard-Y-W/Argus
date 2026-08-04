@@ -36,3 +36,13 @@ No market, alpha, or literal biological claim currently survives.
 The first frozen-archive historical test rejects the joint modular-repair claim. Restricting changes to two damaged industry weights improved certainty equivalent versus all-gene mutation, but not reliably versus random restart, and turnover increased. The 2025+ check favored conventional minimum variance and equal weight. The biological transfer therefore remains a potentially useful credit-assignment heuristic, not an identified edge.
 
 The only admissible successor is a cross-family test of the specific conditional mechanism: localization should help when observed damage is sparse and fail when shocks are system-wide. EXP-028 outcomes cannot be used to tune mutation size, cost, risk aversion, or module count.
+
+## EXP-029 return to the immune architecture
+
+EXP-029 implemented the missing loop directly:
+
+`danger signal -> tolerance | localized repair | systemic regeneration -> inherited state`
+
+It failed five of six registered conditions on an uninspected 10-industry panel. The controller beat no fixed search response on certainty equivalent, turned over more than localized and all-gene search, and invoked localized repair in only 3.75% of months. This rejects the frozen danger router, not every financial-defense system.
+
+The program has learned that distributional abnormality is not intervention value. A closer immune analogy would stop using return maximization as “health.” It would define a system invariant—such as leverage, liquidity, concentration, drawdown budget, or network solvency—detect a breach, isolate contributors, and seek the smallest response that restores the constraint. That is the next conceptual boundary; no new threshold tuning is admissible on EXP-027–029.

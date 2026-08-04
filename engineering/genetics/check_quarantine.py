@@ -9,6 +9,7 @@ REPO_ROOT = Path(__file__).resolve().parents[2]
 GENETICS_ROOTS = (
     REPO_ROOT / "engineering" / "genetics",
     REPO_ROOT / "experiments" / "EXP-028-modular-gene-repair",
+    REPO_ROOT / "experiments" / "EXP-029-danger-routed-immune-controller",
 )
 SCANNED_SUFFIXES = {".py", ".json", ".toml", ".yaml", ".yml"}
 FORBIDDEN_MARKERS = (

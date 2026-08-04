@@ -32,6 +32,14 @@
         "french_5_industry/archive_202412.zip": {"sha256": "a28855541f5a3e223d18d09e19ca8a433a08d236143c054c4dba7382219000e7"},
         "french_5_industry/current.zip": {"sha256": "621297c649f34edca9ce35ec4ad817a14951c53d3af8e71a8012f335bf88d216"}
       }
+    },
+    "french_10_industry_daily": {
+      "downloaded": "2026-08-04",
+      "source": "Kenneth R. French Data Library",
+      "files": {
+        "french_10_industry/archive_202412.zip": {"sha256": "e2c3cb591feb794a2d22930dab5f487ea5f5c51ede7dd7a5703ada022ae8b36a"},
+        "french_10_industry/current.zip": {"sha256": "c4c9b7c3969e5477630e9e312f61a19bb74c0f8d159612ef3adf33380eeb301c"}
+      }
     }
   }
 }

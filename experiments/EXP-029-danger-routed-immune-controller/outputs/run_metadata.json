@@ -1,0 +1,20 @@
+{
+  "thresholds": {
+    "danger_q75": 1.2278645917151114,
+    "localization_q70": 0.35100271110292014,
+    "calibration_months": 120
+  },
+  "route_shares": {
+    "tolerate": 0.7333333333333333,
+    "systemic": 0.22916666666666666,
+    "localized": 0.0375
+  },
+  "base_seed": 29042026,
+  "candidate_count": 64,
+  "cost": 0.001,
+  "risk_aversion": 1.5,
+  "input_sha256": {
+    "archive_202412.zip": "e2c3cb591feb794a2d22930dab5f487ea5f5c51ede7dd7a5703ada022ae8b36a",
+    "current.zip": "c4c9b7c3969e5477630e9e312f61a19bb74c0f8d159612ef3adf33380eeb301c"
+  }
+}

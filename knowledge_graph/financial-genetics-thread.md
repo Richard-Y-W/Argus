@@ -31,3 +31,8 @@ EXP-025 suggests local inheritance can help after a related transition; EXP-026 
 Program stop: do not tune more thresholds or component weights on EXP-025–027's consumed synthetic families. Resume only with an externally specified benchmark or point-in-time historical validation.
 
 No market, alpha, or literal biological claim currently survives.
+## EXP-028 historical modular-repair update
+
+The first frozen-archive historical test rejects the joint modular-repair claim. Restricting changes to two damaged industry weights improved certainty equivalent versus all-gene mutation, but not reliably versus random restart, and turnover increased. The 2025+ check favored conventional minimum variance and equal weight. The biological transfer therefore remains a potentially useful credit-assignment heuristic, not an identified edge.
+
+The only admissible successor is a cross-family test of the specific conditional mechanism: localization should help when observed damage is sparse and fail when shocks are system-wide. EXP-028 outcomes cannot be used to tune mutation size, cost, risk aversion, or module count.

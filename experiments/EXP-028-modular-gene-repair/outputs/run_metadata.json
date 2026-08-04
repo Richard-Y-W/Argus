@@ -1,0 +1,10 @@
+{
+  "input_sha256": {
+    "archive_202412.zip": "a28855541f5a3e223d18d09e19ca8a433a08d236143c054c4dba7382219000e7",
+    "current.zip": "621297c649f34edca9ce35ec4ad817a14951c53d3af8e71a8012f335bf88d216"
+  },
+  "base_seed": 28032026,
+  "candidate_count": 64,
+  "cost": 0.001,
+  "risk_aversion": 1.5
+}

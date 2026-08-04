@@ -6,7 +6,10 @@ from pathlib import Path
 
 
 REPO_ROOT = Path(__file__).resolve().parents[2]
-GENETICS_ROOTS = (REPO_ROOT / "engineering" / "genetics",)
+GENETICS_ROOTS = (
+    REPO_ROOT / "engineering" / "genetics",
+    REPO_ROOT / "experiments" / "EXP-028-modular-gene-repair",
+)
 SCANNED_SUFFIXES = {".py", ".json", ".toml", ".yaml", ".yml"}
 FORBIDDEN_MARKERS = (
     "plex",
@@ -47,4 +50,3 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
-

@@ -1,0 +1,44 @@
+[
+  {
+    "name": "market-orders-2025-07-08_11-45-08.v3.csv.bz2",
+    "url": "https://data.everef.net/market-orders/history/2025/2025-07-08/market-orders-2025-07-08_11-45-08.v3.csv.bz2",
+    "size": 19468838,
+    "last_modified": "2025-07-08T11:50:31Z",
+    "etag": "c2a198b37f2e054a4b2ae16086f4cc08",
+    "file_time": "2025-07-08T11:45:08Z",
+    "research_download_utc": "2026-08-04T00:29:29.831440+00:00",
+    "sha256": "bd0b574b82d6aaaa7a54c95c6f82957c15588847e90c3ee18e0c76f731ef5667",
+    "total_rows": 1518905,
+    "plex_orders": 304,
+    "plex_buy_orders": 246,
+    "plex_sell_orders": 58,
+    "plex_buy_volume": 7060737458,
+    "plex_sell_volume": 89272,
+    "distinct_plex_regions": 1,
+    "plex_regions": {
+      "19000001": 304
+    },
+    "global_region_only": true
+  },
+  {
+    "name": "market-orders-2025-07-08_12-15-10.v3.csv.bz2",
+    "url": "https://data.everef.net/market-orders/history/2025/2025-07-08/market-orders-2025-07-08_12-15-10.v3.csv.bz2",
+    "size": 19473978,
+    "last_modified": "2025-07-08T12:20:54Z",
+    "etag": "049b5dd5c66bb3cb87e471f4d61cabd2",
+    "file_time": "2025-07-08T12:15:10Z",
+    "research_download_utc": "2026-08-04T00:29:56.258581+00:00",
+    "sha256": "c34511e5028d5d578053b2730bfc8ffc9cb11bbf64d2f7c7e537586cb834c5a3",
+    "total_rows": 1518926,
+    "plex_orders": 321,
+    "plex_buy_orders": 258,
+    "plex_sell_orders": 63,
+    "plex_buy_volume": 7060745102,
+    "plex_sell_volume": 91972,
+    "distinct_plex_regions": 1,
+    "plex_regions": {
+      "19000001": 321
+    },
+    "global_region_only": true
+  }
+]

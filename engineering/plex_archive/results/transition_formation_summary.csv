@@ -1,0 +1,3 @@
+name,file_time,size,total_rows,plex_orders,plex_buy_orders,plex_sell_orders,plex_buy_volume,plex_sell_volume,distinct_plex_regions,global_region_only,etag,sha256
+market-orders-2025-07-07_11-45-08.v3.csv.bz2,2025-07-07T11:45:08Z,19426056,1515683,130,105,25,4411255188,14578,1,True,dbf585f7e760390bbd790175e168888a,8ec4ee57eb180e3cb46d57dd6ba9d778d6aeaffb459f8d0a398f1a2facef883d
+market-orders-2025-07-07_12-15-12.v3.csv.bz2,2025-07-07T12:15:12Z,19432647,1516116,158,126,32,4426274648,28584,1,True,ec4e3f88e240f228dc93be2b26cfdbdf,b183dac0d4bdccd4f4d9b850c57697d49722cb9d98819517017b38a94bd87ec2

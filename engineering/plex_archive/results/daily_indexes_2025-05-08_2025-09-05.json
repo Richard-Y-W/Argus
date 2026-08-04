@@ -1,0 +1,2293 @@
+[
+  {
+    "date": "2025-05-08",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-05-08/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:43.195202+00:00",
+    "index_sha256": "f038113d1f7ea9b0e74f25d8cac6dc969af4e07e5b49bba01f5f403ff4bd08e1",
+    "file_count": 48,
+    "median_size": 18828247.5,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 8,
+    "selected": {
+      "name": "market-orders-2025-05-08_12-15-08.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-05-08/market-orders-2025-05-08_12-15-08.v3.csv.bz2",
+      "size": 18818031,
+      "last_modified": "2025-05-08T12:20:40.099Z",
+      "etag": "1e8eea7e6dbe3d0ae97650135dcfb2ae",
+      "type": "market-orders",
+      "file_time": "2025-05-08T12:15:08Z"
+    }
+  },
+  {
+    "date": "2025-05-09",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-05-09/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:43.226669+00:00",
+    "index_sha256": "8b71abf4bbfcd6ac7b21ce1db1b9de8f675ca6a376f407f40e2e6246be047295",
+    "file_count": 47,
+    "median_size": 18840616,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 7,
+    "selected": {
+      "name": "market-orders-2025-05-09_12-15-07.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-05-09/market-orders-2025-05-09_12-15-07.v3.csv.bz2",
+      "size": 18861198,
+      "last_modified": "2025-05-09T12:20:24.887Z",
+      "etag": "91543931a929db517ac39759592bb918",
+      "type": "market-orders",
+      "file_time": "2025-05-09T12:15:07Z"
+    }
+  },
+  {
+    "date": "2025-05-10",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-05-10/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:43.222158+00:00",
+    "index_sha256": "23518c8549d26410cf7aad36a1c58c61f2c184976d6f6e1d5608b79b536ff104",
+    "file_count": 48,
+    "median_size": 18821061.5,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 7,
+    "selected": {
+      "name": "market-orders-2025-05-10_12-15-07.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-05-10/market-orders-2025-05-10_12-15-07.v3.csv.bz2",
+      "size": 18822918,
+      "last_modified": "2025-05-10T12:20:21.399Z",
+      "etag": "e48192955e362e903f00de16a13111a3",
+      "type": "market-orders",
+      "file_time": "2025-05-10T12:15:07Z"
+    }
+  },
+  {
+    "date": "2025-05-11",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-05-11/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:43.360799+00:00",
+    "index_sha256": "57dab2d3f5040e980732e447d13766203d9b39c3fc6c1a60dc5c8b5f7c3f01c5",
+    "file_count": 48,
+    "median_size": 18811023.5,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 8,
+    "selected": {
+      "name": "market-orders-2025-05-11_12-15-08.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-05-11/market-orders-2025-05-11_12-15-08.v3.csv.bz2",
+      "size": 18811653,
+      "last_modified": "2025-05-11T12:20:33.276Z",
+      "etag": "7d85d374d4a41296200013ac507b4d55",
+      "type": "market-orders",
+      "file_time": "2025-05-11T12:15:08Z"
+    }
+  },
+  {
+    "date": "2025-05-12",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-05-12/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:43.126088+00:00",
+    "index_sha256": "91f9659f84138fe73ff23e06ad0aab756f97cf2eb388bd5516553bd71962d157",
+    "file_count": 48,
+    "median_size": 18856445.0,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 8,
+    "selected": {
+      "name": "market-orders-2025-05-12_12-15-08.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-05-12/market-orders-2025-05-12_12-15-08.v3.csv.bz2",
+      "size": 18862045,
+      "last_modified": "2025-05-12T12:20:51.763Z",
+      "etag": "d08b4359f7108e1542bd3f6f8d742e9a",
+      "type": "market-orders",
+      "file_time": "2025-05-12T12:15:08Z"
+    }
+  },
+  {
+    "date": "2025-05-13",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-05-13/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:43.113225+00:00",
+    "index_sha256": "a4a100a0f89f8512653972a0c7c90493b26e358670abe300cbf2f2ff2b6dfb0e",
+    "file_count": 43,
+    "median_size": 18812061,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 9,
+    "selected": {
+      "name": "market-orders-2025-05-13_12-15-09.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-05-13/market-orders-2025-05-13_12-15-09.v3.csv.bz2",
+      "size": 18808153,
+      "last_modified": "2025-05-13T12:21:21.069Z",
+      "etag": "a68045555475e7c956c9a2a81e2223c3",
+      "type": "market-orders",
+      "file_time": "2025-05-13T12:15:09Z"
+    }
+  },
+  {
+    "date": "2025-05-14",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-05-14/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:43.459630+00:00",
+    "index_sha256": "d04a447422ab8beb87b52951578ecc2a4930c194f19c26a21712b774ae9fe32a",
+    "file_count": 48,
+    "median_size": 18797671.0,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 7,
+    "selected": {
+      "name": "market-orders-2025-05-14_12-15-07.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-05-14/market-orders-2025-05-14_12-15-07.v3.csv.bz2",
+      "size": 18788216,
+      "last_modified": "2025-05-14T12:20:45.100Z",
+      "etag": "c621ef4a0f9adf80fe661ce4be8af75e",
+      "type": "market-orders",
+      "file_time": "2025-05-14T12:15:07Z"
+    }
+  },
+  {
+    "date": "2025-05-15",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-05-15/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:43.808936+00:00",
+    "index_sha256": "cbc8d429edfbf2c183982c1562a025d067c7c1f4e63b99703d4542f82aee37d1",
+    "file_count": 48,
+    "median_size": 18784612.5,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 7,
+    "selected": {
+      "name": "market-orders-2025-05-15_12-15-07.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-05-15/market-orders-2025-05-15_12-15-07.v3.csv.bz2",
+      "size": 18775557,
+      "last_modified": "2025-05-15T12:20:13.269Z",
+      "etag": "c0ff3a04ca552eef25eafab6144b5b39",
+      "type": "market-orders",
+      "file_time": "2025-05-15T12:15:07Z"
+    }
+  },
+  {
+    "date": "2025-05-16",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-05-16/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:43.616731+00:00",
+    "index_sha256": "4f6bb02ace4c3a016c1f1fec26d2701d20279f0d478e5277582b282137dcc196",
+    "file_count": 47,
+    "median_size": 18797202,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 6,
+    "selected": {
+      "name": "market-orders-2025-05-16_12-15-06.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-05-16/market-orders-2025-05-16_12-15-06.v3.csv.bz2",
+      "size": 18798379,
+      "last_modified": "2025-05-16T12:19:59.257Z",
+      "etag": "c4d629dd76fdd3d0225f87694323fb35",
+      "type": "market-orders",
+      "file_time": "2025-05-16T12:15:06Z"
+    }
+  },
+  {
+    "date": "2025-05-17",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-05-17/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:43.737443+00:00",
+    "index_sha256": "a5df9a6d9086a3d8637c4576c75f5983986497b75b76d5c1dab610ff2eff383f",
+    "file_count": 48,
+    "median_size": 18800055.0,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 7,
+    "selected": {
+      "name": "market-orders-2025-05-17_12-15-07.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-05-17/market-orders-2025-05-17_12-15-07.v3.csv.bz2",
+      "size": 18812446,
+      "last_modified": "2025-05-17T12:20:11.731Z",
+      "etag": "12ace69a75bfe33f16158b75890b2d15",
+      "type": "market-orders",
+      "file_time": "2025-05-17T12:15:07Z"
+    }
+  },
+  {
+    "date": "2025-05-18",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-05-18/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:43.516343+00:00",
+    "index_sha256": "756483ac1dec3794e7a9ca57cf385f660778fcc3d1934236e3c84af1e49e1184",
+    "file_count": 48,
+    "median_size": 18780560.5,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 6,
+    "selected": {
+      "name": "market-orders-2025-05-18_12-15-06.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-05-18/market-orders-2025-05-18_12-15-06.v3.csv.bz2",
+      "size": 18783835,
+      "last_modified": "2025-05-18T12:20:13.393Z",
+      "etag": "1f649d8414f024ae4f955b0bc6a58ca0",
+      "type": "market-orders",
+      "file_time": "2025-05-18T12:15:06Z"
+    }
+  },
+  {
+    "date": "2025-05-19",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-05-19/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:44.057713+00:00",
+    "index_sha256": "0ef91e3cbb808d951ea6d63b7fa6e1a8e33edb682e84c3113b2d3954fe3e7c00",
+    "file_count": 48,
+    "median_size": 18774946.5,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 9,
+    "selected": {
+      "name": "market-orders-2025-05-19_12-15-09.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-05-19/market-orders-2025-05-19_12-15-09.v3.csv.bz2",
+      "size": 18801629,
+      "last_modified": "2025-05-19T12:20:32.043Z",
+      "etag": "48dd56b8a854063387340cc94c31be12",
+      "type": "market-orders",
+      "file_time": "2025-05-19T12:15:09Z"
+    }
+  },
+  {
+    "date": "2025-05-20",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-05-20/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:43.656306+00:00",
+    "index_sha256": "2fad2464d4a084cd0b3b0686efcaa5dbcf3e716486adfa6edd6cc1d5c590ac15",
+    "file_count": 48,
+    "median_size": 18790662.5,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 8,
+    "selected": {
+      "name": "market-orders-2025-05-20_12-15-08.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-05-20/market-orders-2025-05-20_12-15-08.v3.csv.bz2",
+      "size": 18787962,
+      "last_modified": "2025-05-20T12:20:19.563Z",
+      "etag": "d68d37edb74a1b3b82e558b67c1e772c",
+      "type": "market-orders",
+      "file_time": "2025-05-20T12:15:08Z"
+    }
+  },
+  {
+    "date": "2025-05-21",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-05-21/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:43.580188+00:00",
+    "index_sha256": "104df0801ce912f4efcc5db6cebcdf461c0436f957859f8fbb3bc3d3f70417e7",
+    "file_count": 48,
+    "median_size": 18774141.0,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 7,
+    "selected": {
+      "name": "market-orders-2025-05-21_12-15-07.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-05-21/market-orders-2025-05-21_12-15-07.v3.csv.bz2",
+      "size": 18761181,
+      "last_modified": "2025-05-21T12:20:20.350Z",
+      "etag": "5645896dcb70e442b123a578307cdf6f",
+      "type": "market-orders",
+      "file_time": "2025-05-21T12:15:07Z"
+    }
+  },
+  {
+    "date": "2025-05-22",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-05-22/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:43.652790+00:00",
+    "index_sha256": "6bb6730d311837ce9ff57be2afdac61d3dcb6ac4ed1f1ac367520bfbb459f61b",
+    "file_count": 48,
+    "median_size": 18809645.5,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 7,
+    "selected": {
+      "name": "market-orders-2025-05-22_12-15-07.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-05-22/market-orders-2025-05-22_12-15-07.v3.csv.bz2",
+      "size": 18808643,
+      "last_modified": "2025-05-22T12:20:16.341Z",
+      "etag": "826454c89e1d4de73ff7f16337d8093f",
+      "type": "market-orders",
+      "file_time": "2025-05-22T12:15:07Z"
+    }
+  },
+  {
+    "date": "2025-05-23",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-05-23/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:44.019919+00:00",
+    "index_sha256": "edae19c528aa82c65d8ae100fb255bfadc7925f889583a73a80ada082e23f2ff",
+    "file_count": 48,
+    "median_size": 18821687.5,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 7,
+    "selected": {
+      "name": "market-orders-2025-05-23_12-15-07.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-05-23/market-orders-2025-05-23_12-15-07.v3.csv.bz2",
+      "size": 18834255,
+      "last_modified": "2025-05-23T12:20:00.823Z",
+      "etag": "92a3853f59bd4e1158b3dd8ad40ea073",
+      "type": "market-orders",
+      "file_time": "2025-05-23T12:15:07Z"
+    }
+  },
+  {
+    "date": "2025-05-24",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-05-24/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:43.941417+00:00",
+    "index_sha256": "8e1172851cfedd2665c40dfa826739148b6cfbd049065a07153736862c91164a",
+    "file_count": 48,
+    "median_size": 18780012.0,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 7,
+    "selected": {
+      "name": "market-orders-2025-05-24_12-15-07.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-05-24/market-orders-2025-05-24_12-15-07.v3.csv.bz2",
+      "size": 18783057,
+      "last_modified": "2025-05-24T12:20:10.858Z",
+      "etag": "fceea6c88dcad094d0f57eb852a6c4de",
+      "type": "market-orders",
+      "file_time": "2025-05-24T12:15:07Z"
+    }
+  },
+  {
+    "date": "2025-05-25",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-05-25/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:44.364807+00:00",
+    "index_sha256": "d15dec4dcaca44f0d4af01b1f2edd5b48ad80241c3ee791cf69454ebf00c6bac",
+    "file_count": 48,
+    "median_size": 18773396.5,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 7,
+    "selected": {
+      "name": "market-orders-2025-05-25_12-15-07.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-05-25/market-orders-2025-05-25_12-15-07.v3.csv.bz2",
+      "size": 18778229,
+      "last_modified": "2025-05-25T12:20:22.967Z",
+      "etag": "3adfa97ec1534e79038b32a3e2ad828a",
+      "type": "market-orders",
+      "file_time": "2025-05-25T12:15:07Z"
+    }
+  },
+  {
+    "date": "2025-05-26",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-05-26/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:44.124511+00:00",
+    "index_sha256": "6f59502add7de640b8b4dcad3d5ea0c791493627957f4b6c1b173462d31c3432",
+    "file_count": 48,
+    "median_size": 18815663.5,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 7,
+    "selected": {
+      "name": "market-orders-2025-05-26_12-15-07.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-05-26/market-orders-2025-05-26_12-15-07.v3.csv.bz2",
+      "size": 18805177,
+      "last_modified": "2025-05-26T12:20:32.587Z",
+      "etag": "766785c537c179f80755c1e1c68014d6",
+      "type": "market-orders",
+      "file_time": "2025-05-26T12:15:07Z"
+    }
+  },
+  {
+    "date": "2025-05-27",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-05-27/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:44.056676+00:00",
+    "index_sha256": "b85c9ccd4baa3a262b2875a9a1fc99e436f3e9b0d74f80688ae217826c118e25",
+    "file_count": 46,
+    "median_size": 18827922.5,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 7,
+    "selected": {
+      "name": "market-orders-2025-05-27_12-15-07.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-05-27/market-orders-2025-05-27_12-15-07.v3.csv.bz2",
+      "size": 18858698,
+      "last_modified": "2025-05-27T12:21:04.762Z",
+      "etag": "490e8c2ba6566b5ebb32b661554857a1",
+      "type": "market-orders",
+      "file_time": "2025-05-27T12:15:07Z"
+    }
+  },
+  {
+    "date": "2025-05-28",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-05-28/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:44.128045+00:00",
+    "index_sha256": "e64ac9bdeb7b3dc4c3b415f7278fdbaacff79d6643458b2117fc2bcee13baeeb",
+    "file_count": 48,
+    "median_size": 18836210.0,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 8,
+    "selected": {
+      "name": "market-orders-2025-05-28_12-15-08.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-05-28/market-orders-2025-05-28_12-15-08.v3.csv.bz2",
+      "size": 18836575,
+      "last_modified": "2025-05-28T12:20:22.382Z",
+      "etag": "c59bc241922d4c956890b609c860942e",
+      "type": "market-orders",
+      "file_time": "2025-05-28T12:15:08Z"
+    }
+  },
+  {
+    "date": "2025-05-29",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-05-29/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:44.849385+00:00",
+    "index_sha256": "8349698008329edc4e24a88d9e74ac5d99b0b8e0a1c70a6d4190d0088d0d15d9",
+    "file_count": 48,
+    "median_size": 18924410.0,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 7,
+    "selected": {
+      "name": "market-orders-2025-05-29_12-15-07.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-05-29/market-orders-2025-05-29_12-15-07.v3.csv.bz2",
+      "size": 18936331,
+      "last_modified": "2025-05-29T12:20:30.182Z",
+      "etag": "89c134ea1a5ede748ca36cd45adfdd15",
+      "type": "market-orders",
+      "file_time": "2025-05-29T12:15:07Z"
+    }
+  },
+  {
+    "date": "2025-05-30",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-05-30/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:44.249254+00:00",
+    "index_sha256": "2cc9ac6a90b15be7719476055f5577c698aa35a27ff342d103c896fe168b1aed",
+    "file_count": 48,
+    "median_size": 18945947.0,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 6,
+    "selected": {
+      "name": "market-orders-2025-05-30_12-15-06.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-05-30/market-orders-2025-05-30_12-15-06.v3.csv.bz2",
+      "size": 18961121,
+      "last_modified": "2025-05-30T12:20:12.622Z",
+      "etag": "4ae00641d2ddf5d85957c5ebb7800b6a",
+      "type": "market-orders",
+      "file_time": "2025-05-30T12:15:06Z"
+    }
+  },
+  {
+    "date": "2025-05-31",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-05-31/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:44.288879+00:00",
+    "index_sha256": "29e26c00c050d5180eb9794bbb6b6c8e8fcdc1347e9a850f7703bb3ce2b3bc2b",
+    "file_count": 48,
+    "median_size": 18959844.5,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 6,
+    "selected": {
+      "name": "market-orders-2025-05-31_12-15-06.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-05-31/market-orders-2025-05-31_12-15-06.v3.csv.bz2",
+      "size": 18961443,
+      "last_modified": "2025-05-31T12:20:10.721Z",
+      "etag": "7bb1f5f76050f3156a0fb02a54812774",
+      "type": "market-orders",
+      "file_time": "2025-05-31T12:15:06Z"
+    }
+  },
+  {
+    "date": "2025-06-01",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-06-01/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:44.449224+00:00",
+    "index_sha256": "e761bb8ce82a7662ecddcfe3853287ae2b1954017c4826d43c49b408881ab056",
+    "file_count": 48,
+    "median_size": 18961448.0,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 7,
+    "selected": {
+      "name": "market-orders-2025-06-01_12-15-07.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-06-01/market-orders-2025-06-01_12-15-07.v3.csv.bz2",
+      "size": 18965426,
+      "last_modified": "2025-06-01T12:20:00.029Z",
+      "etag": "0fc0ee1c7a9109d33605442faecc4c95",
+      "type": "market-orders",
+      "file_time": "2025-06-01T12:15:07Z"
+    }
+  },
+  {
+    "date": "2025-06-02",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-06-02/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:44.291950+00:00",
+    "index_sha256": "4f5e177fe3d1a8957903b6580e538041dc5db46842e0e71b355a4bcfec8a0d27",
+    "file_count": 48,
+    "median_size": 19008556.0,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 7,
+    "selected": {
+      "name": "market-orders-2025-06-02_12-15-07.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-06-02/market-orders-2025-06-02_12-15-07.v3.csv.bz2",
+      "size": 19002193,
+      "last_modified": "2025-06-02T12:20:04.873Z",
+      "etag": "39b218a088fa8c0faee1bea7607101ff",
+      "type": "market-orders",
+      "file_time": "2025-06-02T12:15:07Z"
+    }
+  },
+  {
+    "date": "2025-06-03",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-06-03/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:44.368664+00:00",
+    "index_sha256": "068819f3f296f862aa9669e74b08fc6e4d0bf73cb14831344b0dfd895f3ce6af",
+    "file_count": 48,
+    "median_size": 19068700.0,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 7,
+    "selected": {
+      "name": "market-orders-2025-06-03_12-15-07.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-06-03/market-orders-2025-06-03_12-15-07.v3.csv.bz2",
+      "size": 19066288,
+      "last_modified": "2025-06-03T12:20:25.237Z",
+      "etag": "ac5dee2f3c2eef60ba4434ebf6aac52e",
+      "type": "market-orders",
+      "file_time": "2025-06-03T12:15:07Z"
+    }
+  },
+  {
+    "date": "2025-06-04",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-06-04/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:44.505194+00:00",
+    "index_sha256": "6a51a1afcb9c07f3f090144696c906253929f080704ae6836145c35fdf01c7fb",
+    "file_count": 48,
+    "median_size": 19068694.5,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 6,
+    "selected": {
+      "name": "market-orders-2025-06-04_12-15-06.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-06-04/market-orders-2025-06-04_12-15-06.v3.csv.bz2",
+      "size": 19072323,
+      "last_modified": "2025-06-04T12:20:15.474Z",
+      "etag": "dbb165a73696a84c5660e52f7f946953",
+      "type": "market-orders",
+      "file_time": "2025-06-04T12:15:06Z"
+    }
+  },
+  {
+    "date": "2025-06-05",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-06-05/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:44.544386+00:00",
+    "index_sha256": "c4a6a8a72fe3cfdfb9ca7ce25439a32d3e6ebc0d375dd99b3bdbbd7d3c8369f7",
+    "file_count": 47,
+    "median_size": 19016401,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 7,
+    "selected": {
+      "name": "market-orders-2025-06-05_12-15-07.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-06-05/market-orders-2025-06-05_12-15-07.v3.csv.bz2",
+      "size": 19008725,
+      "last_modified": "2025-06-05T12:20:44.188Z",
+      "etag": "fe4d19811fed743f9ca4e4cae277431c",
+      "type": "market-orders",
+      "file_time": "2025-06-05T12:15:07Z"
+    }
+  },
+  {
+    "date": "2025-06-06",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-06-06/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:44.584725+00:00",
+    "index_sha256": "399cd18ed3996fa2d1d65dcde443d9827f05c7aa57a2d1762cf32f8fd2b80be1",
+    "file_count": 48,
+    "median_size": 19033685.5,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 8,
+    "selected": {
+      "name": "market-orders-2025-06-06_12-15-08.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-06-06/market-orders-2025-06-06_12-15-08.v3.csv.bz2",
+      "size": 19005295,
+      "last_modified": "2025-06-06T12:20:22.350Z",
+      "etag": "84ab81f363428c14abefd5dd7c449bf8",
+      "type": "market-orders",
+      "file_time": "2025-06-06T12:15:08Z"
+    }
+  },
+  {
+    "date": "2025-06-07",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-06-07/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:44.626189+00:00",
+    "index_sha256": "95613c1fdd2fd9a3d9ce1ae09d50be36c5dbdc2a7ca03217be1a8f1323179197",
+    "file_count": 48,
+    "median_size": 19045690.5,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 6,
+    "selected": {
+      "name": "market-orders-2025-06-07_12-15-06.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-06-07/market-orders-2025-06-07_12-15-06.v3.csv.bz2",
+      "size": 19049648,
+      "last_modified": "2025-06-07T12:20:09.485Z",
+      "etag": "bd5598c6f03f319bacd5d382704d816a",
+      "type": "market-orders",
+      "file_time": "2025-06-07T12:15:06Z"
+    }
+  },
+  {
+    "date": "2025-06-08",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-06-08/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:44.670458+00:00",
+    "index_sha256": "d9486ba86b686f758e0d515850e254f09fb0022b1fe94cbbe1f8d812f469c662",
+    "file_count": 48,
+    "median_size": 19098227.0,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 7,
+    "selected": {
+      "name": "market-orders-2025-06-08_12-15-07.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-06-08/market-orders-2025-06-08_12-15-07.v3.csv.bz2",
+      "size": 19095813,
+      "last_modified": "2025-06-08T12:20:17.287Z",
+      "etag": "38b782a51ce197a2beab7164a920a47d",
+      "type": "market-orders",
+      "file_time": "2025-06-08T12:15:07Z"
+    }
+  },
+  {
+    "date": "2025-06-09",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-06-09/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:44.629224+00:00",
+    "index_sha256": "feece46b6f7746b247d965f53dcc7422e4a1ccae83c11201b7a972d4d87d67e3",
+    "file_count": 48,
+    "median_size": 19125494.0,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 7,
+    "selected": {
+      "name": "market-orders-2025-06-09_12-15-07.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-06-09/market-orders-2025-06-09_12-15-07.v3.csv.bz2",
+      "size": 19125636,
+      "last_modified": "2025-06-09T12:20:05.835Z",
+      "etag": "188429c5e0225859e2569ce138c75981",
+      "type": "market-orders",
+      "file_time": "2025-06-09T12:15:07Z"
+    }
+  },
+  {
+    "date": "2025-06-10",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-06-10/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:44.846080+00:00",
+    "index_sha256": "1d1ffb88fefbcb40ff670cbb7c43ed3110e73dda32897b6ae7f19c6ac381b0a8",
+    "file_count": 48,
+    "median_size": 19162031.0,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 8,
+    "selected": {
+      "name": "market-orders-2025-06-10_12-15-08.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-06-10/market-orders-2025-06-10_12-15-08.v3.csv.bz2",
+      "size": 19152784,
+      "last_modified": "2025-06-10T12:20:20.257Z",
+      "etag": "2b6c746fdc4a03ec960a52ec6418d5b3",
+      "type": "market-orders",
+      "file_time": "2025-06-10T12:15:08Z"
+    }
+  },
+  {
+    "date": "2025-06-11",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-06-11/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:44.758546+00:00",
+    "index_sha256": "cdc5d3adb373485157008d4abf584c980640baa1234cf207363dd4c5c9613d7a",
+    "file_count": 48,
+    "median_size": 19187537.0,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 6,
+    "selected": {
+      "name": "market-orders-2025-06-11_12-15-06.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-06-11/market-orders-2025-06-11_12-15-06.v3.csv.bz2",
+      "size": 19181261,
+      "last_modified": "2025-06-11T12:20:14.318Z",
+      "etag": "69895d637262d4c060df88dfdb2bd436",
+      "type": "market-orders",
+      "file_time": "2025-06-11T12:15:06Z"
+    }
+  },
+  {
+    "date": "2025-06-12",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-06-12/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:44.930739+00:00",
+    "index_sha256": "10723cc0094e8d7343c3f91b85503d63596b0b1ba74b44c07545adf6c13be6ff",
+    "file_count": 48,
+    "median_size": 19205706.0,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 7,
+    "selected": {
+      "name": "market-orders-2025-06-12_12-15-07.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-06-12/market-orders-2025-06-12_12-15-07.v3.csv.bz2",
+      "size": 19204560,
+      "last_modified": "2025-06-12T12:20:22.256Z",
+      "etag": "df9e7d751955357f66ea9ff35c8cdf1e",
+      "type": "market-orders",
+      "file_time": "2025-06-12T12:15:07Z"
+    }
+  },
+  {
+    "date": "2025-06-13",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-06-13/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:44.931808+00:00",
+    "index_sha256": "60b3ee6d12ba4fc06a259ce187b5c757eaebc272bbd6a377b4fd56b6b3b357ec",
+    "file_count": 48,
+    "median_size": 19201243.5,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 8,
+    "selected": {
+      "name": "market-orders-2025-06-13_12-15-08.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-06-13/market-orders-2025-06-13_12-15-08.v3.csv.bz2",
+      "size": 19196021,
+      "last_modified": "2025-06-13T12:21:12.380Z",
+      "etag": "22a54c1e4e198c01b97663583a2ddb05",
+      "type": "market-orders",
+      "file_time": "2025-06-13T12:15:08Z"
+    }
+  },
+  {
+    "date": "2025-06-14",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-06-14/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:45.091897+00:00",
+    "index_sha256": "1e27b938a3ef5547bf5e51ab7ad59abbd6fbafb072f6da79abd7b49ce74ff7bd",
+    "file_count": 48,
+    "median_size": 19142435.0,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 8,
+    "selected": {
+      "name": "market-orders-2025-06-14_12-15-08.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-06-14/market-orders-2025-06-14_12-15-08.v3.csv.bz2",
+      "size": 19151119,
+      "last_modified": "2025-06-14T12:21:20.406Z",
+      "etag": "49f58647f7390d9eb25d287fa5b76c60",
+      "type": "market-orders",
+      "file_time": "2025-06-14T12:15:08Z"
+    }
+  },
+  {
+    "date": "2025-06-15",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-06-15/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:45.013396+00:00",
+    "index_sha256": "0b01185ca2eadc88c6928bf46eff5265b8f37ee8a76d3d8a16048532f40c13a0",
+    "file_count": 48,
+    "median_size": 19115037.5,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 8,
+    "selected": {
+      "name": "market-orders-2025-06-15_12-15-08.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-06-15/market-orders-2025-06-15_12-15-08.v3.csv.bz2",
+      "size": 19106721,
+      "last_modified": "2025-06-15T12:21:12.935Z",
+      "etag": "bd11531c181aa15cf73a708ddd9fa7e9",
+      "type": "market-orders",
+      "file_time": "2025-06-15T12:15:08Z"
+    }
+  },
+  {
+    "date": "2025-06-16",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-06-16/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:45.085244+00:00",
+    "index_sha256": "2e893e32175fc5ea11fc8cb9e20050c9962d5111ccd4e9c7758fcd2168d6c5d3",
+    "file_count": 48,
+    "median_size": 19123625.5,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 8,
+    "selected": {
+      "name": "market-orders-2025-06-16_12-15-08.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-06-16/market-orders-2025-06-16_12-15-08.v3.csv.bz2",
+      "size": 19122971,
+      "last_modified": "2025-06-16T12:21:01.861Z",
+      "etag": "9480f591e8af5c577749aad3012d9bb3",
+      "type": "market-orders",
+      "file_time": "2025-06-16T12:15:08Z"
+    }
+  },
+  {
+    "date": "2025-06-17",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-06-17/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:45.016924+00:00",
+    "index_sha256": "5cab3fa820602768b6d66a28088f01ed7929a55dd2503b130e1cccb43d264187",
+    "file_count": 48,
+    "median_size": 19184705.5,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 7,
+    "selected": {
+      "name": "market-orders-2025-06-17_12-15-07.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-06-17/market-orders-2025-06-17_12-15-07.v3.csv.bz2",
+      "size": 19182560,
+      "last_modified": "2025-06-17T12:20:48.890Z",
+      "etag": "eadbd7ef3efaef94997ce7e7346f40bd",
+      "type": "market-orders",
+      "file_time": "2025-06-17T12:15:07Z"
+    }
+  },
+  {
+    "date": "2025-06-18",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-06-18/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:45.468167+00:00",
+    "index_sha256": "095fe79480462bbcef83f3355a9799039f2876e7e9f5fa41a2d10c65456e43e4",
+    "file_count": 48,
+    "median_size": 19203383.0,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 10,
+    "selected": {
+      "name": "market-orders-2025-06-18_12-15-10.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-06-18/market-orders-2025-06-18_12-15-10.v3.csv.bz2",
+      "size": 19208345,
+      "last_modified": "2025-06-18T12:21:15.948Z",
+      "etag": "5e91aab55fb7faab79dd5c32bce3f92a",
+      "type": "market-orders",
+      "file_time": "2025-06-18T12:15:10Z"
+    }
+  },
+  {
+    "date": "2025-06-19",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-06-19/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:45.269614+00:00",
+    "index_sha256": "f35a9e1059bac2abb9f3c176ab192bd008553ff7e29fd8f4da6a4f71fa71ea48",
+    "file_count": 48,
+    "median_size": 19215459.5,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 6,
+    "selected": {
+      "name": "market-orders-2025-06-19_12-15-06.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-06-19/market-orders-2025-06-19_12-15-06.v3.csv.bz2",
+      "size": 19217822,
+      "last_modified": "2025-06-19T12:20:43.899Z",
+      "etag": "133233ae2468280878821dcd13ad7f7b",
+      "type": "market-orders",
+      "file_time": "2025-06-19T12:15:06Z"
+    }
+  },
+  {
+    "date": "2025-06-20",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-06-20/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:45.384579+00:00",
+    "index_sha256": "981fded714d0559c478aa57e28ad5d1c5706a269eba47c23a807f3a34ecfe992",
+    "file_count": 48,
+    "median_size": 19200621.5,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 8,
+    "selected": {
+      "name": "market-orders-2025-06-20_12-15-08.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-06-20/market-orders-2025-06-20_12-15-08.v3.csv.bz2",
+      "size": 19195073,
+      "last_modified": "2025-06-20T12:20:57.885Z",
+      "etag": "499feb6ffbacf2d4181f0756b89860ae",
+      "type": "market-orders",
+      "file_time": "2025-06-20T12:15:08Z"
+    }
+  },
+  {
+    "date": "2025-06-21",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-06-21/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:45.323979+00:00",
+    "index_sha256": "bda449b4bc6f0768f0687bbbc5f64d17eb861a2a4c3799740be66783d19cea60",
+    "file_count": 48,
+    "median_size": 19214730.5,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 7,
+    "selected": {
+      "name": "market-orders-2025-06-21_12-15-07.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-06-21/market-orders-2025-06-21_12-15-07.v3.csv.bz2",
+      "size": 19229218,
+      "last_modified": "2025-06-21T12:20:38.903Z",
+      "etag": "5bef8861a84035a60358ad8f1f09b929",
+      "type": "market-orders",
+      "file_time": "2025-06-21T12:15:07Z"
+    }
+  },
+  {
+    "date": "2025-06-22",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-06-22/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:45.551540+00:00",
+    "index_sha256": "70512f6c211faab9bea7339aee8e94bebee130eb40827ea777620f1433a100ce",
+    "file_count": 48,
+    "median_size": 19240900.5,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 8,
+    "selected": {
+      "name": "market-orders-2025-06-22_12-15-08.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-06-22/market-orders-2025-06-22_12-15-08.v3.csv.bz2",
+      "size": 19239231,
+      "last_modified": "2025-06-22T12:20:44.623Z",
+      "etag": "ee98be9503c72add0fc2786367034566",
+      "type": "market-orders",
+      "file_time": "2025-06-22T12:15:08Z"
+    }
+  },
+  {
+    "date": "2025-06-23",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-06-23/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:45.387259+00:00",
+    "index_sha256": "f19053a72891997b67a2db6203e41a0e20934f7a01e2297fc28f84c2ab6345bb",
+    "file_count": 48,
+    "median_size": 19273280.5,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 8,
+    "selected": {
+      "name": "market-orders-2025-06-23_12-15-08.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-06-23/market-orders-2025-06-23_12-15-08.v3.csv.bz2",
+      "size": 19284201,
+      "last_modified": "2025-06-23T12:20:51.568Z",
+      "etag": "b07e5e499e34e5f59abb18e99879f8d6",
+      "type": "market-orders",
+      "file_time": "2025-06-23T12:15:08Z"
+    }
+  },
+  {
+    "date": "2025-06-24",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-06-24/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:45.616531+00:00",
+    "index_sha256": "ba43470ac9a2bdd62ee147c310c1998de49ffe1214dde3fae545a4b7d50d4f83",
+    "file_count": 48,
+    "median_size": 19303802.0,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 7,
+    "selected": {
+      "name": "market-orders-2025-06-24_12-15-07.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-06-24/market-orders-2025-06-24_12-15-07.v3.csv.bz2",
+      "size": 19301537,
+      "last_modified": "2025-06-24T12:20:32.377Z",
+      "etag": "a9597e76c03698040d1306be23b9ddea",
+      "type": "market-orders",
+      "file_time": "2025-06-24T12:15:07Z"
+    }
+  },
+  {
+    "date": "2025-06-25",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-06-25/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:45.390313+00:00",
+    "index_sha256": "97249fb408ceb4f69b927bde75ca5d6077c8333d0e7d457e8d721467a1f2cb1e",
+    "file_count": 48,
+    "median_size": 19356320.5,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 9,
+    "selected": {
+      "name": "market-orders-2025-06-25_12-15-09.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-06-25/market-orders-2025-06-25_12-15-09.v3.csv.bz2",
+      "size": 19362126,
+      "last_modified": "2025-06-25T12:21:44.792Z",
+      "etag": "441fca7c8125694607bba95a18bfd64b",
+      "type": "market-orders",
+      "file_time": "2025-06-25T12:15:09Z"
+    }
+  },
+  {
+    "date": "2025-06-26",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-06-26/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:45.631164+00:00",
+    "index_sha256": "1a2f3cd4f6a59372f8be1f827d2c5086c4d51aae1199501e7e9c6c610e6a587f",
+    "file_count": 48,
+    "median_size": 19398585.5,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 9,
+    "selected": {
+      "name": "market-orders-2025-06-26_12-15-09.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-06-26/market-orders-2025-06-26_12-15-09.v3.csv.bz2",
+      "size": 19392198,
+      "last_modified": "2025-06-26T12:20:46.808Z",
+      "etag": "e129b9b532a1d2b5060a7e0949e2e0de",
+      "type": "market-orders",
+      "file_time": "2025-06-26T12:15:09Z"
+    }
+  },
+  {
+    "date": "2025-06-27",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-06-27/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:45.707380+00:00",
+    "index_sha256": "ecd0c66254c2ea35da4438bfd09f8657c9c0848de357c79bd8646204c73ef4cd",
+    "file_count": 48,
+    "median_size": 19398163.5,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 8,
+    "selected": {
+      "name": "market-orders-2025-06-27_12-15-08.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-06-27/market-orders-2025-06-27_12-15-08.v3.csv.bz2",
+      "size": 19388233,
+      "last_modified": "2025-06-27T12:21:08.674Z",
+      "etag": "1acd7696396231a6b3d547f6f910eb1d",
+      "type": "market-orders",
+      "file_time": "2025-06-27T12:15:08Z"
+    }
+  },
+  {
+    "date": "2025-06-28",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-06-28/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:45.704854+00:00",
+    "index_sha256": "45d50a28c720a1947da7be70c782b8114f4acc9aba1a815913271c60080240d5",
+    "file_count": 48,
+    "median_size": 19398447.5,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 7,
+    "selected": {
+      "name": "market-orders-2025-06-28_12-15-07.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-06-28/market-orders-2025-06-28_12-15-07.v3.csv.bz2",
+      "size": 19394350,
+      "last_modified": "2025-06-28T12:20:48.247Z",
+      "etag": "ea4578b0ccc8f0d55a61a68231dd65b3",
+      "type": "market-orders",
+      "file_time": "2025-06-28T12:15:07Z"
+    }
+  },
+  {
+    "date": "2025-06-29",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-06-29/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:45.950368+00:00",
+    "index_sha256": "74e5be9de0a9bbfc629c2a2d7b80efc40363010f5e36d1e2ce2523472ce8f4d7",
+    "file_count": 48,
+    "median_size": 19381616.0,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 8,
+    "selected": {
+      "name": "market-orders-2025-06-29_12-15-08.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-06-29/market-orders-2025-06-29_12-15-08.v3.csv.bz2",
+      "size": 19376193,
+      "last_modified": "2025-06-29T12:20:40.616Z",
+      "etag": "ff9aad855fc32f121154d2df2a2ebce1",
+      "type": "market-orders",
+      "file_time": "2025-06-29T12:15:08Z"
+    }
+  },
+  {
+    "date": "2025-06-30",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-06-30/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:46.150977+00:00",
+    "index_sha256": "013e4c1477d24489e4e4a797943d7c90608ea38e83626895177c07bfca4dea4f",
+    "file_count": 48,
+    "median_size": 19445938.5,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 9,
+    "selected": {
+      "name": "market-orders-2025-06-30_12-15-09.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-06-30/market-orders-2025-06-30_12-15-09.v3.csv.bz2",
+      "size": 19441707,
+      "last_modified": "2025-06-30T12:21:00.525Z",
+      "etag": "cf2461100e9c26bbfc3fc2f4a11b6915",
+      "type": "market-orders",
+      "file_time": "2025-06-30T12:15:09Z"
+    }
+  },
+  {
+    "date": "2025-07-01",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-07-01/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:45.853799+00:00",
+    "index_sha256": "d5708797af72ff7b70d7813772e4fd302a0a04e5e5a28bd507910158ff6c4366",
+    "file_count": 48,
+    "median_size": 19476656.0,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 8,
+    "selected": {
+      "name": "market-orders-2025-07-01_12-15-08.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-07-01/market-orders-2025-07-01_12-15-08.v3.csv.bz2",
+      "size": 19468274,
+      "last_modified": "2025-07-01T12:20:38.586Z",
+      "etag": "f6accc2bd1984cd967f2990d2e1d92c5",
+      "type": "market-orders",
+      "file_time": "2025-07-01T12:15:08Z"
+    }
+  },
+  {
+    "date": "2025-07-02",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-07-02/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:46.148986+00:00",
+    "index_sha256": "b0fb41a080ac71709769512d7bb7fd46eae91b4a5d6b967d55d1d17796cfe0f1",
+    "file_count": 48,
+    "median_size": 19473726.5,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 10,
+    "selected": {
+      "name": "market-orders-2025-07-02_12-15-10.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-07-02/market-orders-2025-07-02_12-15-10.v3.csv.bz2",
+      "size": 19465741,
+      "last_modified": "2025-07-02T12:20:57.343Z",
+      "etag": "8915393882db5d3475c6a578620f3d4b",
+      "type": "market-orders",
+      "file_time": "2025-07-02T12:15:10Z"
+    }
+  },
+  {
+    "date": "2025-07-03",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-07-03/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:46.137519+00:00",
+    "index_sha256": "763b5c94b0eb42d4e46bf91dae642f0c3b6af6d79d03c2c38354cbca458a3e21",
+    "file_count": 48,
+    "median_size": 19434538.0,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 7,
+    "selected": {
+      "name": "market-orders-2025-07-03_12-15-07.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-07-03/market-orders-2025-07-03_12-15-07.v3.csv.bz2",
+      "size": 19417825,
+      "last_modified": "2025-07-03T12:20:25.725Z",
+      "etag": "edd6484cc3756ea937c3d1f4462c226c",
+      "type": "market-orders",
+      "file_time": "2025-07-03T12:15:07Z"
+    }
+  },
+  {
+    "date": "2025-07-04",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-07-04/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:46.252385+00:00",
+    "index_sha256": "6368fcf7bf4fe7e277fdf7d31dd3dbcf0cb8759059fc5786e46df81e1baf2253",
+    "file_count": 48,
+    "median_size": 19401681.0,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 8,
+    "selected": {
+      "name": "market-orders-2025-07-04_12-15-08.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-07-04/market-orders-2025-07-04_12-15-08.v3.csv.bz2",
+      "size": 19398257,
+      "last_modified": "2025-07-04T12:20:46.437Z",
+      "etag": "ce5c369292b4789e0b5332737ed3a332",
+      "type": "market-orders",
+      "file_time": "2025-07-04T12:15:08Z"
+    }
+  },
+  {
+    "date": "2025-07-05",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-07-05/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:46.143262+00:00",
+    "index_sha256": "4ef123b0d5c7d1ad48e386134db484214d108effcd5c76cb41066deb4bd97bc8",
+    "file_count": 48,
+    "median_size": 19389777.0,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 7,
+    "selected": {
+      "name": "market-orders-2025-07-05_12-15-07.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-07-05/market-orders-2025-07-05_12-15-07.v3.csv.bz2",
+      "size": 19393237,
+      "last_modified": "2025-07-05T12:21:00.313Z",
+      "etag": "f77f9ca21a63c10844c7a7b37d6218ba",
+      "type": "market-orders",
+      "file_time": "2025-07-05T12:15:07Z"
+    }
+  },
+  {
+    "date": "2025-07-06",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-07-06/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:45.945971+00:00",
+    "index_sha256": "cc8c822f0e5f077505058bd27f158e3aac629ebae7dccbe063422f4ab333a9cc",
+    "file_count": 48,
+    "median_size": 19409111.0,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 8,
+    "selected": {
+      "name": "market-orders-2025-07-06_12-15-08.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-07-06/market-orders-2025-07-06_12-15-08.v3.csv.bz2",
+      "size": 19410761,
+      "last_modified": "2025-07-06T12:21:05.552Z",
+      "etag": "b9e17a0f8541041546309f1d7a150c0a",
+      "type": "market-orders",
+      "file_time": "2025-07-06T12:15:08Z"
+    }
+  },
+  {
+    "date": "2025-07-07",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-07-07/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:46.442177+00:00",
+    "index_sha256": "50ce431285a44c1b664d680f9ae790e12adfb05728fb93f4f948c2772c688d8a",
+    "file_count": 48,
+    "median_size": 19437354.0,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 12,
+    "selected": {
+      "name": "market-orders-2025-07-07_12-15-12.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-07-07/market-orders-2025-07-07_12-15-12.v3.csv.bz2",
+      "size": 19432647,
+      "last_modified": "2025-07-07T12:20:57.032Z",
+      "etag": "ec4e3f88e240f228dc93be2b26cfdbdf",
+      "type": "market-orders",
+      "file_time": "2025-07-07T12:15:12Z"
+    }
+  },
+  {
+    "date": "2025-07-08",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-07-08/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:46.978883+00:00",
+    "index_sha256": "16bff848e658a4976eb4d5da09c508a41662876867e7058f5cadb0f800a5a44f",
+    "file_count": 48,
+    "median_size": 19462556.0,
+    "invalid_below_half_median": 2,
+    "selected_offset_seconds": 10,
+    "selected": {
+      "name": "market-orders-2025-07-08_12-15-10.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-07-08/market-orders-2025-07-08_12-15-10.v3.csv.bz2",
+      "size": 19473978,
+      "last_modified": "2025-07-08T12:20:54.013Z",
+      "etag": "049b5dd5c66bb3cb87e471f4d61cabd2",
+      "type": "market-orders",
+      "file_time": "2025-07-08T12:15:10Z"
+    }
+  },
+  {
+    "date": "2025-07-09",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-07-09/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:46.763102+00:00",
+    "index_sha256": "1f2ac800d7351773fc6fde02c56a0d3462ddbad064faceddbf4ba193a7385677",
+    "file_count": 47,
+    "median_size": 19475678,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 9,
+    "selected": {
+      "name": "market-orders-2025-07-09_12-15-09.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-07-09/market-orders-2025-07-09_12-15-09.v3.csv.bz2",
+      "size": 19492202,
+      "last_modified": "2025-07-09T12:20:33.169Z",
+      "etag": "bb126c6182d18a1307976f4225a5b85d",
+      "type": "market-orders",
+      "file_time": "2025-07-09T12:15:09Z"
+    }
+  },
+  {
+    "date": "2025-07-10",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-07-10/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:46.646228+00:00",
+    "index_sha256": "527cf3455fd5b0edcaa201416881dff2d878df18b0b7648971fb9390b9e4a82d",
+    "file_count": 48,
+    "median_size": 19484396.5,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 7,
+    "selected": {
+      "name": "market-orders-2025-07-10_12-15-07.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-07-10/market-orders-2025-07-10_12-15-07.v3.csv.bz2",
+      "size": 19481645,
+      "last_modified": "2025-07-10T12:20:32.349Z",
+      "etag": "451afb75b61dbb07f72acce9fc6a91c7",
+      "type": "market-orders",
+      "file_time": "2025-07-10T12:15:07Z"
+    }
+  },
+  {
+    "date": "2025-07-11",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-07-11/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:46.586891+00:00",
+    "index_sha256": "093fc39db049b454908ce9c324193193c7e3a2db29d1043b9ecd5f36acad0ed6",
+    "file_count": 47,
+    "median_size": 19475035,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 8,
+    "selected": {
+      "name": "market-orders-2025-07-11_12-15-08.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-07-11/market-orders-2025-07-11_12-15-08.v3.csv.bz2",
+      "size": 19469771,
+      "last_modified": "2025-07-11T12:20:43.078Z",
+      "etag": "58a70604d3c4cd4434efeaa57959d4e9",
+      "type": "market-orders",
+      "file_time": "2025-07-11T12:15:08Z"
+    }
+  },
+  {
+    "date": "2025-07-12",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-07-12/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:46.650605+00:00",
+    "index_sha256": "a80bf05e89eab8f2250252d7e684b12b402d2322a05f0a1c628557218dc96e02",
+    "file_count": 48,
+    "median_size": 19409690.0,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 7,
+    "selected": {
+      "name": "market-orders-2025-07-12_12-15-07.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-07-12/market-orders-2025-07-12_12-15-07.v3.csv.bz2",
+      "size": 19404872,
+      "last_modified": "2025-07-12T12:20:46.473Z",
+      "etag": "353f65266dbbcd420fa5aba337d45d10",
+      "type": "market-orders",
+      "file_time": "2025-07-12T12:15:07Z"
+    }
+  },
+  {
+    "date": "2025-07-13",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-07-13/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:46.916355+00:00",
+    "index_sha256": "d6355f4082d3ba1c6c5c291b73e527f1e4d03dbee7805be527f74a42c603f45a",
+    "file_count": 48,
+    "median_size": 19394332.5,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 7,
+    "selected": {
+      "name": "market-orders-2025-07-13_12-15-07.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-07-13/market-orders-2025-07-13_12-15-07.v3.csv.bz2",
+      "size": 19391940,
+      "last_modified": "2025-07-13T12:20:56.911Z",
+      "etag": "dc61e9c760cb36f3b1ad2440aaea62d2",
+      "type": "market-orders",
+      "file_time": "2025-07-13T12:15:07Z"
+    }
+  },
+  {
+    "date": "2025-07-14",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-07-14/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:46.774803+00:00",
+    "index_sha256": "15a21a2472272be3cd48dcc74d41ae41a46cbbe3b389f96bb807ef0087a4261b",
+    "file_count": 48,
+    "median_size": 19407188.5,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 8,
+    "selected": {
+      "name": "market-orders-2025-07-14_12-15-08.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-07-14/market-orders-2025-07-14_12-15-08.v3.csv.bz2",
+      "size": 19391623,
+      "last_modified": "2025-07-14T12:20:31.452Z",
+      "etag": "d7a2c624e1cc2455c0cb9a0addf53509",
+      "type": "market-orders",
+      "file_time": "2025-07-14T12:15:08Z"
+    }
+  },
+  {
+    "date": "2025-07-15",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-07-15/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:46.771673+00:00",
+    "index_sha256": "348c161b557235beb37e18232e6e643daaaf301f3bcf458f2cf376dc41158100",
+    "file_count": 26,
+    "median_size": 19447983.5,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 7,
+    "selected": {
+      "name": "market-orders-2025-07-15_12-15-07.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-07-15/market-orders-2025-07-15_12-15-07.v3.csv.bz2",
+      "size": 19420462,
+      "last_modified": "2025-07-15T12:20:45.831Z",
+      "etag": "9195f3718ebab7d71a6941bfb17eb6ab",
+      "type": "market-orders",
+      "file_time": "2025-07-15T12:15:07Z"
+    }
+  },
+  {
+    "date": "2025-07-16",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-07-16/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:47.024387+00:00",
+    "index_sha256": "74fdcb5aebcdac2e4dd82aeccdcefe9ebab0b68a2ff8dd9953f0d144020b1675",
+    "file_count": 15,
+    "median_size": 19396506,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 16212,
+    "selected": null
+  },
+  {
+    "date": "2025-07-17",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-07-17/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:47.027420+00:00",
+    "index_sha256": "c84f6a04da8311643fb74502f0236ea70ea82f1ab17512616e741f47858cf4ad",
+    "file_count": 48,
+    "median_size": 19349493.0,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 8,
+    "selected": {
+      "name": "market-orders-2025-07-17_12-15-08.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-07-17/market-orders-2025-07-17_12-15-08.v3.csv.bz2",
+      "size": 19349173,
+      "last_modified": "2025-07-17T12:20:36.671Z",
+      "etag": "6c27eef8c019675741ba974dd771d3a1",
+      "type": "market-orders",
+      "file_time": "2025-07-17T12:15:08Z"
+    }
+  },
+  {
+    "date": "2025-07-18",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-07-18/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:47.313862+00:00",
+    "index_sha256": "742ee150c587175323fb9acff5837a5dd1702d099a4fe6189ad724ff606d6a0b",
+    "file_count": 33,
+    "median_size": 19298944,
+    "invalid_below_half_median": 6,
+    "selected_offset_seconds": 1806,
+    "selected": {
+      "name": "market-orders-2025-07-18_12-45-06.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-07-18/market-orders-2025-07-18_12-45-06.v3.csv.bz2",
+      "size": 19288863,
+      "last_modified": "2025-07-18T12:58:30.741Z",
+      "etag": "531fada9f54de46b7143cbdc7aef653b",
+      "type": "market-orders",
+      "file_time": "2025-07-18T12:45:06Z"
+    }
+  },
+  {
+    "date": "2025-07-19",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-07-19/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:47.142793+00:00",
+    "index_sha256": "41bdec3cb15c84bb40e2cfe19de3346a5beafa3063c9bd0eb89f63d9a845a419",
+    "file_count": 48,
+    "median_size": 19266486.5,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 7,
+    "selected": {
+      "name": "market-orders-2025-07-19_12-15-07.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-07-19/market-orders-2025-07-19_12-15-07.v3.csv.bz2",
+      "size": 19261305,
+      "last_modified": "2025-07-19T12:20:09.961Z",
+      "etag": "62d837ea816adf56a24557c5997e3ee1",
+      "type": "market-orders",
+      "file_time": "2025-07-19T12:15:07Z"
+    }
+  },
+  {
+    "date": "2025-07-20",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-07-20/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:47.426957+00:00",
+    "index_sha256": "a566962975efd0c05079959db6c34990503e35e62b3076c9436af81e3f93d903",
+    "file_count": 48,
+    "median_size": 19254494.0,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 6,
+    "selected": {
+      "name": "market-orders-2025-07-20_12-15-06.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-07-20/market-orders-2025-07-20_12-15-06.v3.csv.bz2",
+      "size": 19249863,
+      "last_modified": "2025-07-20T12:20:03.436Z",
+      "etag": "f224af5c1d4ec8abfea44b836a7c9a74",
+      "type": "market-orders",
+      "file_time": "2025-07-20T12:15:06Z"
+    }
+  },
+  {
+    "date": "2025-07-21",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-07-21/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:47.206700+00:00",
+    "index_sha256": "050a13f5473cd12b2fc19e3f114e17cd27118fedc337ae95478e417cded5d094",
+    "file_count": 48,
+    "median_size": 19269746.0,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 7,
+    "selected": {
+      "name": "market-orders-2025-07-21_12-15-07.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-07-21/market-orders-2025-07-21_12-15-07.v3.csv.bz2",
+      "size": 19291431,
+      "last_modified": "2025-07-21T12:20:16.082Z",
+      "etag": "fe1249c3e168367ffb2b289fadc8212a",
+      "type": "market-orders",
+      "file_time": "2025-07-21T12:15:07Z"
+    }
+  },
+  {
+    "date": "2025-07-22",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-07-22/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:47.249271+00:00",
+    "index_sha256": "05f3f27c3518800e6c9551848e859546978600dc72ec9d2ebed09bb65749bfe6",
+    "file_count": 48,
+    "median_size": 19262836.5,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 7,
+    "selected": {
+      "name": "market-orders-2025-07-22_12-15-07.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-07-22/market-orders-2025-07-22_12-15-07.v3.csv.bz2",
+      "size": 19259064,
+      "last_modified": "2025-07-22T12:19:44.407Z",
+      "etag": "67d6bb21cd8975558a767f44b1b540b1",
+      "type": "market-orders",
+      "file_time": "2025-07-22T12:15:07Z"
+    }
+  },
+  {
+    "date": "2025-07-23",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-07-23/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:47.491765+00:00",
+    "index_sha256": "9e3f58e73446bdd6c49c0d4bd364f107252dcf4e10df3758652d5c0e5b6b5440",
+    "file_count": 48,
+    "median_size": 19247444.0,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 6,
+    "selected": {
+      "name": "market-orders-2025-07-23_12-15-06.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-07-23/market-orders-2025-07-23_12-15-06.v3.csv.bz2",
+      "size": 19237644,
+      "last_modified": "2025-07-23T12:20:04.456Z",
+      "etag": "17c6f3f11551aedbd90ae3d4d0ed251f",
+      "type": "market-orders",
+      "file_time": "2025-07-23T12:15:06Z"
+    }
+  },
+  {
+    "date": "2025-07-24",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-07-24/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:47.423406+00:00",
+    "index_sha256": "3c3d5d9ab409b696c20eee5a25e9058beaedc7e1d3b1dcf0d11c0cd31cac22a9",
+    "file_count": 48,
+    "median_size": 19224837.5,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 6,
+    "selected": {
+      "name": "market-orders-2025-07-24_12-15-06.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-07-24/market-orders-2025-07-24_12-15-06.v3.csv.bz2",
+      "size": 19224945,
+      "last_modified": "2025-07-24T12:19:58.959Z",
+      "etag": "2a7bac6d1d792405314909a111693355",
+      "type": "market-orders",
+      "file_time": "2025-07-24T12:15:06Z"
+    }
+  },
+  {
+    "date": "2025-07-25",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-07-25/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:47.316389+00:00",
+    "index_sha256": "aecb69210b48a214dd8875f010e711f683a03b6d24d1662802f0661e3cccda21",
+    "file_count": 48,
+    "median_size": 19225646.5,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 7,
+    "selected": {
+      "name": "market-orders-2025-07-25_12-15-07.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-07-25/market-orders-2025-07-25_12-15-07.v3.csv.bz2",
+      "size": 19226587,
+      "last_modified": "2025-07-25T12:19:50.665Z",
+      "etag": "538301a9e7fd8cab95134d120b9ff531",
+      "type": "market-orders",
+      "file_time": "2025-07-25T12:15:07Z"
+    }
+  },
+  {
+    "date": "2025-07-26",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-07-26/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:47.579260+00:00",
+    "index_sha256": "5372f062ef213ed633f7ad48a3c0a838229bc6c263c878f8b4f3ea19fba0a3d5",
+    "file_count": 48,
+    "median_size": 19208327.5,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 7,
+    "selected": {
+      "name": "market-orders-2025-07-26_12-15-07.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-07-26/market-orders-2025-07-26_12-15-07.v3.csv.bz2",
+      "size": 19204407,
+      "last_modified": "2025-07-26T12:19:59.231Z",
+      "etag": "7e4feff3c367df9ba518640605f5c116",
+      "type": "market-orders",
+      "file_time": "2025-07-26T12:15:07Z"
+    }
+  },
+  {
+    "date": "2025-07-27",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-07-27/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:47.700564+00:00",
+    "index_sha256": "3077f9abaeebff1e410c5d6d116954beb4c931ba665c0174163ba335ccb783d4",
+    "file_count": 48,
+    "median_size": 19245830.0,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 7,
+    "selected": {
+      "name": "market-orders-2025-07-27_12-15-07.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-07-27/market-orders-2025-07-27_12-15-07.v3.csv.bz2",
+      "size": 19256408,
+      "last_modified": "2025-07-27T12:20:14.241Z",
+      "etag": "bd91c3086ca462158f7fb7d1bbc3a936",
+      "type": "market-orders",
+      "file_time": "2025-07-27T12:15:07Z"
+    }
+  },
+  {
+    "date": "2025-07-28",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-07-28/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:48.360518+00:00",
+    "index_sha256": "0516cc29a2ac897243cf3b6e78ca2bdba9d6c185de30cb5da245ee4deb8ed48c",
+    "file_count": 48,
+    "median_size": 19244803.0,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 6,
+    "selected": {
+      "name": "market-orders-2025-07-28_12-15-06.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-07-28/market-orders-2025-07-28_12-15-06.v3.csv.bz2",
+      "size": 19233633,
+      "last_modified": "2025-07-28T12:20:16.122Z",
+      "etag": "8738d2a4db818e0ce04bb083786c0766",
+      "type": "market-orders",
+      "file_time": "2025-07-28T12:15:06Z"
+    }
+  },
+  {
+    "date": "2025-07-29",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-07-29/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:48.541536+00:00",
+    "index_sha256": "37d4663256dac5508d4853343201035f108bd17e7dee28fcf0fa835360894901",
+    "file_count": 48,
+    "median_size": 19263876.5,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 7,
+    "selected": {
+      "name": "market-orders-2025-07-29_12-15-07.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-07-29/market-orders-2025-07-29_12-15-07.v3.csv.bz2",
+      "size": 19256599,
+      "last_modified": "2025-07-29T12:20:07.559Z",
+      "etag": "5bb53b6f8bff4ab78c55f0377a2d28eb",
+      "type": "market-orders",
+      "file_time": "2025-07-29T12:15:07Z"
+    }
+  },
+  {
+    "date": "2025-07-30",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-07-30/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:48.416129+00:00",
+    "index_sha256": "ae3e98fad3554c4cd2e34349663bde48bbac4b03841bd9b5f9f799b8abe88b01",
+    "file_count": 48,
+    "median_size": 19276613.5,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 7,
+    "selected": {
+      "name": "market-orders-2025-07-30_12-15-07.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-07-30/market-orders-2025-07-30_12-15-07.v3.csv.bz2",
+      "size": 19274211,
+      "last_modified": "2025-07-30T12:19:59.100Z",
+      "etag": "eb3457ee9ed32c20a28b2af98eaf19f9",
+      "type": "market-orders",
+      "file_time": "2025-07-30T12:15:07Z"
+    }
+  },
+  {
+    "date": "2025-07-31",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-07-31/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:48.325350+00:00",
+    "index_sha256": "0bb69aaf28210c781ede6747b0f8b3e375b1276bc697311eb1d5dc518e34758a",
+    "file_count": 48,
+    "median_size": 19274592.5,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 7,
+    "selected": {
+      "name": "market-orders-2025-07-31_12-15-07.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-07-31/market-orders-2025-07-31_12-15-07.v3.csv.bz2",
+      "size": 19273624,
+      "last_modified": "2025-07-31T12:20:11.959Z",
+      "etag": "95a783491ad880160dfb3f3c7a2bebd4",
+      "type": "market-orders",
+      "file_time": "2025-07-31T12:15:07Z"
+    }
+  },
+  {
+    "date": "2025-08-01",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-08-01/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:47.762537+00:00",
+    "index_sha256": "8ca9afe3cb1faf6cdc47862f4a96eb57d25b8c4dd87e90c466d8f84cca79516a",
+    "file_count": 48,
+    "median_size": 19282130.5,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 7,
+    "selected": {
+      "name": "market-orders-2025-08-01_12-15-07.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-08-01/market-orders-2025-08-01_12-15-07.v3.csv.bz2",
+      "size": 19281910,
+      "last_modified": "2025-08-01T12:20:28.917Z",
+      "etag": "abf0b42d06e5bb327e2bde0466c2111a",
+      "type": "market-orders",
+      "file_time": "2025-08-01T12:15:07Z"
+    }
+  },
+  {
+    "date": "2025-08-02",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-08-02/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:48.418224+00:00",
+    "index_sha256": "99a6afd32500cbb47bd83504ec3898517f5b4c4334ec804afe3b263be5d6a043",
+    "file_count": 48,
+    "median_size": 19248156.0,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 7,
+    "selected": {
+      "name": "market-orders-2025-08-02_12-15-07.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-08-02/market-orders-2025-08-02_12-15-07.v3.csv.bz2",
+      "size": 19254854,
+      "last_modified": "2025-08-02T12:20:02.847Z",
+      "etag": "98b2ff4cd8af7fd20b93a0adfc7181e6",
+      "type": "market-orders",
+      "file_time": "2025-08-02T12:15:07Z"
+    }
+  },
+  {
+    "date": "2025-08-03",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-08-03/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:48.430810+00:00",
+    "index_sha256": "b1391cffd60ea9fe4075c4a4ba8cd9b6e7a76d67fdbe57b63225a4c2258178ea",
+    "file_count": 48,
+    "median_size": 19243520.0,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 6,
+    "selected": {
+      "name": "market-orders-2025-08-03_12-15-06.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-08-03/market-orders-2025-08-03_12-15-06.v3.csv.bz2",
+      "size": 19247223,
+      "last_modified": "2025-08-03T12:20:11.885Z",
+      "etag": "5e23f0eb6bf7e0b51e88233228fc3115",
+      "type": "market-orders",
+      "file_time": "2025-08-03T12:15:06Z"
+    }
+  },
+  {
+    "date": "2025-08-04",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-08-04/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:48.582964+00:00",
+    "index_sha256": "0eec72ab31103756ec7cbdebb3e14e3f7d607cd33e4fb62ebeb9d4b36f5083b6",
+    "file_count": 48,
+    "median_size": 19260435.0,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 7,
+    "selected": {
+      "name": "market-orders-2025-08-04_12-15-07.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-08-04/market-orders-2025-08-04_12-15-07.v3.csv.bz2",
+      "size": 19251374,
+      "last_modified": "2025-08-04T12:20:22.709Z",
+      "etag": "15c46f0387304baaa6e1dfad89cb08fc",
+      "type": "market-orders",
+      "file_time": "2025-08-04T12:15:07Z"
+    }
+  },
+  {
+    "date": "2025-08-05",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-08-05/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:48.587494+00:00",
+    "index_sha256": "79c471ca4ed14b6752b61b46a0f2bc1eeced8af465173ddb9733b60ab5afafd7",
+    "file_count": 48,
+    "median_size": 19272017.0,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 6,
+    "selected": {
+      "name": "market-orders-2025-08-05_12-15-06.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-08-05/market-orders-2025-08-05_12-15-06.v3.csv.bz2",
+      "size": 19282646,
+      "last_modified": "2025-08-05T12:20:08.376Z",
+      "etag": "97d29362f53eb1c977baac783fb2f982",
+      "type": "market-orders",
+      "file_time": "2025-08-05T12:15:06Z"
+    }
+  },
+  {
+    "date": "2025-08-06",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-08-06/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:49.066382+00:00",
+    "index_sha256": "bfc5ea7f93b153b2ef89bf43dce45891343d819d51912f91d856e40dccb670a3",
+    "file_count": 48,
+    "median_size": 19284990.0,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 8,
+    "selected": {
+      "name": "market-orders-2025-08-06_12-15-08.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-08-06/market-orders-2025-08-06_12-15-08.v3.csv.bz2",
+      "size": 19288072,
+      "last_modified": "2025-08-06T12:20:25.031Z",
+      "etag": "5870b884bacf00b9e60faf25945780ab",
+      "type": "market-orders",
+      "file_time": "2025-08-06T12:15:08Z"
+    }
+  },
+  {
+    "date": "2025-08-07",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-08-07/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:48.696611+00:00",
+    "index_sha256": "58290a25200dd930365495fa18017f66e834a45ce099a3caf52db356c5cb062c",
+    "file_count": 48,
+    "median_size": 19260166.5,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 6,
+    "selected": {
+      "name": "market-orders-2025-08-07_12-15-06.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-08-07/market-orders-2025-08-07_12-15-06.v3.csv.bz2",
+      "size": 19268541,
+      "last_modified": "2025-08-07T12:20:09.643Z",
+      "etag": "548e79e0aea055c2f87166324ffd113f",
+      "type": "market-orders",
+      "file_time": "2025-08-07T12:15:06Z"
+    }
+  },
+  {
+    "date": "2025-08-08",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-08-08/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:48.784481+00:00",
+    "index_sha256": "e05bff87629b260101d2ebc076e6900af8ba2cb921e76721dcf2d1a3eb4c1a9b",
+    "file_count": 48,
+    "median_size": 19223409.0,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 7,
+    "selected": {
+      "name": "market-orders-2025-08-08_12-15-07.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-08-08/market-orders-2025-08-08_12-15-07.v3.csv.bz2",
+      "size": 19219942,
+      "last_modified": "2025-08-08T12:20:12.807Z",
+      "etag": "8abd03230dc484ae9f150f90cd575896",
+      "type": "market-orders",
+      "file_time": "2025-08-08T12:15:07Z"
+    }
+  },
+  {
+    "date": "2025-08-09",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-08-09/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:48.742833+00:00",
+    "index_sha256": "1d4173cabdea582e13fab1ef31e84c26cdb784deafca29afa45269b68c231431",
+    "file_count": 48,
+    "median_size": 19178638.5,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 8,
+    "selected": {
+      "name": "market-orders-2025-08-09_12-15-08.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-08-09/market-orders-2025-08-09_12-15-08.v3.csv.bz2",
+      "size": 19178539,
+      "last_modified": "2025-08-09T12:20:24.634Z",
+      "etag": "cfa0c81a2927fb623c662ea0f8750b5e",
+      "type": "market-orders",
+      "file_time": "2025-08-09T12:15:08Z"
+    }
+  },
+  {
+    "date": "2025-08-10",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-08-10/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:48.788013+00:00",
+    "index_sha256": "5e341edd9205a0f8adc144455de75795cb6e1579724a5e5ddf84b6d4972712fd",
+    "file_count": 48,
+    "median_size": 19143304.5,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 8,
+    "selected": {
+      "name": "market-orders-2025-08-10_12-15-08.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-08-10/market-orders-2025-08-10_12-15-08.v3.csv.bz2",
+      "size": 19141320,
+      "last_modified": "2025-08-10T12:20:44.103Z",
+      "etag": "c4c16428a1caec8b40c0fd48ec5c1e23",
+      "type": "market-orders",
+      "file_time": "2025-08-10T12:15:08Z"
+    }
+  },
+  {
+    "date": "2025-08-11",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-08-11/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:48.846245+00:00",
+    "index_sha256": "60e2c40d62daa641b4959cd258924bf6869beb3923d35d13a9896f7d9220a525",
+    "file_count": 48,
+    "median_size": 19146652.0,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 7,
+    "selected": {
+      "name": "market-orders-2025-08-11_12-15-07.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-08-11/market-orders-2025-08-11_12-15-07.v3.csv.bz2",
+      "size": 19147793,
+      "last_modified": "2025-08-11T12:20:27.572Z",
+      "etag": "58c4c6c9ed5f60513e64b32115b8c2b7",
+      "type": "market-orders",
+      "file_time": "2025-08-11T12:15:07Z"
+    }
+  },
+  {
+    "date": "2025-08-12",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-08-12/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:48.998052+00:00",
+    "index_sha256": "00f2e40a05913e09f975763a36e0b41ee396de2ce9ce607367bd03b484affe81",
+    "file_count": 48,
+    "median_size": 19129844.0,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 8,
+    "selected": {
+      "name": "market-orders-2025-08-12_12-15-08.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-08-12/market-orders-2025-08-12_12-15-08.v3.csv.bz2",
+      "size": 19124713,
+      "last_modified": "2025-08-12T12:20:34.048Z",
+      "etag": "84f498d4de3007c57d68fa060e88b91c",
+      "type": "market-orders",
+      "file_time": "2025-08-12T12:15:08Z"
+    }
+  },
+  {
+    "date": "2025-08-13",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-08-13/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:48.833752+00:00",
+    "index_sha256": "305d26fea4bc1282afcfa7640cfb34ef2c3fddb12d001b55c9e6c85fcee883ae",
+    "file_count": 48,
+    "median_size": 19114136.0,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 9,
+    "selected": {
+      "name": "market-orders-2025-08-13_12-15-09.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-08-13/market-orders-2025-08-13_12-15-09.v3.csv.bz2",
+      "size": 19101408,
+      "last_modified": "2025-08-13T12:20:45.168Z",
+      "etag": "76b381cacaf5b8fdbfd8148f34c2fba7",
+      "type": "market-orders",
+      "file_time": "2025-08-13T12:15:09Z"
+    }
+  },
+  {
+    "date": "2025-08-14",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-08-14/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:49.100822+00:00",
+    "index_sha256": "17d2e5ae8d3a4bbc0fb10f8b48aaad073c53139af449a8c4c463ab84322e377a",
+    "file_count": 47,
+    "median_size": 19149422,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 7,
+    "selected": {
+      "name": "market-orders-2025-08-14_12-15-07.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-08-14/market-orders-2025-08-14_12-15-07.v3.csv.bz2",
+      "size": 19146896,
+      "last_modified": "2025-08-14T12:20:50.515Z",
+      "etag": "953e267a70cc8c65a41f21ba2a776ee7",
+      "type": "market-orders",
+      "file_time": "2025-08-14T12:15:07Z"
+    }
+  },
+  {
+    "date": "2025-08-15",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-08-15/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:49.173894+00:00",
+    "index_sha256": "63ac792426d487869083761814ca96a046800d5c0afdb3072f003af71fe3997d",
+    "file_count": 48,
+    "median_size": 19147762.5,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 6,
+    "selected": {
+      "name": "market-orders-2025-08-15_12-15-06.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-08-15/market-orders-2025-08-15_12-15-06.v3.csv.bz2",
+      "size": 19135307,
+      "last_modified": "2025-08-15T12:20:02.724Z",
+      "etag": "9a2d3cf27f81976f43431480b3e578ee",
+      "type": "market-orders",
+      "file_time": "2025-08-15T12:15:06Z"
+    }
+  },
+  {
+    "date": "2025-08-16",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-08-16/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:49.325430+00:00",
+    "index_sha256": "8a75ef19e122be94662325325f9291247adf38bf1683f681c56dc07f636513c6",
+    "file_count": 48,
+    "median_size": 19116932.0,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 7,
+    "selected": {
+      "name": "market-orders-2025-08-16_12-15-07.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-08-16/market-orders-2025-08-16_12-15-07.v3.csv.bz2",
+      "size": 19117734,
+      "last_modified": "2025-08-16T12:20:33.981Z",
+      "etag": "71eedc6fc941a3e4d0057e1676b893fc",
+      "type": "market-orders",
+      "file_time": "2025-08-16T12:15:07Z"
+    }
+  },
+  {
+    "date": "2025-08-17",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-08-17/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:49.279342+00:00",
+    "index_sha256": "12b5319261abe1208ec952bb75815826acc6c935d4fc52b1e5450c4cadc04b47",
+    "file_count": 48,
+    "median_size": 19154907.0,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 7,
+    "selected": {
+      "name": "market-orders-2025-08-17_12-15-07.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-08-17/market-orders-2025-08-17_12-15-07.v3.csv.bz2",
+      "size": 19150083,
+      "last_modified": "2025-08-17T12:20:07.831Z",
+      "etag": "f4e978259306475d3be6b125aaf95430",
+      "type": "market-orders",
+      "file_time": "2025-08-17T12:15:07Z"
+    }
+  },
+  {
+    "date": "2025-08-18",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-08-18/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:49.413996+00:00",
+    "index_sha256": "5d4cfed847309a3b8e1340ea329d1f4a5663ab43963ab85b1e9513304babe06d",
+    "file_count": 47,
+    "median_size": 19160658,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 6,
+    "selected": {
+      "name": "market-orders-2025-08-18_12-15-06.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-08-18/market-orders-2025-08-18_12-15-06.v3.csv.bz2",
+      "size": 19163124,
+      "last_modified": "2025-08-18T12:20:17.494Z",
+      "etag": "45d73334462b697ce05a19d919bc0184",
+      "type": "market-orders",
+      "file_time": "2025-08-18T12:15:06Z"
+    }
+  },
+  {
+    "date": "2025-08-19",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-08-19/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:49.366215+00:00",
+    "index_sha256": "efeea62dffe14e6b3b738fa956d90e96c4f43d171ca3b403b404e184ad67f288",
+    "file_count": 48,
+    "median_size": 19177273.0,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 7,
+    "selected": {
+      "name": "market-orders-2025-08-19_12-15-07.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-08-19/market-orders-2025-08-19_12-15-07.v3.csv.bz2",
+      "size": 19182790,
+      "last_modified": "2025-08-19T12:20:05.387Z",
+      "etag": "c58c6d074d40110aa0d2a9d93dcbbea9",
+      "type": "market-orders",
+      "file_time": "2025-08-19T12:15:07Z"
+    }
+  },
+  {
+    "date": "2025-08-20",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-08-20/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:50.053416+00:00",
+    "index_sha256": "26222fc890bf0311fdbb309e06da4790fa5533ee46618e1f5b7c03600e3e8005",
+    "file_count": 47,
+    "median_size": 19163892,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 8,
+    "selected": {
+      "name": "market-orders-2025-08-20_12-15-08.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-08-20/market-orders-2025-08-20_12-15-08.v3.csv.bz2",
+      "size": 19169396,
+      "last_modified": "2025-08-20T12:20:36.495Z",
+      "etag": "20dc75261eb8b4d0f98e8d2abb752936",
+      "type": "market-orders",
+      "file_time": "2025-08-20T12:15:08Z"
+    }
+  },
+  {
+    "date": "2025-08-21",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-08-21/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:49.464585+00:00",
+    "index_sha256": "e858e47e5394e6b86772a7e057e4f7ea373e5d2af8a8de4cb269d60a57036fd5",
+    "file_count": 48,
+    "median_size": 19153407.0,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 7,
+    "selected": {
+      "name": "market-orders-2025-08-21_12-15-07.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-08-21/market-orders-2025-08-21_12-15-07.v3.csv.bz2",
+      "size": 19155493,
+      "last_modified": "2025-08-21T12:20:05.913Z",
+      "etag": "8076b36f1abca90ed721927bad32af76",
+      "type": "market-orders",
+      "file_time": "2025-08-21T12:15:07Z"
+    }
+  },
+  {
+    "date": "2025-08-22",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-08-22/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:49.517649+00:00",
+    "index_sha256": "8cfe373777cb5f05d94dc1666e15ea0292f1b6b842ade3fa33e0bfeec4d0bd07",
+    "file_count": 48,
+    "median_size": 18967818.0,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 7,
+    "selected": {
+      "name": "market-orders-2025-08-22_12-15-07.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-08-22/market-orders-2025-08-22_12-15-07.v3.csv.bz2",
+      "size": 18951786,
+      "last_modified": "2025-08-22T12:19:20.586Z",
+      "etag": "27230b80a364af88a4f3657d4902656c",
+      "type": "market-orders",
+      "file_time": "2025-08-22T12:15:07Z"
+    }
+  },
+  {
+    "date": "2025-08-23",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-08-23/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:49.514755+00:00",
+    "index_sha256": "4c72cddbb2872192566fab3716af1b1f4c453495df8d4a2c4b77704e6903b104",
+    "file_count": 48,
+    "median_size": 18968204.0,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 7,
+    "selected": {
+      "name": "market-orders-2025-08-23_12-15-07.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-08-23/market-orders-2025-08-23_12-15-07.v3.csv.bz2",
+      "size": 18984978,
+      "last_modified": "2025-08-23T12:20:05.557Z",
+      "etag": "40b892f98c48670f8af40945ef373b2c",
+      "type": "market-orders",
+      "file_time": "2025-08-23T12:15:07Z"
+    }
+  },
+  {
+    "date": "2025-08-24",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-08-24/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:49.749848+00:00",
+    "index_sha256": "a64fa1f5e162de5deb726186634dfd1958c7efed72d80a048e46688f84611a8f",
+    "file_count": 48,
+    "median_size": 18882309.0,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 7,
+    "selected": {
+      "name": "market-orders-2025-08-24_12-15-07.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-08-24/market-orders-2025-08-24_12-15-07.v3.csv.bz2",
+      "size": 18882076,
+      "last_modified": "2025-08-24T12:20:35.480Z",
+      "etag": "8383e3b372e4b03a4534b6faaa100937",
+      "type": "market-orders",
+      "file_time": "2025-08-24T12:15:07Z"
+    }
+  },
+  {
+    "date": "2025-08-25",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-08-25/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:49.708116+00:00",
+    "index_sha256": "a9996a2892a6ad8ca62ef0858695f631d1a6f4c6a752046df80b1777652e637c",
+    "file_count": 48,
+    "median_size": 18908376.0,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 8,
+    "selected": {
+      "name": "market-orders-2025-08-25_12-15-08.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-08-25/market-orders-2025-08-25_12-15-08.v3.csv.bz2",
+      "size": 18911844,
+      "last_modified": "2025-08-25T12:20:12.723Z",
+      "etag": "0134e7887072a68dfb422f6e6a8601d4",
+      "type": "market-orders",
+      "file_time": "2025-08-25T12:15:08Z"
+    }
+  },
+  {
+    "date": "2025-08-26",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-08-26/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:49.662841+00:00",
+    "index_sha256": "e8c47cadf9ed76146a47cb2d36b1333947f2ae26b3ade4a2fe13af3e5e2f5940",
+    "file_count": 48,
+    "median_size": 18896902.5,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 7,
+    "selected": {
+      "name": "market-orders-2025-08-26_12-15-07.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-08-26/market-orders-2025-08-26_12-15-07.v3.csv.bz2",
+      "size": 18901115,
+      "last_modified": "2025-08-26T12:20:11.221Z",
+      "etag": "aaa9b0ab1537f62790d52d8966ad3657",
+      "type": "market-orders",
+      "file_time": "2025-08-26T12:15:07Z"
+    }
+  },
+  {
+    "date": "2025-08-27",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-08-27/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:49.793133+00:00",
+    "index_sha256": "6d8a2e02af02fb85a0a1af6f6b94d343e1e956a058df2688a09a9e9c7799ba3d",
+    "file_count": 47,
+    "median_size": 18843716,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 8,
+    "selected": {
+      "name": "market-orders-2025-08-27_12-15-08.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-08-27/market-orders-2025-08-27_12-15-08.v3.csv.bz2",
+      "size": 18844705,
+      "last_modified": "2025-08-27T12:20:18.244Z",
+      "etag": "9be43edf12c99f2f96847865490c04f7",
+      "type": "market-orders",
+      "file_time": "2025-08-27T12:15:08Z"
+    }
+  },
+  {
+    "date": "2025-08-28",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-08-28/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:49.845176+00:00",
+    "index_sha256": "60b77b5ba5d52c0998ad9b6e5df1189742cba103219e9409375ed685d53ea40e",
+    "file_count": 47,
+    "median_size": 18792216,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 7,
+    "selected": {
+      "name": "market-orders-2025-08-28_12-15-07.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-08-28/market-orders-2025-08-28_12-15-07.v3.csv.bz2",
+      "size": 18768986,
+      "last_modified": "2025-08-28T12:20:08.289Z",
+      "etag": "e1a1206ee67690e4db2e3681813a8bd9",
+      "type": "market-orders",
+      "file_time": "2025-08-28T12:15:07Z"
+    }
+  },
+  {
+    "date": "2025-08-29",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-08-29/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:49.842636+00:00",
+    "index_sha256": "92db05347ce7ffc0959126681e972a2187bcf52be585d45703d95384fd79ec18",
+    "file_count": 48,
+    "median_size": 18745664.5,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 7,
+    "selected": {
+      "name": "market-orders-2025-08-29_12-15-07.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-08-29/market-orders-2025-08-29_12-15-07.v3.csv.bz2",
+      "size": 18741856,
+      "last_modified": "2025-08-29T12:20:04.717Z",
+      "etag": "ac6291246e2c499e5e8e5a0c505a9305",
+      "type": "market-orders",
+      "file_time": "2025-08-29T12:15:07Z"
+    }
+  },
+  {
+    "date": "2025-08-30",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-08-30/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:49.942025+00:00",
+    "index_sha256": "b75fd829a9fa371635ecae39bf531abf2bc05ee566a25744101ab55f212ce432",
+    "file_count": 47,
+    "median_size": 18709162,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 6,
+    "selected": {
+      "name": "market-orders-2025-08-30_12-15-06.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-08-30/market-orders-2025-08-30_12-15-06.v3.csv.bz2",
+      "size": 18703560,
+      "last_modified": "2025-08-30T12:20:09.833Z",
+      "etag": "9372991c3587227d7887a659a5ce9600",
+      "type": "market-orders",
+      "file_time": "2025-08-30T12:15:06Z"
+    }
+  },
+  {
+    "date": "2025-08-31",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-08-31/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:50.082060+00:00",
+    "index_sha256": "fc5915cef5abc3bd2fd07d182d1b558a8c9d1d383a89581355ee85123678bcfc",
+    "file_count": 48,
+    "median_size": 18681864.0,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 7,
+    "selected": {
+      "name": "market-orders-2025-08-31_12-15-07.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-08-31/market-orders-2025-08-31_12-15-07.v3.csv.bz2",
+      "size": 18671961,
+      "last_modified": "2025-08-31T12:20:13.254Z",
+      "etag": "a9fc805236d86b0a57194b35f4057a18",
+      "type": "market-orders",
+      "file_time": "2025-08-31T12:15:07Z"
+    }
+  },
+  {
+    "date": "2025-09-01",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-09-01/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:49.986325+00:00",
+    "index_sha256": "f624cbb42c93267e7b2500217c861407dc5be69ca96f35e93a44d33867a357cd",
+    "file_count": 48,
+    "median_size": 18718587.0,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 8,
+    "selected": {
+      "name": "market-orders-2025-09-01_12-15-08.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-09-01/market-orders-2025-09-01_12-15-08.v3.csv.bz2",
+      "size": 18728122,
+      "last_modified": "2025-09-01T12:20:18.500Z",
+      "etag": "58f753163c857c4d51b1b4eeed8a7529",
+      "type": "market-orders",
+      "file_time": "2025-09-01T12:15:08Z"
+    }
+  },
+  {
+    "date": "2025-09-02",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-09-02/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:50.134370+00:00",
+    "index_sha256": "f980ccb0e8a0243a7561259e85d9ae2e42a146b779ed89c4bf794b5abd62d75b",
+    "file_count": 48,
+    "median_size": 18742938.5,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 7,
+    "selected": {
+      "name": "market-orders-2025-09-02_12-15-07.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-09-02/market-orders-2025-09-02_12-15-07.v3.csv.bz2",
+      "size": 18741012,
+      "last_modified": "2025-09-02T12:19:51.456Z",
+      "etag": "6f004eba65ee83510998ccfff6756321",
+      "type": "market-orders",
+      "file_time": "2025-09-02T12:15:07Z"
+    }
+  },
+  {
+    "date": "2025-09-03",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-09-03/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:50.174455+00:00",
+    "index_sha256": "5cbc5ba3437176e465f53dde436fd21af4c4c122ac0930a229ac62ee2fd7bb1f",
+    "file_count": 47,
+    "median_size": 18750227,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 6,
+    "selected": {
+      "name": "market-orders-2025-09-03_12-15-06.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-09-03/market-orders-2025-09-03_12-15-06.v3.csv.bz2",
+      "size": 18750227,
+      "last_modified": "2025-09-03T12:20:15.195Z",
+      "etag": "4f5927c81a907be003498285c6d28a24",
+      "type": "market-orders",
+      "file_time": "2025-09-03T12:15:06Z"
+    }
+  },
+  {
+    "date": "2025-09-04",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-09-04/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:50.109761+00:00",
+    "index_sha256": "c78e9f4cd488d0969550cdf61e18f56358c16edb56247fd151e58ddce0867900",
+    "file_count": 48,
+    "median_size": 18751961.0,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 7,
+    "selected": {
+      "name": "market-orders-2025-09-04_12-15-07.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-09-04/market-orders-2025-09-04_12-15-07.v3.csv.bz2",
+      "size": 18740045,
+      "last_modified": "2025-09-04T12:20:18.834Z",
+      "etag": "04110064c69045ef1fedd38127541185",
+      "type": "market-orders",
+      "file_time": "2025-09-04T12:15:07Z"
+    }
+  },
+  {
+    "date": "2025-09-05",
+    "index_url": "https://data.everef.net/market-orders/history/2025/2025-09-05/index.json",
+    "index_retrieved_utc": "2026-08-04T00:48:50.079883+00:00",
+    "index_sha256": "f3696a1be2a6b051ecd369c48dcbc94beb18d2f2e06a79cf6ecf140fc79801f1",
+    "file_count": 48,
+    "median_size": 18735107.0,
+    "invalid_below_half_median": 0,
+    "selected_offset_seconds": 7,
+    "selected": {
+      "name": "market-orders-2025-09-05_12-15-07.v3.csv.bz2",
+      "url": "https://data.everef.net/market-orders/history/2025/2025-09-05/market-orders-2025-09-05_12-15-07.v3.csv.bz2",
+      "size": 18745951,
+      "last_modified": "2025-09-05T12:20:07.004Z",
+      "etag": "f78ae8017607857f5f7589c3b67dca3d",
+      "type": "market-orders",
+      "file_time": "2025-09-05T12:15:07Z"
+    }
+  }
+]

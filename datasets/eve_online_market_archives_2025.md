@@ -30,6 +30,21 @@ Two compressed full-market snapshots were downloaded to a temporary directory, s
 
 Both files expose: `duration`, `is_buy_order`, `issued`, `location_id`, `min_volume`, `order_id`, `price`, `range`, `system_id`, `type_id`, `volume_remain`, `volume_total`, `http_last_modified`, `station_id`, `region_id`, and `constellation_id`.
 
+## Exact transition audit — 2026-08-03
+
+A pinned, hashed half-hour reconstruction found:
+
+| Snapshot UTC | PLEX orders | Regions | State |
+|---|---:|---:|---|
+| 2025-07-07 10:45:07 | 1,928 | 59 | last observed regional |
+| 2025-07-07 11:15:07 | 0 | 0 | complete full-market snapshot; PLEX empty |
+| 2025-07-07 11:45:08 | 130 | 1 | first observed global |
+| 2025-07-07 12:15:12 | 158 | 1 | early global formation |
+
+Regional cancellation is interval-censored to `(10:45:07, 11:15:07]`; first observed global formation is interval-censored to `(11:15:07, 11:45:08]`. The July 8 13:15 and 13:45 archives are separate incomplete snapshots, not the treatment boundary.
+
+The ±60-day metadata panel pins 121 daily indexes and 120 valid fixed-time candidates. The rule targets 12:15 UTC, rejects files below half the daily median compressed size, permits an adjacent scheduled scrape within 31 minutes, and otherwise marks the day missing. July 16 is missing under this rule. No 120-day payload panel has yet been acquired.
+
 The observed discontinuity verifies archive usability, not an economic effect. The new global region mechanically replaces regional segmentation, and the total number of open orders is not comparable without checking cancellation/migration rules and deployment timing.
 
 ## Scale and acquisition design

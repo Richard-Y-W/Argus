@@ -1,0 +1,28 @@
+{
+  "config": {
+    "families": [
+      "liquidity_drain",
+      "leverage_cancer",
+      "systemic_correlation",
+      "combined",
+      "benign_volatility"
+    ],
+    "policies": [
+      "none",
+      "proportional",
+      "vol_target",
+      "liquidate",
+      "immune"
+    ],
+    "seeds": [
+      30000,
+      30099
+    ],
+    "days": 120,
+    "invariants": {
+      "max_leverage": 3.0,
+      "min_lcr": 1.0
+    }
+  },
+  "analysis_sha256": "ff7eba1735fbe821e83ce31a223b9198d5a3988864397602581307ab07b7a12b"
+}

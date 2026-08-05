@@ -46,3 +46,15 @@ EXP-029 implemented the missing loop directly:
 It failed five of six registered conditions on an uninspected 10-industry panel. The controller beat no fixed search response on certainty equivalent, turned over more than localized and all-gene search, and invoked localized repair in only 3.75% of months. This rejects the frozen danger router, not every financial-defense system.
 
 The program has learned that distributional abnormality is not intervention value. A closer immune analogy would stop using return maximization as “health.” It would define a system invariant—such as leverage, liquidity, concentration, drawdown budget, or network solvency—detect a breach, isolate contributors, and seek the smallest response that restores the constraint. That is the next conceptual boundary; no new threshold tuning is admissible on EXP-027–029.
+
+## EXP-030 invariant-restoration update
+
+EXP-030 replaced return fitness with leverage and liquidity invariants. Targeted isolation reduced violation area relative to proportional deleveraging by 0.0673 [0.0572, 0.0782 in absolute benefit] and reduced healthy-module intervention by 4.76 units. It stayed close to liquidation's safety while preserving roughly 90 healthy-exposure units.
+
+The joint claim still failed: volatility targeting was safer by 0.0869 violation-area units, and liquidation preserved 1.81 more terminal-equity units. Most importantly, targeted treatment used an early-warning trigger while proportional treatment waited for breach. EXP-030 therefore mixes surveillance and treatment effects.
+
+The next admissible test is a frozen 2x2 factorial:
+
+`breach vs early trigger × proportional vs targeted treatment`
+
+This is the first point at which the immune-defense program shows a mechanism worth decomposing rather than another router worth tuning.

@@ -42,6 +42,7 @@ Scores are 1–5; confounding risk is worse when higher. Promotion requires a da
 | Lineage-aware financial immune controller | 5 | 3 | 3 | 5 | 5 | 5 | EXP-025–027 rejected; pause synthetic tuning, require external benchmark or point-in-time data |
 | Shock-sparse modular gene repair | 5 | 4 | 3 | 5 | 5 | 4 | EXP-028 joint claim rejected; one cross-family interaction test allowed without retuning |
 | Invariant-restoring financial defense | 5 | 3 | 4 | 5 | 5 | 4 | EXP-029 rejects danger-routed return optimization; redefine health and containment before testing |
+| Surveillance-treatment factorial defense | 5 | 5 | 4 | 5 | 5 | 2 | EXP-030 mechanism survives but early-trigger confound blocks attribution; EXP-031 priority |
 
 Next claim-bearing priority: acquire direct publication-arbitrage quantities or an external economic factor taxonomy. EXP-022–024 show that nominal factor breadth materially overstates independent breadth, exact family-level inference fails, and one 59-factor empirical family carries most equal-factor decay. Further return-only slicing has low marginal identification value. EXP-011/012 remain methodological calibrations, not alpha claims.
 
@@ -64,3 +65,5 @@ EXP-027 update: the frozen distance gate failed all predictions. Generic distrib
 EXP-028 update: an official frozen French archive supplied the first historical modular-repair test. Localized mutation narrowly beat unrestricted mutation on primary certainty equivalent but failed against random restart and increased turnover. Later-vintage results favored minimum variance and equal weight on return-risk tradeoffs. Do not retune the operator; only a preregistered sparse-shock interaction on a second data family remains justified.
 
 EXP-029 update: the danger-routed controller restored tolerance, targeted repair, systemic regeneration, and memory, but failed five of six joint conditions. It beat no fixed response on certainty equivalent, systemic resets raised turnover, and localized repair appeared in only 3.75% of evaluation months. Stop return-optimizer routing on these data. The remaining immune-system question must define an explicit health invariant and measure minimal loss containment.
+
+EXP-030 update: targeted invariant restoration beat proportional deleveraging across every pathology family and preserved far more healthy exposure than liquidation, but failed the joint rule because volatility targeting was safer and liquidation preserved more terminal equity. Treatment and detection timing are confounded: immune acts before breach, proportional after breach. Freeze the simulator and run only the registered 2x2 detector-by-treatment factorial next.

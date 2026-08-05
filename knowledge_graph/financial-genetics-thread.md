@@ -58,3 +58,13 @@ The next admissible test is a frozen 2x2 factorial:
 `breach vs early trigger × proportional vs targeted treatment`
 
 This is the first point at which the immune-defense program shows a mechanism worth decomposing rather than another router worth tuning.
+
+## EXP-031 decomposition
+
+The factorial attributes EXP-030's safety benefit to early surveillance, not targeted treatment. Early warning reduced violation area under proportional and targeted responses by 0.0456 and 0.0429 respectively, with both paired intervals below zero.
+
+At identical triggers, localization reduced healthy-module intervention by 7.27 units under early warning and 6.42 after breach. It did not reduce violation area; point estimates were slightly worse and uncertainty crossed zero. The defensible architecture is therefore:
+
+`buffer-zone surveillance -> safety-constrained minimal intervention -> recovery`
+
+The evolutionary language is no longer doing the analytical work. The remaining bio-inspired contribution is the objective of containing damage while preserving healthy function. EXP-030–031 paths are consumed and cannot support further tuning.

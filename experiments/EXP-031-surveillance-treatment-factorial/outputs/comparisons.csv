@@ -1,0 +1,9 @@
+estimand,left,right,metric,estimate,ci_low,ci_high
+treatment_at_early,early_targeted,early_proportional,violation_area,0.002885659246846165,-0.0006977497300014894,0.0067895341123294884
+treatment_at_early,early_targeted,early_proportional,healthy_reduction,-7.270685805039426,-8.230281459686273,-6.303657464517944
+treatment_at_early,early_targeted,early_proportional,terminal_equity,0.020939486242087284,-0.1749005326741904,0.2193376583300343
+treatment_at_breach,breach_targeted,breach_proportional,violation_area,0.0001786194603566802,-0.004634696052389419,0.005077716509961605
+treatment_at_breach,breach_targeted,breach_proportional,healthy_reduction,-6.42234304833385,-7.5765419277268435,-5.253361512912828
+early_warning_proportional,early_proportional,breach_proportional,violation_area,-0.04562097573092797,-0.05386798415628234,-0.0378447877184835
+early_warning_targeted,early_targeted,breach_targeted,violation_area,-0.04291393594443849,-0.05088977685334569,-0.03547501119884153
+treatment_at_early,early_targeted,early_proportional,false_action_days,-0.23,-0.30605,-0.15

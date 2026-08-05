@@ -11,6 +11,7 @@ GENETICS_ROOTS = (
     REPO_ROOT / "experiments" / "EXP-028-modular-gene-repair",
     REPO_ROOT / "experiments" / "EXP-029-danger-routed-immune-controller",
     REPO_ROOT / "experiments" / "EXP-030-invariant-restoring-defense",
+    REPO_ROOT / "experiments" / "EXP-031-surveillance-treatment-factorial",
 )
 SCANNED_SUFFIXES = {".py", ".json", ".toml", ".yaml", ".yml"}
 FORBIDDEN_MARKERS = (

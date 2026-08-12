@@ -1,0 +1,4 @@
+interface:
+  display_name: "Run Argus Research Cycle"
+  short_description: "Design and execute rigorous Argus research"
+  default_prompt: "Use $run-argus-research-cycle to develop this question into a rigorous Argus research cycle."

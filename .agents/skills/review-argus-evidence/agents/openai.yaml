@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review Argus Evidence"
+  short_description: "Audit quantitative claims and evidence"
+  default_prompt: "Use $review-argus-evidence to adversarially review this Argus claim or experiment."

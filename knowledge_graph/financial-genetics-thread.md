@@ -74,3 +74,7 @@ The evolutionary language is no longer doing the analytical work. The remaining 
 An adversarial reconstruction confirmed the EXP-031 hashes, focused tests, archived contrasts, and rejection. A separate external-data audit found that FFIEC Call Reports and EBA/Federal Reserve stress-test releases can ground balance-sheet states and common stresses, but none directly identifies the counterfactual effect of targeted versus proportional intervention.
 
 The branch remains open only as a safety-constrained control question. The next admissible work is an EBA-2025 schema and response-model audit; no EXP-032 should be registered until a regulatory health endpoint, collateral-function endpoint, ex ante safety-noninferiority margin, equal-budget comparators, and untouched confirmation release are fixed. Further biological relabeling or reuse of EXP-030/031 paths is stopped.
+
+## EBA schema gate
+
+The EBA 2025 audit pinned more than 1.19 million public observations and found credible solvency endpoints but no liquidity endpoint or empirical response from exposure-specific intervention to subsequent safety. A targeted counterfactual would test researcher-imposed scaling equations against themselves. EXP-032 was not registered, and the branch is paused pending an exogenous institutional design or independently validated structural response model.

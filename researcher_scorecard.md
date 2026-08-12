@@ -4,7 +4,7 @@
 
 **Researcher:** Richard
 **Started:** 2026-07-09
-**Last updated:** 2026-08-03 (PLEX transition reconstruction and extractor)
+**Last updated:** 2026-08-11 (immune-system continuation review)
 
 ---
 
@@ -87,6 +87,7 @@ Record dated, concrete examples where the researcher: changed their mind after e
 - **2026-08-04 — Richard detected conceptual drift and restored the defense question.** Richard asked whether mutation experiments had moved away from his immune-system idea. EXP-029 explicitly reinstated danger sensing, tolerance, local defense, systemic regeneration, and memory. Its rejection exposed a deeper modeling error: return fitness is not necessarily system health, and a defense system should be judged by invariant restoration and collateral damage.
 - **2026-08-05 — “Does it work?” became an explicit multi-objective criterion.** Richard approved invariant-defense testing but asked how success could actually be recognized. EXP-030 operationalized success as breach containment, recovery, healthy-module preservation, equity, and false alarms. The joint claim failed, yet targeted containment survived against proportional control; adversarial review separated that signal from an unresolved early-detection confound.
 - **2026-08-05 — Continued testing removed the flattering explanation.** Richard directed Argus to keep going. EXP-031 held timing and restoration targets constant, showing that early surveillance—not localization—caused EXP-030's safety advantage. Targeting still preserved healthy exposure, but its superiority claim failed. The program stopped the consumed simulator instead of relabeling comparable safety as success.
+- **2026-08-11 — Continuation was conditioned on identification rather than enthusiasm.** Richard asked whether the immune-system work should continue. The review preserved the negative EXP-031 treatment verdict, separated the useful safety-constrained-control question from the biological metaphor, and limited continuation to an external schema-and-identification audit before any new experiment.
 
 ## Contribution Attribution Ledger
 
@@ -134,5 +135,6 @@ Each research cycle gets one of four levels (defined in the charter §Contributi
 | 2026-08-04 | EXP-029 danger-routed immune controller | Collaborative | Richard explicitly questioned drift from his immune-defense architecture and authorized the next test; Argus mapped surveillance, tolerance, local repair, systemic regeneration, and memory into a frozen controller, then rejected it on five of six joint conditions. |
 | 2026-08-05 | EXP-030 invariant-restoring defense | Collaborative | Richard approved the defense benchmark and asked how to know whether it works; Argus defined joint safety/collateral criteria, executed 2,500 policy paths, retained the targeted-containment mechanism, rejected the system claim, and identified the detector-treatment confound. |
 | 2026-08-05 | EXP-031 surveillance-treatment factorial | Human-directed | Richard directed continued testing; Argus froze a 2x2 factorial, attributed safety to early warning, rejected localization superiority, retained its collateral-reduction effect, and stopped further tuning on the consumed benchmark. |
+| 2026-08-11 | Immune-system evidence and continuation audits | Human-directed | Richard selected the thread and requested more cycles; Argus reconstructed EXP-030/031, verified hashes and focused tests, audited FFIEC/Fed/EBA data paths, and withheld EXP-032 pending a defensible external response model and endpoints. |
 
 **Operating target:** research proceeds autonomously when the researcher is busy. Human input is welcomed but never required; contribution labels must continue to distinguish topic direction from hypothesis design and execution.

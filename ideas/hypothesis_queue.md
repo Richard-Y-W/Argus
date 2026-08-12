@@ -42,8 +42,8 @@ Scores are 1–5; confounding risk is worse when higher. Promotion requires a da
 | Lineage-aware financial immune controller | 5 | 3 | 3 | 5 | 5 | 5 | EXP-025–027 rejected; pause synthetic tuning, require external benchmark or point-in-time data |
 | Shock-sparse modular gene repair | 5 | 4 | 3 | 5 | 5 | 4 | EXP-028 joint claim rejected; one cross-family interaction test allowed without retuning |
 | Invariant-restoring financial defense | 5 | 3 | 4 | 5 | 5 | 4 | EXP-029 rejects danger-routed return optimization; redefine health and containment before testing |
-| Surveillance-treatment factorial defense | 5 | 5 | 4 | 5 | 5 | 2 | EXP-030 mechanism survives but early-trigger confound blocks attribution; EXP-031 priority |
-| Safety-constrained minimal intervention | 5 | 3 | 4 | 5 | 5 | 3 | EXP-031: external benchmark/data required; preregister safety noninferiority before collateral optimization |
+| Surveillance-treatment factorial defense | 5 | 5 | 4 | 5 | 5 | 2 | Completed in EXP-031; targeted safety superiority rejected, early surveillance retained internally |
+| Safety-constrained minimal intervention | 5 | 3 | 4 | 5 | 5 | 3 | 2026-08-11 audit: EBA 2025 is the best schema candidate; no EXP-032 until response model, collateral endpoint, noninferiority margin, and untouched confirmation are fixed |
 
 Next claim-bearing priority: acquire direct publication-arbitrage quantities or an external economic factor taxonomy. EXP-022–024 show that nominal factor breadth materially overstates independent breadth, exact family-level inference fails, and one 59-factor empirical family carries most equal-factor decay. Further return-only slicing has low marginal identification value. EXP-011/012 remain methodological calibrations, not alpha claims.
 

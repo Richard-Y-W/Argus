@@ -68,3 +68,9 @@ At identical triggers, localization reduced healthy-module intervention by 7.27 
 `buffer-zone surveillance -> safety-constrained minimal intervention -> recovery`
 
 The evolutionary language is no longer doing the analytical work. The remaining bio-inspired contribution is the objective of containing damage while preserving healthy function. EXP-030–031 paths are consumed and cannot support further tuning.
+
+## 2026-08-11 continuation gate
+
+An adversarial reconstruction confirmed the EXP-031 hashes, focused tests, archived contrasts, and rejection. A separate external-data audit found that FFIEC Call Reports and EBA/Federal Reserve stress-test releases can ground balance-sheet states and common stresses, but none directly identifies the counterfactual effect of targeted versus proportional intervention.
+
+The branch remains open only as a safety-constrained control question. The next admissible work is an EBA-2025 schema and response-model audit; no EXP-032 should be registered until a regulatory health endpoint, collateral-function endpoint, ex ante safety-noninferiority margin, equal-budget comparators, and untouched confirmation release are fixed. Further biological relabeling or reuse of EXP-030/031 paths is stopped.

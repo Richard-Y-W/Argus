@@ -1,0 +1,14 @@
+cluster,factors,mean_pct,sum_pct,negative_factor_share,signed_negative_total_share,absolute_contribution_share,members
+1,6,-0.18826442365156307,-1.1295865419093785,0.6666666666666666,0.05219911107935798,0.027593961139477,ncol_gr1a;oaccruals_ni;rd_me;sale_gr1;sale_gr3;taccruals_ni
+2,59,-0.33930918652823705,-20.019242005165985,0.9491525423728814,0.9251054243137777,0.4890375065894271,aliq_at;at_gr1;at_me;be_gr1a;be_me;betabab_1260d;betadown_252d;bev_mev;capx_gr1;capx_gr2;capx_gr3;chcsho_12m;coa_gr1a;col_gr1a;corr_1260d;cowc_gr1a;debt_me;dsale_dinv;earnings_variability;ebit_sale;ebitda_mev;emp_gr1;eq_dur;eqnetis_at;eqnpo_12m;eqnpo_me;eqpo_me;f_score;inv_gr1;inv_gr1a;ival_me;ivol_capm_252d;ivol_ff3_21d;kz_index;lnoa_gr1a;mispricing_mgmt;ncoa_gr1a;netis_at;ni_me;nncoa_gr1a;noa_at;noa_gr1a;oaccruals_at;ocf_me;ocfq_saleq_std;ppeinv_gr1a;qmj_growth;ret_60_12;rmax1_21d;rmax5_21d;rvol_21d;sale_me;seas_2_5na;seas_6_10na;taccruals_at;turnover_126d;zero_trades_126d;zero_trades_21d;zero_trades_252d
+3,3,0.07592829229019901,0.22778487687059704,0.3333333333333333,-0.010526124071793402,0.005564413887140719,beta_60m;beta_dimson_21d;sti_gr1a
+4,1,-0.15076941823153991,-0.15076941823153991,1.0,0.006967177208339747,0.003683051553243834,seas_16_20na
+5,4,-0.2632289637918852,-1.0529158551675408,1.0,0.048656096405154364,0.025721021022011428,iskew_ff3_21d;ret_1_0;rmax5_rvol_21d;rskew_21d
+6,1,0.2002137703527559,0.2002137703527559,0.0,-0.00925204085788321,0.0048908966190085315,coskew_21d
+7,19,-0.18579062249402903,-3.5300218273865513,0.8421052631578947,0.16312517425078485,0.08623268914107213,capex_abn;dbnetis_at;dsale_dsga;fcf_me;fnl_gr1a;nfna_gr1a;niq_su;ocf_at_chg1;prc_highprc_252d;resff3_12_1;resff3_6_1;ret_12_1;ret_12_7;ret_3_1;ret_6_1;ret_9_1;sale_emp_gr1;seas_1_1an;seas_1_1na
+8,24,0.15655122724164985,3.7572294537995967,0.16666666666666666,-0.1736246231103334,0.09178300173884506,aliq_mat;at_turnover;cop_atl1;dolvol_var_126d;ebit_bev;gp_at;mispricing_perf;ni_be;ni_inc8q;niq_at;niq_be;o_score;ocf_at;op_atl1;ope_be;opex_at;qmj;qmj_prof;qmj_safety;sale_bev;saleq_su;tax_gr1a;turnover_var_126d;z_score
+9,7,-0.07631762803240008,-0.5342233962268006,0.5714285714285714,0.024686896812437235,0.013050208273873352,at_be;debt_gr3;dgp_dsale;dsale_drec;lti_gr1a;pi_nix;tangibility
+10,3,-0.173466139020348,-0.520398417061044,1.0,0.024048033302322015,0.012712486529057652,seas_11_15an;seas_2_5an;seas_6_10an
+11,1,0.18680472297184003,0.18680472297184003,0.0,-0.008632397893191307,0.004563335410886346,seas_16_20an
+12,12,0.09775630256548341,1.173075630785801,0.5,-0.054208777179985596,0.02865632881466088,age;ami_126d;bidaskhl_21d;cash_at;dolvol_126d;market_equity;netdebt_me;ni_ar1;ni_ivol;prc;rd5_at;rd_sale
+13,1,-0.24790842877035263,-0.24790842877035263,1.0,0.011456049741013033,0.006055999514720419,seas_11_15na

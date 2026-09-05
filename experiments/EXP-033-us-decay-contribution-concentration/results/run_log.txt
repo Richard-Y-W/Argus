@@ -1,0 +1,1 @@
+clusters=13, factors=141, full_equal_factor_mean_pct=-0.15347487542651492, max_signed_negative_total_share=0.9251054243137777, top_two_absolute_contribution_share=0.5808205083282721, least_negative_leave_one_cluster_pct=-0.01976482231673923, most_negative_leave_one_cluster_pct=-0.2170699734097282, dominant_cluster=2, P1=False, P2=True, P3=False, falsifier=True, survives=False

@@ -64,6 +64,10 @@
                                                [EXP-022: effective breadth ≈13/141] ✓
                                                [EXP-023: family exact inference] ✗
                                                [EXP-024: family influence] ✗
+                                                       │ dependent archived-output audits
+                                                       ▼
+                                               [EXP-032: equal-cluster breadth] ✗
+                                               [EXP-033: contribution concentration] ✗
 ```
 
 ## Edge notes
@@ -89,3 +93,4 @@
 - EXP-015 → EXP-016 (2026-07-18): standalone JKP US decay is strong (-0.164 pp/month, t=-2.97), but the direct US-minus-world-ex-US gap remains imprecise (-0.131, t=-1.45) and fails its registered rule. Construction mismatch is a weaker explanation; geography is still not statistically distinguished.
 - EXP-016 → EXP-020/021 (2026-07-21): equal factor weighting retains -0.154 pp/month decay with 70.9% negative contrasts, and every single-factor deletion leaves the pooled coefficient between -0.170 and -0.159. Unequal histories and single-factor dominance are rejected as explanations; correlated families and direct trading quantities remain unresolved.
 - EXP-020/021 → EXP-022/023/024 (2026-07-26): pre-publication correlations reduce 141 nominal factors to 12.99 effective dimensions. Equal-family decay is only -0.070 pp/month with 8/13 negative families and exact p=0.206. Deleting one 59-factor family weakens equal-factor decay to -0.020. The pooled association remains, but the earlier cross-factor breadth interpretation is downgraded: it is concentrated in correlated constructions rather than broad independent evidence.
+- EXP-024 -> EXP-032/033 (2026-09-05): dependent audits over archived EXP-020/022 outputs confirm the breadth downgrade without claiming new raw-data replication. Equal-cluster weighting yields -0.070 pp/month (t=-1.34) with 8/13 negative clusters, and the 59-factor cluster 2 contributes 92.5% of the signed negative total. Single-factor deletion stability is not a sufficient breadth diagnostic under clustered factor dependence.

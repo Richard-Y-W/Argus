@@ -44,8 +44,10 @@ Scores are 1–5; confounding risk is worse when higher. Promotion requires a da
 | Invariant-restoring financial defense | 5 | 3 | 4 | 5 | 5 | 4 | EXP-029 rejects danger-routed return optimization; redefine health and containment before testing |
 | Surveillance-treatment factorial defense | 5 | 5 | 4 | 5 | 5 | 2 | Completed in EXP-031; targeted safety superiority rejected, early surveillance retained internally |
 | Safety-constrained minimal intervention | 5 | 2 | 4 | 5 | 5 | 3 | EBA 2025 schema audit failed intervention identification: pause until an exogenous design or independently validated response model exists |
+| Cluster-weighted US publication decay | 5 | 5 | 2 | 2 | 4 | 2 | completed as EXP-032; rejected dependent robustness audit |
+| US decay contribution concentration | 5 | 5 | 2 | 2 | 4 | 2 | completed as EXP-033; rejected broadness claim; one cluster dominates signed contribution |
 
-Next claim-bearing priority: acquire direct publication-arbitrage quantities or an external economic factor taxonomy. EXP-022–024 show that nominal factor breadth materially overstates independent breadth, exact family-level inference fails, and one 59-factor empirical family carries most equal-factor decay. Further return-only slicing has low marginal identification value. EXP-011/012 remain methodological calibrations, not alpha claims.
+Next claim-bearing priority: acquire direct publication-arbitrage quantities or an external economic factor taxonomy. EXP-022-024 and EXP-032/033 show that nominal factor breadth materially overstates independent breadth, exact family-level inference fails, equal-cluster weighting rejects broad decay, and one 59-factor empirical family carries most signed equal-factor decay. Further return-only slicing has low marginal identification value. EXP-011/012 remain methodological calibrations, not alpha claims.
 
 Paused digital-asset branch: EVE Ref's regional and global PLEX books are verified around the July 2025 pooling event, but the researcher paused this program on 2026-08-03. Preserve the archive reconstruction and do not select controls, estimate effects, or transfer its design choices into genetics until explicitly resumed. Roblox's 2026 DevEx cohort schedule remains a latent causal design requiring private creator transactions. Developer credibility remains blocked on expectations or microdata.
 

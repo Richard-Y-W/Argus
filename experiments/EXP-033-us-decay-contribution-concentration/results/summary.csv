@@ -1,0 +1,2 @@
+clusters,factors,full_equal_factor_mean_pct,max_signed_negative_total_share,top_two_absolute_contribution_share,least_negative_leave_one_cluster_pct,most_negative_leave_one_cluster_pct,dominant_cluster,P1,P2,P3,falsifier,survives
+13,141,-0.15347487542651492,0.9251054243137777,0.5808205083282721,-0.01976482231673923,-0.2170699734097282,2,False,True,False,True,False

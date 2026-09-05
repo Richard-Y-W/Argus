@@ -1,0 +1,1 @@
+clusters=13, factors=141, equal_cluster_mean_pct=-0.0698308073152636, equal_cluster_median_pct=-0.15076941823153991, cluster_t=-1.3364499875100693, negative_cluster_share=0.6153846153846154, minimum_cluster_pct=-0.33930918652823705, maximum_cluster_pct=0.2002137703527559, P1=False, P2=False, P3=False, falsifier=False, survives=False

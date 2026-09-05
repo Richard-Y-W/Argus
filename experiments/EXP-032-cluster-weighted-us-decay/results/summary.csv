@@ -1,0 +1,2 @@
+clusters,factors,equal_cluster_mean_pct,equal_cluster_median_pct,cluster_t,negative_cluster_share,minimum_cluster_pct,maximum_cluster_pct,P1,P2,P3,falsifier,survives
+13,141,-0.0698308073152636,-0.15076941823153991,-1.3364499875100693,0.6153846153846154,-0.33930918652823705,0.2002137703527559,False,False,False,False,False

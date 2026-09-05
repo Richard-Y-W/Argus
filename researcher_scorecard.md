@@ -4,7 +4,7 @@
 
 **Researcher:** Richard
 **Started:** 2026-07-09
-**Last updated:** 2026-08-11 (immune-system continuation review)
+**Last updated:** 2026-09-05 (dependence-cluster breadth audits)
 
 ---
 
@@ -52,7 +52,7 @@ Mastery scale: `0 — unaware` · `1 — heard of it` · `2 — can follow` · `
 | Replications completed | 0 |
 | Novel experiments | 0 |
 | Robustness analyses | 0 |
-| Negative results documented | 14 (prior 11 plus EXP-025–027 at lab level; researcher not yet author of one) |
+| Negative results documented | 16 (prior 14 plus EXP-032/033 dependent robustness rejections; researcher not yet author of one) |
 | Statistical mistakes caught before execution | 0 |
 
 ## Scientific Judgment — Milestone Log
@@ -89,6 +89,7 @@ Record dated, concrete examples where the researcher: changed their mind after e
 - **2026-08-05 — Continued testing removed the flattering explanation.** Richard directed Argus to keep going. EXP-031 held timing and restoration targets constant, showing that early surveillance—not localization—caused EXP-030's safety advantage. Targeting still preserved healthy exposure, but its superiority claim failed. The program stopped the consumed simulator instead of relabeling comparable safety as success.
 - **2026-08-11 — Continuation was conditioned on identification rather than enthusiasm.** Richard asked whether the immune-system work should continue. The review preserved the negative EXP-031 treatment verdict, separated the useful safety-constrained-control question from the biological metaphor, and limited continuation to an external schema-and-identification audit before any new experiment.
 - **2026-08-11 — External-looking evidence was rejected when its counterfactual remained internal.** Richard authorized the EBA follow-up. The lab pinned a rich supervisory release but did not mistake data volume for identification: because intervention responses would still be imposed by the model, EXP-032 was withheld and the branch paused.
+- **2026-09-05 - Dependence-aware breadth tightened again.** Richard requested more quant experiments. Because raw JKP files were absent, Argus registered dependent audits over archived outputs rather than claiming fresh replication. EXP-032 rejected equal-cluster breadth, and EXP-033 showed one 59-factor cluster contributed 92.5% of the signed negative total. The lab downgraded breadth language instead of treating the stable equal-factor mean as broad independent evidence.
 
 ## Contribution Attribution Ledger
 
@@ -138,5 +139,6 @@ Each research cycle gets one of four levels (defined in the charter §Contributi
 | 2026-08-05 | EXP-031 surveillance-treatment factorial | Human-directed | Richard directed continued testing; Argus froze a 2x2 factorial, attributed safety to early warning, rejected localization superiority, retained its collateral-reduction effect, and stopped further tuning on the consumed benchmark. |
 | 2026-08-11 | Immune-system evidence and continuation audits | Human-directed | Richard selected the thread and requested more cycles; Argus reconstructed EXP-030/031, verified hashes and focused tests, audited FFIEC/Fed/EBA data paths, and withheld EXP-032 pending a defensible external response model and endpoints. |
 | 2026-08-11 | EBA 2025 schema and identification gate | Human-directed | Richard authorized the external-data continuation; Argus downloaded and fingerprinted the official five-file release, profiled its schema, found solvency but no liquidity or intervention-response identification, and stopped before registering EXP-032. |
+| 2026-09-05 | EXP-032/033 dependence-cluster breadth audits | AI-led | Richard requested more quant work and delegated selection; Argus found raw JKP data absent, registered dependent robustness audits over archived EXP-020/022 outputs, rejected equal-cluster breadth, and documented signed contribution concentration in one 59-factor cluster. |
 
 **Operating target:** research proceeds autonomously when the researcher is busy. Human input is welcomed but never required; contribution labels must continue to distinguish topic direction from hypothesis design and execution.

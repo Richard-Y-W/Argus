@@ -1,0 +1,15 @@
+{
+  "source_event_sample": "Hwang 2013 Table 2, DOI 10.1371/journal.pone.0071966",
+  "clinicaltrials_version_holder": "2026-08-21",
+  "evidence_status": "exploratory current-record feasibility only; not historical and not claim eligible",
+  "events": 24,
+  "positive_events": 16,
+  "negative_events": 8,
+  "positive_with_current_collaborator": 4,
+  "negative_with_current_collaborator": 3,
+  "positive_rate": 0.25,
+  "negative_rate": 0.375,
+  "odds_ratio_positive_outcome": 0.5555555555555556,
+  "fisher_exact_two_sided_p": 0.6466264475417794,
+  "claim_eligible": false
+}

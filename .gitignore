@@ -5,6 +5,7 @@ __pycache__/
 venv/
 .ipynb_checkpoints/
 *.egg-info/
+.tmp/
 
 # Raw data stays out of git — document provenance in datasets/ instead
 datasets/raw/

@@ -1,0 +1,18 @@
+{
+  "decision": "Yahoo cannot support the study if any historical event is absent; a delisting-complete source remains required",
+  "events": 8,
+  "evidence_status": "coverage audit only; no returns calculated",
+  "provider": "Yahoo public chart endpoint",
+  "rows": [
+    {"error": "HTTPError", "event_id": "SBP3F-001", "has_252_pre_and_100_post_sessions": false, "identity_matches_sponsor": false, "observations": 0, "provider_name": null, "ticker": "TORC", "usable_after_identity_check": false},
+    {"error": "HTTPError", "event_id": "SBP3F-002", "has_252_pre_and_100_post_sessions": false, "identity_matches_sponsor": false, "observations": 0, "provider_name": null, "ticker": "VTL", "usable_after_identity_check": false},
+    {"error": null, "event_id": "SBP3F-003", "has_252_pre_and_100_post_sessions": true, "identity_matches_sponsor": true, "observations": 1109, "provider_name": "Prothena Corporation plc", "ticker": "PRTA", "usable_after_identity_check": true},
+    {"error": null, "event_id": "SBP3F-004", "has_252_pre_and_100_post_sessions": true, "identity_matches_sponsor": true, "observations": 1109, "provider_name": "Axovant Sciences Ltd. Common Shares", "ticker": "AXON", "usable_after_identity_check": true},
+    {"error": "HTTPError", "event_id": "SBP3F-005", "has_252_pre_and_100_post_sessions": false, "identity_matches_sponsor": false, "observations": 0, "provider_name": null, "ticker": "FOLD", "usable_after_identity_check": false},
+    {"error": "HTTPError", "event_id": "SBP3F-006", "has_252_pre_and_100_post_sessions": false, "identity_matches_sponsor": false, "observations": 0, "provider_name": null, "ticker": "IMGN", "usable_after_identity_check": false},
+    {"error": "HTTPError", "event_id": "SBP3F-007", "has_252_pre_and_100_post_sessions": false, "identity_matches_sponsor": false, "observations": 0, "provider_name": null, "ticker": "SAGE", "usable_after_identity_check": false},
+    {"error": "HTTPError", "event_id": "SBP3F-008", "has_252_pre_and_100_post_sessions": false, "identity_matches_sponsor": false, "observations": 0, "provider_name": null, "ticker": "TTPH", "usable_after_identity_check": false}
+  ],
+  "usable_events": 2,
+  "window_covered_events": 2
+}

@@ -28,8 +28,8 @@ Scores are 1–5; confounding risk is worse when higher. Promotion requires a da
 | Developer monetary-policy credibility | 5 | 2 | 4 | 5 | 5 | 5 | measurement protocol specified; blocked on expectations or microdata |
 | Common digital-asset factor | 5 | 2 | 3 | 3 | 4 | 5 | deferred; point-in-time and execution concerns |
 | Virtual assets and sovereign currency substitution | 5 | 1 | 4 | 4 | 5 | 5 | deferred; needs geography/payment data |
-| Composition-robust inflation-disagreement curve | 5 | 5 | 4 | 4 | 5 | 3 | priority macro candidate; SPF schema audit first |
-| Real-time vintage fragility of macro model rankings | 5 | 5 | 3 | 4 | 5 | 2 | queued; RTDSM release-map audit first |
+| Composition-robust inflation-disagreement curve | 5 | 5 | 4 | 4 | 5 | 3 | SPF gate split: five point horizons feasible; three-horizon density version blocked; freeze point estimand before registration |
+| Real-time vintage fragility of macro model rankings | 5 | 5 | 3 | 4 | 5 | 2 | three-target quarterly gate passed on 129 common vintages; release-status and transformation audit next |
 | FOMC shock-taxonomy stability | 5 | 3 | 4 | 5 | 5 | 3 | queued; intraday data and license audit first |
 | Treasury maturity-composition announcement shocks | 5 | 4 | 4 | 5 | 5 | 4 | queued; requires point-in-time issuance expectations |
 | Spatial diffusion of regional PLEX quote gaps | 5 | 5 | 4 | 5 | 5 | 3 | paused by researcher 2026-08-03; quarantined from genetics |
@@ -46,6 +46,21 @@ Scores are 1–5; confounding risk is worse when higher. Promotion requires a da
 | Safety-constrained minimal intervention | 5 | 2 | 4 | 5 | 5 | 3 | EBA 2025 schema audit failed intervention identification: pause until an exogenous design or independently validated response model exists |
 | Cluster-weighted US publication decay | 5 | 5 | 2 | 2 | 4 | 2 | completed as EXP-032; rejected dependent robustness audit |
 | US decay contribution concentration | 5 | 5 | 2 | 2 | 4 | 2 | completed as EXP-033; rejected broadness claim; one cluster dominates signed contribution |
+| Pre-readout scientific probability | 5 | 2 | 4 | 4 | 5 | 5 | exploration; historical ClinicalTrials.gov version and security-linkage audit first |
+| Complexity-conditioned clinical-readout drift | 5 | 3 | 4 | 5 | 5 | 4 | leading biotech candidate; return-blind gold event ledger first |
+| Lead-asset exposure and immediate repricing | 5 | 3 | 2 | 5 | 4 | 4 | required baseline; point-in-time exposure measurement unresolved |
+| Costly asset-specific collaborator commitment | 5 | 3 | 4 | 5 | 5 | 5 | exploration; return-blind 30-event source and coding pilot first |
+| Any ClinicalTrials.gov collaborator predicts success | 5 | 4 | 2 | 2 | 3 | 5 | broad proxy rejected in current-record Hwang probe; historically contaminated and only 7/24 exposed |
+| Independent collaborator-signal corroboration | 5 | 2 | 4 | 5 | 4 | 5 | secondary; requires deduplicated underlying commitments |
+| Public collaborator-security readout spillover | 5 | 3 | 3 | 4 | 4 | 4 | separate event-exposure question; do not conflate with early signal |
+| Scientific-quality-conditioned post-readout drift | 5 | 4 | 4 | 5 | 5 | 4 | leading original biotech return candidate; freeze evidence rubric before returns |
+| Small-biotech Phase III failure reversal | 5 | 3 | 2 | 4 | 5 | 4 | active pause pending institutional WRDS/CRSP decision; CRSP adapter tested; survivor-only free test prohibited |
+| Mechanism-matched competitor read-through | 5 | 2 | 5 | 5 | 5 | 5 | queued; target-validation and competition signs must be frozen |
+| Public pre-readout run-up decomposition | 5 | 3 | 4 | 4 | 5 | 5 | mechanism test; unexplained run-up may be private leakage, not public alpha |
+| Operational readout-timing and volatility signal | 5 | 4 | 3 | 4 | 4 | 4 | queued; predicts event timing rather than efficacy direction |
+| Options-implied versus scientific probability | 5 | 1 | 4 | 5 | 5 | 4 | deferred pending historical option quotes and valuation model |
+| Financing and insider-action residuals | 5 | 4 | 3 | 3 | 4 | 5 | queued behind cash-runway and 10b5-1 controls |
+| Positive-clinical-spike reversal | 5 | 3 | 3 | 3 | 4 | 5 | exact large-firm +1-to-+20 sandbox rule rejected; no threshold/exit tuning on consumed seed |
 
 Next claim-bearing priority: acquire direct publication-arbitrage quantities or an external economic factor taxonomy. EXP-022-024 and EXP-032/033 show that nominal factor breadth materially overstates independent breadth, exact family-level inference fails, equal-cluster weighting rejects broad decay, and one 59-factor empirical family carries most signed equal-factor decay. Further return-only slicing has low marginal identification value. EXP-011/012 remain methodological calibrations, not alpha claims.
 
@@ -53,7 +68,11 @@ Paused digital-asset branch: EVE Ref's regional and global PLEX books are verifi
 
 PLEX engineering update: 121 daily indexes and 120 fixed-time candidates are pinned; regional cancellation and global formation are separately bounded on July 7 at half-hour resolution. This state is frozen under `research_governance/2026-08-03-plex-pause-and-genetics-quarantine.md`; no next step is active.
 
-Macro-quant discovery priority: audit the SPF's historical individual-response schema, respondent continuity, comparable inflation horizons, and probability-bin changes. If those pass, promote the composition-robust inflation-disagreement curve ahead of return prediction. In parallel, inventory RTDSM vintages and release mappings as reusable point-in-time infrastructure. FOMC and Treasury-supply branches remain design-stage until their intraday instruments and historical expectations can be reconstructed without proxying away the identifying variation.
+Macro-quant discovery update: the SPF supports five quarterly core-PCE point horizons from 2007:Q1, but PRCPCE supplies only two annual density horizons. Do not promote the original three-horizon density design or interchange density and point estimands. Freeze a point-disagreement population and composition sensitivity next. ROUTPUT, CPI, and RUC share 129 nonempty quarterly RTDSM vintages from 1994:Q3; build release-status and transformation metadata before registration. FOMC and Treasury-supply branches remain design-stage until their intraday instruments and historical expectations can be reconstructed without proxying away the identifying variation.
+
+Clinical-evidence pricing priority: build a return-blind 100–200 event Phase III gold ledger and prove historical trial-version recovery, exact announcement timing, sponsor/security lineage, delisting coverage, and concurrent-news coding. Current ClinicalTrials.gov records contain later actual enrollment and results and are not point-in-time evidence. Do not register a return experiment or tune a scientific-complexity score until those gates pass. Vaccines are a subgroup candidate; COVID is a separately flagged regime, not the universe.
+
+Collaborator-signal subpriority: first run a 30-event feasibility and coding-reliability slice inside the larger clinical gold ledger. Lead with costly, asset-specific external commitments; treat generic syringe/vial procurement as a preparedness control and insurance changes as deprioritized. Historical public availability, not contract action date, governs eligibility.
 
 Cross-disciplinary methods priority: financial genetics is active; PLEX-based physics is paused and quarantined. Do not reuse the consumed EXP-025–027 AR(1) paths. Require an externally specified benchmark or a point-in-time historical design, log every evaluated genome, give non-evolutionary baselines the same budget, and preserve an untouched evaluation boundary. Strategy ecology requires capital or participant-abundance data and cannot be inferred from prices alone.
 

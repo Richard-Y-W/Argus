@@ -1,0 +1,51 @@
+{
+  "evidence_status": "exploratory sandbox only; mutable prices; not claim eligible",
+  "large_firm_failure_path_placebo": {
+    "design": "XBI-adjusted long close[+2] to close[+100] after negative event; Hwang large-firm sample",
+    "mean_after_fixed_50bp_cost": 0.018743466519885402,
+    "scope_warning": "wrong universe for the proposed small-biotech failure-reversal replication",
+    "summary": {"events": 8, "mean": 0.023743466519885403, "median": -0.0062112154232887296, "positive_fraction": 0.5, "t_interval_high": 0.17430377942186318, "t_interval_low": -0.12681684638209237},
+    "rows": [
+      {"abnormal_return": -0.19192294797262388, "end_session": "2013-07-02", "event_id": "HWANG-003", "outcome": "negative", "start_session": "2013-02-11", "ticker": "LLY"},
+      {"abnormal_return": 0.43857259678667604, "end_session": "2013-05-29", "event_id": "HWANG-005", "outcome": "negative", "start_session": "2013-01-07", "ticker": "BIIB"},
+      {"abnormal_return": 0.003485084475998601, "end_session": "2013-01-03", "event_id": "HWANG-010", "outcome": "negative", "start_session": "2012-08-10", "ticker": "AMGN"},
+      {"abnormal_return": 0.03313281319929873, "end_session": "2012-12-31", "event_id": "HWANG-011", "outcome": "negative", "start_session": "2012-08-08", "ticker": "PFE"},
+      {"abnormal_return": -0.021151492634403413, "end_session": "2012-12-27", "event_id": "HWANG-012", "outcome": "negative", "start_session": "2012-08-06", "ticker": "BMY"},
+      {"abnormal_return": 0.19812159871786994, "end_session": "2012-12-04", "event_id": "HWANG-013", "outcome": "negative", "start_session": "2012-07-13", "ticker": "LLY"},
+      {"abnormal_return": -0.2543824050911567, "end_session": "2012-05-17", "event_id": "HWANG-022", "outcome": "negative", "start_session": "2011-12-27", "ticker": "BMY"},
+      {"abnormal_return": -0.01590751532257606, "end_session": "2011-06-27", "event_id": "HWANG-024", "outcome": "negative", "start_session": "2011-02-04", "ticker": "BMY"}
+    ]
+  },
+  "runup_premise": {
+    "design": "SPY-adjusted close[-120] to close[-3] by paper-coded outcome",
+    "difference_in_means_positive_minus_negative": 0.007502595634223341,
+    "negative": {"events": 8, "mean": 0.08522192692057716, "median": 0.10669374382930952, "positive_fraction": 0.75, "t_interval_high": 0.18427565000192503, "t_interval_low": -0.01383179616077071},
+    "positive": {"events": 16, "mean": 0.0927245225548005, "median": 0.05652828826260048, "positive_fraction": 0.6875, "t_interval_high": 0.17140621703567493, "t_interval_low": 0.014042828073926067},
+    "rows": [
+      {"abnormal_return": 0.05256120433195366, "event_id": "HWANG-001", "outcome": "positive", "ticker": "AMGN"},
+      {"abnormal_return": 0.37824486109492117, "event_id": "HWANG-002", "outcome": "positive", "ticker": "GILD"},
+      {"abnormal_return": 0.19066944651602968, "event_id": "HWANG-003", "outcome": "negative", "ticker": "LLY"},
+      {"abnormal_return": -0.10117767982649628, "event_id": "HWANG-004", "outcome": "positive", "ticker": "BIIB"},
+      {"abnormal_return": -0.02824597586217692, "event_id": "HWANG-005", "outcome": "negative", "ticker": "BIIB"},
+      {"abnormal_return": 0.0604953721932473, "event_id": "HWANG-006", "outcome": "positive", "ticker": "PFE"},
+      {"abnormal_return": 0.21621548483544184, "event_id": "HWANG-007", "outcome": "positive", "ticker": "GILD"},
+      {"abnormal_return": 0.0808475185554196, "event_id": "HWANG-008", "outcome": "positive", "ticker": "PFE"},
+      {"abnormal_return": 0.1472571876250668, "event_id": "HWANG-009", "outcome": "positive", "ticker": "BIIB"},
+      {"abnormal_return": 0.16537785060017707, "event_id": "HWANG-010", "outcome": "negative", "ticker": "AMGN"},
+      {"abnormal_return": 0.11644504760400709, "event_id": "HWANG-011", "outcome": "negative", "ticker": "PFE"},
+      {"abnormal_return": 0.09694244005461194, "event_id": "HWANG-012", "outcome": "negative", "ticker": "BMY"},
+      {"abnormal_return": 0.04762612031215352, "event_id": "HWANG-013", "outcome": "negative", "ticker": "LLY"},
+      {"abnormal_return": -0.0173245166115934, "event_id": "HWANG-014", "outcome": "positive", "ticker": "BMY"},
+      {"abnormal_return": 0.0473476848797727, "event_id": "HWANG-015", "outcome": "positive", "ticker": "LLY"},
+      {"abnormal_return": 0.12848514116197074, "event_id": "HWANG-016", "outcome": "positive", "ticker": "AMGN"},
+      {"abnormal_return": -0.029495029736585465, "event_id": "HWANG-017", "outcome": "positive", "ticker": "AMGN"},
+      {"abnormal_return": -0.12904282288292634, "event_id": "HWANG-018", "outcome": "positive", "ticker": "LLY"},
+      {"abnormal_return": -0.032368645188530776, "event_id": "HWANG-019", "outcome": "positive", "ticker": "AMGN"},
+      {"abnormal_return": 0.03365033958139896, "event_id": "HWANG-020", "outcome": "positive", "ticker": "MRK"},
+      {"abnormal_return": 0.18078045806323928, "event_id": "HWANG-021", "outcome": "positive", "ticker": "GILD"},
+      {"abnormal_return": 0.27786755043902833, "event_id": "HWANG-022", "outcome": "negative", "ticker": "BMY"},
+      {"abnormal_return": 0.46711580280050824, "event_id": "HWANG-023", "outcome": "positive", "ticker": "BIIB"},
+      {"abnormal_return": -0.18490706429921344, "event_id": "HWANG-024", "outcome": "negative", "ticker": "BMY"}
+    ]
+  }
+}

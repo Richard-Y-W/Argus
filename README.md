@@ -6,17 +6,19 @@ It is not a trading bot, an alpha claim, or financial advice. Its objective is c
 
 [Charter](ARGUS_CHARTER.md) · [Operating rules](CLAUDE.md) · [Agent guidance](AGENTS.md) · [Research journal](research_journal/) · [Hypothesis queue](ideas/hypothesis_queue.md) · [Researcher scorecard](researcher_scorecard.md)
 
-## Current state — 2026-08-11
+## Current state — 2026-09-09
 
-- **31 registered experiments completed.** The repository contains 20 failed/inconclusive experiment records and 11 surviving records; a surviving artifact is still bounded by its written identification limits.
+- **33 registered experiments completed.** The repository contains 21 failed/inconclusive experiment records and 12 surviving records; a surviving artifact is still bounded by its written identification limits.
 - **Publication-decay evidence survives, mechanism evidence does not.** US predictors weaken after publication across two portfolio libraries and numerous robustness checks, but correlated-family concentration materially weakens breadth and there is no direct evidence of arbitrage capital, trading quantities, costs, or price impact.
 - **Financial-genetics claims are rejected or paused.** EXP-025–029 found isolated properties of local mutation, diversity, and targeted repair, but no robust evolutionary or immune-controller advantage over equal-budget conventional alternatives.
 - **The immune-system analogy produced one useful reframing.** The objective shifted from maximizing returns to preserving viable function subject to leverage/liquidity safety constraints.
 - **EXP-031 separated surveillance from treatment.** Earlier boundary surveillance reduced invariant damage under both proportional and targeted responses. Targeting preserved 6–7 more units of healthy exposure but did not improve safety.
-- **The external-data gate stopped EXP-032.** The EBA 2025 release supplies real bank states and projected solvency outcomes, but no operational liquidity endpoint or empirical response from selective exposure cuts to later safety. A targeted intervention test would therefore be driven by researcher-imposed equations.
+- **The external-data gate stopped the proposed financial-defense successor before registration.** The EBA 2025 release supplies real bank states and projected solvency outcomes, but no operational liquidity endpoint or empirical response from selective exposure cuts to later safety. A targeted intervention test would therefore be driven by researcher-imposed equations. Experiment numbers 032 and 033 now belong to the separate dependence-cluster audits.
 - **The financial-defense branch is paused** pending an exogenous institutional intervention or an independently validated structural response model with untouched confirmation data.
+- **Clinical-evidence pricing is at the exploration gate.** Prior work establishes large clinical-outcome reactions, but Argus has not shown predictability or delayed incorporation. A point-in-time event-ledger audit must precede any return test.
+- **Two macro data gates are now resolved.** SPF supports a five-horizon point-disagreement design but not the proposed three-horizon density design. Three RTDSM targets share 129 quarterly vintages, while exact release-status mapping remains unfinished.
 
-The latest decisions are documented in the [immune-system continuation review](research_journal/2026-08-11-immune-system-continuation-review.md), [EBA schema audit](source_scouting/2026-08-11-eba-2025-schema-audit.md), and [financial-genetics knowledge graph](knowledge_graph/financial-genetics-thread.md).
+The latest decisions are documented in the [SPF schema audit](source_scouting/2026-09-09-spf-composition-schema-audit.md), [RTDSM vintage audit](source_scouting/2026-09-09-rtdsm-vintage-release-map-audit.md), and [clinical-evidence scouting audit](source_scouting/2026-08-21-clinical-evidence-mispricing.md).
 
 ## Evidence at a glance
 
@@ -60,7 +62,7 @@ safety-constrained minimal intervention
 recovery while preserving viable function
 ```
 
-The [EBA 2025 dataset audit](datasets/eba_2025_stress_test.md) inspected and fingerprinted 1,194,554 public observations across 64 banks. It improved external realism but failed the intervention-identification gate, so no HYP-032 or EXP-032 was registered.
+The [EBA 2025 dataset audit](datasets/eba_2025_stress_test.md) inspected and fingerprinted 1,194,554 public observations across 64 banks. It improved external realism but failed the intervention-identification gate, so no financial-defense successor was registered.
 
 ![Experiment verdict history](visualizations/generated/experiment_verdicts.png)
 
@@ -72,6 +74,7 @@ Negative results are intentional outputs. A laboratory where nearly every hypoth
 - **Publication mechanism:** the next claim-bearing priority is direct quantities—short interest, turnover, holdings, lending fees, flows, or price impact—or an external economic factor taxonomy.
 - **Virtual economies / PLEX:** data reconstruction is preserved but paused under [research governance](research_governance/2026-08-03-plex-pause-and-genetics-quarantine.md). It is quarantined from financial-genetics design choices.
 - **Financial defense:** paused after the EBA identification failure. Do not reuse EXP-030/031 paths or revive biological labels without a distinct falsifiable mechanism.
+- **Clinical-evidence pricing:** exploratory point-in-time engineering is active; no HYP/EXP is registered and no return or alpha result exists.
 
 The [live hypothesis queue](ideas/hypothesis_queue.md) is authoritative when this summary and a detailed artifact differ.
 

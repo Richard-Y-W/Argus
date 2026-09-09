@@ -1,0 +1,34 @@
+{
+  "design": "positive paper-coded events; enter short at close +1; exit close +20; SPY-adjusted; 50 bp fixed round-trip cost",
+  "evidence_status": "exploratory sandbox only; not claim eligible",
+  "price_source": "Yahoo public chart endpoint, retrieved at run time",
+  "rows": [
+    {"eligible": true, "event_id": "HWANG-001", "event_session": "2013-03-19", "future_abnormal_return": 0.1673614056003494, "gross_short_abnormal_return": -0.1673614056003494, "initial_abnormal_return": 0.035845346694559854, "ticker": "AMGN"},
+    {"eligible": true, "event_id": "HWANG-002", "event_session": "2013-03-05", "future_abnormal_return": 0.03992555317126745, "gross_short_abnormal_return": -0.03992555317126745, "initial_abnormal_return": 0.024543734040257892, "ticker": "GILD"},
+    {"eligible": true, "event_id": "HWANG-004", "event_session": "2013-01-24", "future_abnormal_return": 0.11357158574212267, "gross_short_abnormal_return": -0.11357158574212267, "initial_abnormal_return": 0.012569297272542856, "ticker": "BIIB"},
+    {"eligible": true, "event_id": "HWANG-006", "event_session": "2012-12-05", "future_abnormal_return": -0.024564805447969684, "gross_short_abnormal_return": 0.024564805447969684, "initial_abnormal_return": 0.012313024543410434, "ticker": "PFE"},
+    {"eligible": true, "event_id": "HWANG-007", "event_session": "2012-11-12", "future_abnormal_return": 0.009208271624607356, "gross_short_abnormal_return": -0.009208271624607356, "initial_abnormal_return": 0.12081371694782217, "ticker": "GILD"},
+    {"eligible": true, "event_id": "HWANG-008", "event_session": "2012-10-11", "future_abnormal_return": 0.0007474936211978589, "gross_short_abnormal_return": -0.0007474936211978589, "initial_abnormal_return": 0.0011325504509143158, "ticker": "PFE"},
+    {"eligible": false, "event_id": "HWANG-009", "event_session": "2012-09-26", "future_abnormal_return": -0.032367340392445154, "gross_short_abnormal_return": 0.032367340392445154, "initial_abnormal_return": -0.01761919691761249, "ticker": "BIIB"},
+    {"eligible": false, "event_id": "HWANG-014", "event_session": "2012-07-02", "future_abnormal_return": 0.017582079128152017, "gross_short_abnormal_return": -0.017582079128152017, "initial_abnormal_return": -0.029308453230311615, "ticker": "BMY"},
+    {"eligible": false, "event_id": "HWANG-015", "event_session": "2012-05-22", "future_abnormal_return": 0.0041103347477335905, "gross_short_abnormal_return": -0.0041103347477335905, "initial_abnormal_return": -0.0012882837040200101, "ticker": "LLY"},
+    {"eligible": true, "event_id": "HWANG-016", "event_session": "2012-05-16", "future_abnormal_return": -0.021645806020104574, "gross_short_abnormal_return": 0.021645806020104574, "initial_abnormal_return": 0.01661813054939243, "ticker": "AMGN"},
+    {"eligible": false, "event_id": "HWANG-017", "event_session": "2012-03-28", "future_abnormal_return": 0.05204402006332165, "gross_short_abnormal_return": -0.05204402006332165, "initial_abnormal_return": -0.0005677037357361137, "ticker": "AMGN"},
+    {"eligible": false, "event_id": "HWANG-018", "event_session": "2012-03-28", "future_abnormal_return": 0.023521841984836422, "gross_short_abnormal_return": -0.023521841984836422, "initial_abnormal_return": -0.0007927455531123728, "ticker": "LLY"},
+    {"eligible": true, "event_id": "HWANG-019", "event_session": "2012-03-26", "future_abnormal_return": 0.03943561597179901, "gross_short_abnormal_return": -0.03943561597179901, "initial_abnormal_return": 0.006367816308392227, "ticker": "AMGN"},
+    {"eligible": true, "event_id": "HWANG-020", "event_session": "2012-03-05", "future_abnormal_return": -0.01718430595063647, "gross_short_abnormal_return": 0.01718430595063647, "initial_abnormal_return": 0.005725354733933541, "ticker": "MRK"},
+    {"eligible": true, "event_id": "HWANG-021", "event_session": "2012-02-03", "future_abnormal_return": -0.1920133713403096, "gross_short_abnormal_return": 0.1920133713403096, "initial_abnormal_return": 0.12294035368575407, "ticker": "GILD"},
+    {"eligible": false, "event_id": "HWANG-023", "event_session": "2011-08-09", "future_abnormal_return": 0.02248750701886415, "gross_short_abnormal_return": -0.02248750701886415, "initial_abnormal_return": -0.03401697738071441, "ticker": "BIIB"}
+  ],
+  "summary": {
+    "eligible_events": 10,
+    "events": 16,
+    "mean_after_fixed_cost": -0.01648416369723234,
+    "mean_gross_short_abnormal_return": -0.011484163697232342,
+    "median_gross_short_abnormal_return": -0.004977882622902607,
+    "passes_frozen_sandbox_rule": false,
+    "positive_fraction": 0.4,
+    "t_interval_high": 0.04733777671776518,
+    "t_interval_low": -0.07030610411222986
+  }
+}
